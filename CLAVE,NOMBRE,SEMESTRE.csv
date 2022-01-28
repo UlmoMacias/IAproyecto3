@@ -1,64 +1,72 @@
 CLAVE,NOMBRE,SEMESTRE
-5,�lgebra Lineal I,3
-1326,Matem�ticas para las Ciencias Aplicadas III,3
-1323,Modelado y Programaci�n,3
+7,Álgebra Superior I,1
+1123,Estructuras Discretas,1
+1125,Introducción a las Ciencias de la Computación,1
+1126,Matemáticas para las Ciencias Aplicadas I,1
+8,Álgebra Superior II,2
+1222,Estructuras de Datos,2
+422,Gráficas y Juegos,2
+1226,Matemáticas para las Ciencias Aplicadas II,2
+5,Álgebra Lineal I,3
+1326,Matemáticas para las Ciencias Aplicadas III,3
+1323,Modelado y Programación,3
 625,Probabilidad I,3
-1425,Aut�matas y Lenguajes Formales,4
-1427,L�gica Computacional,4
-1429,Matem�ticas para las Ciencias Aplicadas IV,4
-1428,Organizaci�n y Arquitectura de Computadoras,4
-249,Geometr�a Moderna I,O
-803,Graficaci�n por Computadoras,O
-668,Ingenier�a de Software II,O
-669,Introducci�n a la Criptograf�a,O
-351,Introducci�n a las Funciones Recursivas y Computabilidad,O
-1048,Introducci�n a los Sistemas Complejos,O
-1506,Investigaci�n de Operaciones,O
+1425,Autómatas y Lenguajes Formales,4
+1427,Lógica Computacional,4
+1429,Matemáticas para las Ciencias Aplicadas IV,4
+1428,Organización y Arquitectura de Computadoras,4
+249,Geometría Moderna I,O
+803,Graficación por Computadoras,O
+668,Ingeniería de Software II,O
+669,Introducción a la Criptografía,O
+351,Introducción a las Funciones Recursivas y Computabilidad,O
+1048,Introducción a los Sistemas Complejos,O
+1506,Investigación de Operaciones,O
 1047,La Sustentabilidad del Desarrollo,O
-670,Lenguajes de Programaci�n II,O
-819,Ling��stica Computacional,O
-671,L�gica Computacional II,O
-446,L�gica Matem�tica II,O
-447,L�gica Matem�tica III,O
-672,M�todos Formales,O
-673,M�tricas de Software,O
-291,M�xico: Naci�n Multicultural,O
+670,Lenguajes de Programación II,O
+819,Lingüística Computacional,O
+671,Lógica Computacional II,O
+446,Lógica Matemática II,O
+447,Lógica Matemática III,O
+672,Métodos Formales,O
+673,Métricas de Software,O
+291,México: Nación Multicultural,O
 932,Movilidad I,O
 933,Movilidad II,O
 934,Movilidad III,O
 936,Movilidad IV,O
-674,Patrones de Dise�o de Software,O
+674,Patrones de Diseño de Software,O
 626,Probabilidad II,O
-805,Proceso Digital de Im�genes,O
-1613,Procesos Estoc�sticos,O
-676,Programaci�n Declarativa,O
-783,Seminario de Ciencias de la Computación A,O
-784,Seminario de Ciencias de la Computación B,O
-785,Sistemas de Información Geográfica,O
-786,Sistemas Dinámicos Computacionales I,O
-787,Sistemas Dinámicos Computacionales II,O
+805,Proceso Digital de Imágenes,O
+1613,Procesos Estocásticos,O
+676,Programación Declarativa,O
+783,Seminario de Ciencias de la ComputaciÃ³n A,O
+784,Seminario de Ciencias de la ComputaciÃ³n B,O
+785,Sistemas de InformaciÃ³n GeogrÃ¡fica,O
+786,Sistemas DinÃ¡micos Computacionales I,O
+787,Sistemas DinÃ¡micos Computacionales II,O
 826,Sistemas Manejadores de Bases de Datos,O
 788,Taller de Ejercicio Profesional A,O
 789,Taller de Ejercicio Profesional B,O
-790,Tecnologías para Desarrollos en Internet,O
-1089,Tecnologías para Desarrollos en Internet,O
-791,Teoría de Códigos,8
-759,Teoría de Gráficas,O
-792,Teoría de la Concurrencia,O
-793,Teoría de la Información,O
-277,Teoría de las Gráficas II,O
-760,Teoría de los Conjuntos I,O
-779,Teoría de los Conjuntos II,O
-764,Teoría de los Números I,O
-777,Teoría de los números II,O
-442,Teoría de Redes,O
-765,Topología I,O
+790,TecnologÃ­as para Desarrollos en Internet,O
+1089,TecnologÃ­as para Desarrollos en Internet,O
+791,TeorÃ­a de CÃ³digos,8
+759,TeorÃ­a de GrÃ¡ficas,O
+792,TeorÃ­a de la Concurrencia,O
+793,TeorÃ­a de la InformaciÃ³n,O
+277,TeorÃ­a de las GrÃ¡ficas II,O
+760,TeorÃ­a de los Conjuntos I,O
+779,TeorÃ­a de los Conjuntos II,O
+764,TeorÃ­a de los NÃºmeros I,O
+777,TeorÃ­a de los nÃºmeros II,O
+442,TeorÃ­a de Redes,O
+765,TopologÃ­a I,O
 840,Variable Compleja,5
-794,Visión Por Computadora,8
-809,"Visualización	",O
-1827,Computación Concurrente,8
-1828,Criptografía y Seguridad,8
-1829,Inglés VI,6
+794,VisiÃ³n Por Computadora,8
+809,"VisualizaciÃ³n	",O
+1827,ComputaciÃ³n Concurrente,8
+1828,CriptografÃ­a y Seguridad,8
+1829,InglÃ©s VI,6
 817,Compiladores,7
 269,Complejidad Computacional,7
 714,Redes de Computadoras,7
