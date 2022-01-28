@@ -1,4 +1,37 @@
 CLAVE,NOMBRE,SEMESTRE
+5,羖gebra Lineal I,3
+1326,Matem醫icas para las Ciencias Aplicadas III,3
+1323,Modelado y Programaci髇,3
+625,Probabilidad I,3
+1425,Aut髆atas y Lenguajes Formales,4
+1427,L骻ica Computacional,4
+1429,Matem醫icas para las Ciencias Aplicadas IV,4
+1428,Organizaci髇 y Arquitectura de Computadoras,4
+249,Geometr韆 Moderna I,O
+803,Graficaci髇 por Computadoras,O
+668,Ingenier韆 de Software II,O
+669,Introducci髇 a la Criptograf韆,O
+351,Introducci髇 a las Funciones Recursivas y Computabilidad,O
+1048,Introducci髇 a los Sistemas Complejos,O
+1506,Investigaci髇 de Operaciones,O
+1047,La Sustentabilidad del Desarrollo,O
+670,Lenguajes de Programaci髇 II,O
+819,Lingstica Computacional,O
+671,L骻ica Computacional II,O
+446,L骻ica Matem醫ica II,O
+447,L骻ica Matem醫ica III,O
+672,M閠odos Formales,O
+673,M閠ricas de Software,O
+291,M閤ico: Naci髇 Multicultural,O
+932,Movilidad I,O
+933,Movilidad II,O
+934,Movilidad III,O
+936,Movilidad IV,O
+674,Patrones de Dise駉 de Software,O
+626,Probabilidad II,O
+805,Proceso Digital de Im醙enes,O
+1613,Procesos Estoc醩ticos,O
+676,Programaci髇 Declarativa,O
 783,Seminario de Ciencias de la Computaci贸n A,O
 784,Seminario de Ciencias de la Computaci贸n B,O
 785,Sistemas de Informaci贸n Geogr谩fica,O
@@ -22,7 +55,7 @@ CLAVE,NOMBRE,SEMESTRE
 765,Topolog铆a I,O
 840,Variable Compleja,5
 794,Visi贸n Por Computadora,8
-809,Visualizaci贸n	,	O
+809,"Visualizaci贸n	",O
 1827,Computaci贸n Concurrente,8
 1828,Criptograf铆a y Seguridad,8
 1829,Ingl茅s VI,6
