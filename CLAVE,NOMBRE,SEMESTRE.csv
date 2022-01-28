@@ -1,12 +1,4 @@
 CLAVE,NOMBRE,SEMESTRE
-7,Álgebra Superior I,1
-1123,Estructuras Discretas,1
-1125,Introducción a las Ciencias de la Computación,1
-1126,Matemáticas para las Ciencias Aplicadas I,1
-8,Álgebra Superior II,2
-1222,Estructuras de Datos,2
-422,Gráficas y Juegos,2
-1226,Matemáticas para las Ciencias Aplicadas II,2
 5,Álgebra Lineal I,3
 1326,Matemáticas para las Ciencias Aplicadas III,3
 1323,Modelado y Programación,3
@@ -15,31 +7,14 @@ CLAVE,NOMBRE,SEMESTRE
 1427,Lógica Computacional,4
 1429,Matemáticas para las Ciencias Aplicadas IV,4
 1428,Organización y Arquitectura de Computadoras,4
-654,Administración de Empresas de Software,O
-655,Administración de Sistemas Unix/Linux,O
-6,Álgebra Lineal II,O
-1,Álgebra Moderna I,O
-2,Álgebra Moderna II,O
-656,Algoritmos de Apareamiento de Cadenas,O
-657,Algoritmos Paralelos,O
-658,Almacenes y Minería de Datos,O
-801,Análisis de Algoritmos II,O
-10,Análisis Matemático II,O
-1707,Análisis Numérico,O
-659,Animación por Computadora,O
-660,Arquitectura y Diseño de Software,O
-661,Bases de Datos Semiestructurados,O
-1049,Ciencia Diversidad e Inclusión,O
-662,Computación Cuántica I,O
-663,Computación Cuántica II,O
-664,Cómputo Evolutivo,O
-665,Diseño de Interfaces de Usuario,O
-666,Diseño y Programación de Videojuegos,O
-398,Estadística I,O
-399,Estadística II,O
-2041,Filosofía de la Física II,O
-667,Genómica Computacional,O
-259,Geometría Computacional,O
+1532,Análisis de Algoritmos,5
+1533,Computación Distribuida,5
+1534,Fundamentos de Bases de Datos,5
+1535,Inglés V,5
+1536,Lenguajes de Programación,5
+0575,Ingeniería de Software,6
+0608,Inteligencia Artificial,6
+0713,Sistemas Operativos,6
 249,Geometría Moderna I,O
 803,Graficación por Computadoras,O
 668,Ingeniería de Software II,O
@@ -65,6 +40,23 @@ CLAVE,NOMBRE,SEMESTRE
 805,Proceso Digital de Imágenes,O
 1613,Procesos Estocásticos,O
 676,Programación Declarativa,O
+0675,Programación de Dispositivos Móviles,O
+0632,Programación Dinámica,O
+0633,Programación Entera,O
+0621,Programación Lineal,O
+0634,Programación no Lineal,O
+0677,Protocolos de Enrutamiento,O
+0678,Pruebas de Software y Administración de la Configuración,O
+0679,Razonamiento Automatizado,O
+0771,Realidad Virtual,O
+0772,Reconocimiento de Patrones,O
+0773,Reconocimiento de Patrones y Aprendizaje Automatizado,O
+0774,Recuperación y Búsqueda de Información en Textos,O
+0781,Redes Neuronales,O
+0782,Riesgo Tecnológico,O
+0820,Robótica,O
+0903,Robótica Móvil,O
+0814,Semántica y Verificación,O
 783,Seminario de Ciencias de la ComputaciÃ³n A,O
 784,Seminario de Ciencias de la ComputaciÃ³n B,O
 785,Sistemas de InformaciÃ³n GeogrÃ¡fica,O
