@@ -1,0 +1,224 @@
+dios de la Licenciatura de Actuaria 
+
+ 
+
+ 
+Materias de Sexto Semestre  86 
+
+ 
+
+PROCESOS ESTOCASTICOS I 
+ 
+
+CLAVE:        
+SEMESTRE:                             6 
+CREDITOS:                            10  
+
+SECTOR:                                                      BASICO 
+AREA:                                             PROBABILIDAD Y ESTADISTICA 
+SERIACION:                                                                                                                          
+ASIGNATURA PRECEDENTE INDICATIVA: Probabilidad II. 
+ASIGNATURA SUBSECUENTE INDICATIVA: Teoria del Riesgo y Optativas. 
+
+HORAS POR CLASE 
+CLASES POR SEMANA 
+HORAS POR SEMESTRE 
+
+TEORICA:        1 
+TEORICA:        5 
+TEORICA:      80 
+
+PRACTICAS:      0 
+PRACTICAS:      0 
+PRACTICAS:      0 
+
+ 
+Objetivos generales: Al finalizar el curso el alumno: 
+ 
+
+* Sera capaz de modelar y simular fenomenos fisicos y financieros utilizando procesos estocasticos. 
+* Conocera ejemplos y resultados basicos de la teoria. 
+
+ 
+
+TEMA 1 Introduccion y motivacion.       5 horas 
+Explicara conceptos basicos, definiciones, ejemplos y aplicaciones de los procesos estocasticos. 
+ 
+1.1  Definiciones elementales. 
+1.2  Tipos de procesos estocasticos, clasificacion general. 
+1.3  Ejemplos de procesos estocasticos. Motivacion. 
+ 
+TEMA 2 Cadenas de Markov con espacio de estados finito y numerable.  35 horas 
+Explicara conceptos basicos, definiciones, ejemplos, resultados y aplicaciones de estos procesos. 
+ 
+2.1 Definiciones elementales: 
+
+Probabilidades de transicion, distribucion inicial, matriz de transicion. 
+Ejemplos: caminata aleatoria, cadenas de nacimiento y muerte, proceso de     
+ramificacion, cadena de Ehrenfest, etc. 
+
+2.2  Distribucion conjunta, ecuaciones de Chapman-Kolmogorov. 
+2.3  Tiempos de llegada y tiempos de absorcion. 
+2.4  Clasificacion de estados, recurrencia y transitoriedad. 
+2.5  Descomposicion del espacio de estados. 
+2.6  Distribucion invariante. Para espacio de estados finito: cadenas regulares y teorema 
+
+fundamental de convergencia, con demostracion. Ejemplos y aplicaciones. 
+2.7  Cadenas de Markov con espacio de estados numerable: recurrencia, irreducibilidad, 
+
+periodicidad, distribucion estacionaria y enunciado del teorema fundamental de 
+convergencia. 
+
+2.8  Simulacion de Cadenas de Markov. Verificacion de Propiedades Teoricas mediante la 
+simulacion. 
+
+ 
+TEMA 3 Procesos de Poisson.        20 horas 
+Definira y trabajara con procesos a tiempo continuo y espacio de estados discreto. 
+ 
+3.1  Diferentes definiciones del proceso de Poisson y su equivalencia. Propiedades. 
+3.2  Distribucion de tiempos de espera, del tiempo de espera entre llegadas y distribucion 
+
+condicional al valor del proceso de los tiempos de llegada. 
+3.3  Generalizaciones: Proceso de Poisson compuesto y riesgo. 
+3.4  Simulacion de los procesos de Poisson, Poisson compuesto y Riesgo. Estimacion de la 
+
+
+
+Plan de Estudios de la Licenciatura de Actuaria 
+
+ 
+
+ 
+Materias de Sexto Semestre  87 
+
+ 
+
+intensidad. 
+ 
+TEMA 4 Martingalas en tiempo discreto.      10 horas 
+Explicara el concepto de martingala a tiempo discreto. Estudiara ejemplos y aplicaciones. 
+ 
+4.1  Definiciones, propiedades y ejemplos. 
+4.2  Tiempos de paro. 
+4.3  Enunciar los teoremas del paro opcional y de convergencia. 
+ 
+TEMA 5 Movimiento Browniano        10 horas 
+Conocera algunas propiedades del movimiento Browniano y sus aplicaciones. 
+ 
+5.1  Definicion y propiedades. 
+5.2  Caminatas aleatorias y movimiento Browniano. 
+5.3  Tiempos de llegada, el problema de la ruina del jugador. 
+5.4  Movimiento Browniano Geometrico. 
+5.5  Aplicaciones; valuacion de opciones. Teorema del arbitraje y formula de Black-
+
+Scholes para valuar opciones. 
+5.6  Simulacion. Estimacion de parametros y distintos tiempos de llegada. 
+ 
+ 
+Bibliografia basica: 
+ 
+* Feller, William. An introduction to probability theory and its applications. Vol. I. Third edition. John Wiley 
+
+& Sons Inc., New York, 1968. 
+* Feller, William. An introduction to probability theory and its applications. Vol. II. Second edition. John 
+
+Wiley & Sons Inc., New York, 1971. 
+* Karlin, Samuel and Taylor, Howard. A first course in stochastic processes. Academia Press [A subsidiary of 
+
+Harcourt Brace Jovanovich, Publishers], New York-London, second edition, 1975. 
+* Karlin, Samuel and Taylor, Howard. A second course in stochastic processes. Academia Press Inc. 
+
+[Harcourt Brace Jovanovich Publishers], New York, 1981. 
+* Howard M. Taylor and Samuel Karlin. An introduction to stochastic modeling. Academic Press Inc., 
+
+Boston, MA, revised edition, 1994. 
+ 
+Para Martingalas, como en el libro de Norris, sin filtraciones: 
+* Norris, J. R. Markov chains. Cambridge Series in Statistical and Probabilistic Mathematics. Cambridge 
+
+University Press, Cambridge, 1998. Reprint of 1997 original. 
+ 
+En el libro de Ross de Procesos estocasticos, Capitulo 8, viene la aproximacion al Browniano como limite de 
+caminatas aleatorias: 
+* Ross, Sheldon M.. Stochastic processes. Wiley Series in Probability and Statistics: Probability and 
+
+Statistics. John Wiley & Sons Inc., New York, second edition, 1996. 
+ 
+Los temas 3 y 5 de este programa se basan en las partes finales de los capitulos 5 y 10, respectivamente, del libro 
+de Ross de Modelos Probabilisticos: 
+* Ross, Sheldon M. Introduction to probability models. Harcourt/Academic Press, Burlington, MA, seventh 
+
+edition, 2000. 
+ 
+La bibliografia para Cadenas de Markov es muy extensa. Los libros de Ross  y de Hoel, Port y Stone resultan una 
+buena combinacion: 
+* Ross, Sheldon M.. Stochastic processes. Wiley Series in Probability and Statistics: Probability and 
+
+Statistics. John Wiley & Sons Inc., New York, second edition, 1996. 
+
+
+
+Plan de Estudios de la Licenciatura de Actuaria 
+
+ 
+
+ 
+Materias de Sexto Semestre  88 
+
+ 
+
+* Ross, Sheldon M. Introduction to probability models. Harcourt/Academic Press, Burlington, MA, seventh 
+edition, 2000. 
+
+* Hoel, Paul G., Port, Sidney C., and Stone, Charles J. Introduction to stochastic processes. Houghton Mifflin 
+Co., Boston, Mass., 1972. The Houghton Mifflin. Series in Statistics. 
+
+ 
+Para Cadenas de Markov tambien se recomienda el libro de Maria Emilia Caballero: 
+* Caballero, M. E., V. M. Rivero, G. Uribe, and C. Velarde. Cadenas de Markov. Un enfoque elemental. 
+
+Numero 29 en Textos. Nivel Medio. SMM., 2004. 
+ 
+Bibliografia complementaria: 
+ 
+* Brzezniak, Zdzis law and Zastawniak, Tomasz. Basic stochastic processes. Springer Undergraduate 
+
+Mathematics Series. Springer-Verlag London Ltd., London, 1999. A course through exercises. 
+* Karlin, Samuel and Taylor, Howard. A first course in stochastic processes. Academia Press [A subsidiary of 
+
+Harcourt Brace Jovanovich, Publishers], New York-London, second edition, 1975. 
+ 
+El libro de Rolski tiene aplicaciones a Teoria del Riesgo, aunque es de otro nivel: 
+* Rolski, Tomasz, Hanspeter Schmidli, Volker Schmidt, and Jozef Teugels. Stochastic processes for insurance 
+
+and finance. Wiley Series in Probability and Statistics. John Wiley & Sons Ltd., Chichester, 1999. 
+ 
+Los de Norris y Caballero et al, tienen partes interesantes para la simulacion: 
+* Norris, J. R.. Markov chains. Cambridge Series in Statistical and Probabilistic Mathematics. Cambridge 
+
+University Press, Cambridge, 1998. Reprint of 1997 original. 
+* Caballero, M. E., V. M. Rivero, G. Uribe, and C. Velarde. Cadenas de Markov. Un enfoque elemental. 
+
+Number 29 in Textos. Nivel Medio. SMM., 2004. 
+ 
+ 
+Sugerencias didacticas: 
+ 
+Se recomiendan tareas regulares en las cuales el alumno aplique el material visto en clase y este obligado a 
+revisar diversas fuentes bibliograficas para que amplie sus conocimientos con diferentes enfoques. Asimiso se 
+sugiere el analisis de casos practicos.  
+ 
+Forma de evaluacion: 
+ 
+Se recomiendan de 3 a 4 examenes parciales y un examen final, asi como la realizacion de tareas sobre los temas  
+vistos en clase para reforzar los conocimientos teoricos adquiridos. 
+ 
+Perfil profesiografico: 
+ 
+Es deseable que el profesor cuente con un posgrado en el area y que tenga experiencia docente y conocimientos 
+principalmente en Cadenas de Markov. 
+ 
+ 
+
+

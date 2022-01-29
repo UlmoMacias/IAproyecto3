@@ -1,0 +1,217 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+128 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Criptografia y Seguridad 
+
+Clave:  
+ 
+
+Semestre: 
+8 
+
+Eje tematico: 
+Integracion Teoria-Practica 
+
+No. Creditos:   
+10 
+
+Caracter: Obligatoria Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+ 
+Asignatura con seriacion obligatoria antecedente: Computacion Distribuida; Analisis de 
+Algoritmos; Organizacion y Arquitectura de Computadoras  
+ 
+Asignatura con seriacion obligatoria subsecuente: Ninguna 
+ 
+Asignatura con seriacion indicativa antecedente: Redes de Computadoras; Complejidad 
+Computacional. 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivos generales:  
+Comprender los algoritmos de cifrado de datos mas usuales, tanto simetricos como de llave 
+publica. 
+Comprender los principales protocolos de autenticacion y de intercambio seguro de datos. 
+Conocer y aplicar las principales fortalezas y debilidades de los distintos algoritmos y protocolos 
+criptograficos. 
+Conocer los ataques y mecanismos de criptoanalisis mas usuales. 
+Instrumentar medidas basicas de seguridad en sistemas de computo. 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Conceptos de seguridad y criptografia 3 4 
+II Sistemas de cifrado clasicos, seguridad perfecta 4 6 
+III Redes de Feistel, cifrado de bloques, DES y AES 6 8 
+IV Elementos de teoria de numeros y campos finitos 6 8 
+V Criptosistemas de llave publica 6 8 
+
+
+
+129 
+ 
+
+VI Algoritmos criptograficos de integridad de datos 5 6 
+VII Autentificacion y firma digital 6 8 
+VIII Protocolos de seguridad en Internet 6 8 
+IX Seguridad en redes, cortafuegos y politicas 6 8 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Conceptos de seguridad y criptografia 
+I.1 Esquema general de la comunicacion criptografica. 
+I.2 Servicios y mecanismos de seguridad, ataques. 
+I.3 Principios de Kerckhoffs. 
+I.4 Estandares de seguridad. 
+II Sistemas de cifrado clasicos, seguridad perfecta 
+II.1 Sistemas monoalfabeticos y polialfabeticos. 
+II.2 Analisis de frecuencias, prueba de Kasiski y de Friedman. 
+II. 3 Sistemas poligraficos, sistema de Playfair y de Hill. 
+II.4 Cifrado de Vernam, one-time pad y seguridad perfecta. 
+II.5 Registros de desplazamiento de retroalimentacion lineal. 
+II.6 Cifrados de rotor: Enigma y Purpura. 
+III Redes de Feistel, cifrado de bloques, DES y AES 
+III.1 Cifrado y teoria de la informacion: confusion y difusion. 
+II.2 Redes de Feistel. Lucifer y DES. 
+III.3 Criptoanalisis diferencial. 
+III.4 Criptoanalisis lineal. 
+III.5 Redes de permutacion y substitucion: AES. 
+IV Elementos de teoria de numeros y campos finitos 
+IV.1 Repaso de aritmetica modular, divisibilidad, algoritmo de Euclides, MCD Y MCM. 
+IV.2 Teoremas de Fermat y de Euler, teorema chino del residuo. 
+IV.3 Un poco de estructuras algebraicas: grupos, anillos y campos. 
+IV.4 Campos finitos, polinomios. 
+V Criptosistemas de llave publica 
+V.1 Motivacion, principios de sistemas de llave publica. 
+V.2 Funciones de un solo sentido: factorizacion y logaritmo discreto. 
+V.3 Algoritmo de Diffie Hellman. 
+V.4 Algoritmo de RSA. 
+V.5 Algoritmo de El-Gamal. 
+V.6 Elementos de criptoanalisis de sistemas de llave publica. 
+VI Algoritmos criptograficos de integridad de datos 
+VI.1 Codigos de autentificacion de mensajes. 
+VI.2 Generadores de numeros pseudoaleatorios. 
+VI.3 Funciones de dispersion, caracteristicas, usos para sintetizar mensajes. 
+
+
+
+130 
+ 
+
+VI.4 Funciones de dispersion basadas en cifrados de bloque. 
+VI.5 Analisis de diversos algoritmos de dispersion. 
+VII Autentificacion y firma digital 
+VII.1 Principios fundamentales de autentificacion, factores de autentificacion. 
+VII.2 Distribucion de llaves, certificados. 
+VII.3 Protocolos de autentificacion. 
+VII.4 Autentificacion basada en sistemas simetricos y de llave publica. 
+VIII Protocolos de seguridad en Internet 
+VIII.1 Analisis comparativo de sistemas simetricos y de llave publica. 
+VIII.2 Sistemas criptograficos mixtos. 
+VIII.3 Seguridad en la web. 
+VIII.4 Protocolos de seguridad: IPSec, secure shell, TLS, PGP. 
+VIII.5 Ataques, herramientas de analisis. 
+IX Seguridad en redes, cortafuegos y politicas 
+IX.1 Intrusion, deteccion de intrusos. 
+IX.2 Tipos de ataque, tipos de software malicioso. 
+IX.3 Planeacion de la seguridad, politicas de seguridad. 
+IX.4 Aspectos de seguridad en el diseno de sistemas operativos y de manejadores de 
+
+bases de datos. 
+IX.5 Mecanismos de defensa contra intrusion, configuracion del sistema, cortafuegos. 
+IX.6 Herramientas de analisis de intrusion, analisis forense. 
+ 
+
+Bibliografia basica: 
+1. Stallings, William, Cryptography and Network Security: Principles and Practice, 5a Ed., 
+
+Prentice Hall, 2010.  
+2. Forouzan, Behrouz A., Cryptography and Network Security, McGraw Hill, 2008. Pfleeger, 
+
+Charles P. y Shari L.  
+3. Pfleeger, Security in Computing, 4a. Ed., Prentice Hall, 2006. 
+Bibliografia complementaria: 
+1. Stallings, William, Network Security Essentials: Applications and Standards, 4a Ed., 
+
+Prentice Hall, 2010.  
+2. Ferguson, Niels, Bruce Schneier y Tadayoshi Kohno, Cryptography Engineering: Design 
+
+Principles and Practical Applications, Wiley, 2010.   
+3. Menezes, Alfred, Paul van Oorschot y Scott Vanstone, Handbook of Applied Cryptography, 
+
+CRC Press, 1996.  
+4. Schneier, Bruce, Applied Cryptography: Protocols, Algorithms, and Source Code in C. 2a 
+
+Ed., Wiley, 1996. 
+ 
+  
+
+
+
+131 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios ( ) 
+Lecturas obligatorias ( ) 
+Trabajo de investigacion ( ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos ( ) 
+Participacion en clase ( ) 
+Asistencia ( ) 
+Proyectos de programacion ( ) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o Matematico con 
+especialidad en Computacion. Es conveniente que posea un posgrado en la disciplina. Con 
+experiencia docente. 
+ 
+  
+
+

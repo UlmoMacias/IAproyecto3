@@ -1,0 +1,189 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+320 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Sistemas de Informacion Geografica 
+
+Clave:  
+  
+
+Semestre: 
+6-8 
+
+Eje tematico: 
+Bases de Datos y Manejo de la Informacion 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Fundamentos de Bases de Datos 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Conocer y aplicar los conocimientos de la teoria y tecnicas para el analisis de procesos 
+espaciales, a traves de las areas de la estadistica espacial y de los sistemas de informacion 
+geografica. 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 3 4 
+II Herramientas y arquitectura de los S.I.G. 6 8 
+III Cartografia y fuentes de informacion 6 8 
+IV Bases de datos geograficas 9 12 
+V Analisis espacial 9 12 
+VI Estadistica espacial 12 16 
+VII Estado actual y prospectiva de los S.I.G. 3 4 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 El analisis espacial. 
+
+
+
+321 
+ 
+
+I.2 Concepto y definiciones de S.I.G. 
+I.3 Herramientas S.I.G. 
+I.4 Ejemplos de aplicacion.  
+II Herramientas y arquitectura de los S.I.G 
+II.1 Bases de datos y S.I.G. 
+II.2 Funcionalidades de los S.I.G. 
+II.3 Introduccion al uso de una herramienta S.I.G. 
+III Cartografia y fuentes de informacion 
+III.1 Mapas digitales; elementos de un mapa. 
+III.2 Resolucion, escala y precision de la informacion cartografica. 
+III.3 Fuentes de informacion cartografica. 
+III.4 Bases de datos geograficas disponibles. 
+IV Bases de datos geograficas 
+IV.1 Modelos de datos espaciales. 
+IV.2 Geocodificacion. 
+IV.3 Control de calidad de datos geograficos. 
+V Analisis espacial 
+V.1 Concepto y modalidades del analisis espacial. 
+V.2 Transformaciones espaciales. 
+V.3 Algebra de mapas. 
+V.4 El problema de la unidad de area modificable. 
+VI Estadistica espacial 
+VI.1 Introduccion a la estadistica espacial. 
+VI.2 Media espacial; distancia estandar; elipse de desviacion estandar. 
+VI.3 Analisis de patrones de puntos. 
+VI.4 Autocorrelacion espacial. 
+VI.5 Semivariograma. 
+VI.6 Otros descriptivos de la estadistica espacial. 
+VII Estado actual y prospectiva de los S.I.G. 
+VII.1 Estado actual de los S.I.G. 
+VII.2 Integracion S.I.G. en el ambito cientifico, tecnologico y empresarial. 
+VII.3 Nuevas tecnologias y el futuro de los S.I.G. 
+VII.4 S.I.G. y la Web. 
+ 
+ 
+
+Bibliografia basica: 
+1. Fotheringham, A.S, Brunsdon, C. y Charlton, M., Quantitative geography: perspectives on 
+
+spatial data analysis, SAGE Pub., 2000. 
+2. Markus, N. y Mitasova, H., Open Source GIS: A GRASS GIS Approach, 3a Edicion, 
+
+Springer, New York, 2008. 
+3. Rigaux, P., Scholl, M., y Voisard, A., Spatial Databases with Applications to GIS, London, 
+
+Morgan Kaufmann, 2002. 
+
+
+
+322 
+ 
+
+4. Rogerson, P.A., Statistical Methods for Geography,   London, Open Universtity / SAGE 
+Pub., 2002.  
+
+5. Wilson, J. y Fotheringham, A.S. (eds), The Handbook of Geographical Information Science,  
+Oxford, UK, Blackwell, 2008. 
+
+Bibliografia complementaria: 
+1. Arlinghaus, S.L. (ed), Practical handbook of spatial statistics, CRC Press, 1996. 
+2. Burrough, P.A. y McDonell, R.A., Principles of Geographical Information Systems,  
+
+Clarendon Press, Oxford, 1998. 
+3. Fotheringham, S. y Rogerson, P. (eds), Spatial Analysis and GIS, Taylor y Francis, 1994. 
+4. Quattrochi, D.A. y Goofchild, M.F. (eds), Scale in remote sensing and GIS, Lewis Pub., 
+
+1996. 
+5. Silberschatz, A., Kort, H. y Sudarshan, S., Fundamentos de BD, Mc- Graw Hill, 5a ed., 2006. 
+6. Zhang, J. y Goodchild, M.F., Uncertainty in Geographical Information, Taylor y Francis, 
+
+2002. 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (  ) 
+ 
+Otras: Instalacion de cartografia y base 
+de datos geografica en un herramienta 
+S.I.G. y su aplicacion a la solucion de un 
+problema especifico usando las 
+herramientas teoricas de la estadistica 
+espacial y el algebra de mapas. 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (X) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia (  ) 
+Proyectos de programacion (  ) 
+Proyecto final (  ) 
+Seminario (  ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en Computacion. Es conveniente que posea un posgrado en la disciplina. Con 
+experiencia docente. 
+ 
+
+

@@ -1,0 +1,170 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+375 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Visualizacion 
+
+Clave:  
+ 0809 
+
+Semestre: 
+7-8 
+
+Eje tematico: 
+Imagenes y Ambientes Virtuales 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Graficacion por computadora 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivos generales:  
+Conocer y Comprender la importancia de la visualizacion como herramienta para entender 
+fenomenos complejos. Desarrollar soluciones visuales eficientes y efectivas para problemas  en 
+multiples areas, incluyendo los videojuegos. Conocer los algoritmos y tecnicas mas utiles para 
+la visualizacion de datos e informacion. 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 3 4 
+II Percepcion visual 3 4 
+III Modelado con mallas a partir de datos 9 12 
+IV Visualizacion de campos escalares 9 12 
+V Visualizacion de volumen 9 12 
+VI Visualizacion de campos vectoriales 9 12 
+VII Visualizacion de informacion 6 8 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+  
+
+
+
+376 
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Aplicaciones en medicina, ciencias e informacion. 
+I.2 Antecedentes. Estado del arte en la decada actual. 
+I.3 Tufte: Visualizacion eficiente y efectiva. 
+II Percepcion visual 
+II.1 Sistema visual humano. 
+II.2 Ilusiones visuales. 
+II.3 Teoria del color. 
+II.4 Evaluacion de habilidades espaciales y visuales. 
+III Modelado con mallas a partir de datos 
+III.1 Generacion de mallas a partir de datos ordenados. 
+III.2 Generacion de mallas a partir de datos dispersos. 
+III.3 Tecnicas de reduccion de poligonos. 
+III.4 Simplificacion de mallas. 
+III.5 Optimizacion geometrica. 
+III.6 Medida del error. 
+IV Visualizacion de campos escalares 
+IV.1 Modelado de datos como campos escalares en 2D. 
+IV.2 Tecnicas de visualizacion de campos escalares en 2D. 
+IV.3 Campos escalares en 3D. 
+IV.4 Generacion de isosuperficies. 
+V Visualizacion de volumen 
+V.1 Modelos opticos. 
+V.2 Ordenamiento de imagenes. 
+V.3 Ordenamiento de objetos. 
+V.4 Geometria y volumen. 
+VI Visualizacion de campos vectoriales 
+VI.1 Modelado de datos como campos vectoriales en 2D. 
+VI.2 Tecnicas clasicas de visualizacion de campos vectoriales en 2D. 
+VI.3 Uso de particulas y texturas. 
+VI.4 Campos vectoriales en 3D. 
+VI.5 Interaccion entre campos vectoriales y texturas en 3D. 
+VI.6 Simulacion de fluidos para efectos especiales y videojuegos. 
+VII Visualizacion de informacion 
+ 
+
+Bibliografia basica: 
+1. Alexandru Telea, Data Visualization: Principles and Practice, AK Peters, 2008. 
+2. Klaus Engel et al, Real-Time Volume Graphics, AK Peters, 2006. 
+
+
+
+377 
+ 
+
+Bibliografia complementaria: 
+1. Shreiner et al, OpenGL Programming Guide, Addison-Wesley, 2005. 
+2. Mike Bailey and Steve Cunningham, Graphics Shaders: Theory and Practice, AK Peters, 
+
+2009. 
+
+3. Elmar Langetepe and Gabriel Zachmann, Geometry Data Structures for Computer 
+Graphics, AK Peters, 2005. 
+
+4. Randi J. Rost et al, OpenGL shading language, 3a ed., Addison-Wesley, 2009. 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (X) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (   ) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia (X) 
+Proyectos de programacion (X) 
+Proyecto final (   ) 
+Seminario (   ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+ 
+
+

@@ -1,0 +1,173 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+348 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Teoria de la Informacion 
+
+Clave:  
+  
+
+Semestre: 
+6-8 
+
+Eje tematico: 
+Bio-Informatica 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+Asignatura con seriacion indicativa antecedente: Matematicas para las Ciencias de la 
+Tierra IV; Modelado y Programacion; Probabilidad I 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Conocer y aplicar los formalismos matematicos detras de las teorias de Shannon y 
+Kolmogorov.  
+Conocer y aplicar los conocimientos de los derivados y equivalentes a la teoria de Shannon en 
+el campo de las matematicas. 
+Conocer y aplicar los conocimientos de la Funcion de Informacion Mutua y sus aplicaciones en 
+telecomunicaciones y biologia. 
+Conocer el concepto de complejidad de Kolmogorov, sus aproximaciones computacionales y 
+sus aplicaciones. 
+Desarrollar en los estudiantes una intuicion respecto a los aspectos informacionales de los 
+fenomenos naturales, y como estos pueden servir de lineamiento para su estudio y 
+entendimiento. 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+ I Introduccion 3 4 
+ II Teoria de la Informacion de Shannon 9 12 
+ III Otros conceptos de entropia 12 16 
+ IV Aplicaciones de la entropia de Shannon 15 20 
+ V Complejidad Computacional de Kolmogorov 9 12 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+
+
+349 
+ 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+ I.1 Los conceptos de informacion y entropia. 
+ I.2 Aspectos historicos. 
+II Teoria de la Informacion de Shannon 
+ II.1 La funcion H como medida de incertidumbre. 
+ II.2 Propiedades de la funcion H. 
+ II.3 El Teorema de Shannon-Hartley. 
+ II.4 Redundancia, Eficiencia, y otras aplicaciones a la comunicacion. 
+III Otros conceptos de entropia 
+ III.1 Mapeos discretos y entropia topologica. 
+ III.2 Entropia en el sentido de la teoria de la medida. 
+ III.3 Entropia termodinamica. 
+IV Aplicaciones de la entropia de Shannon 
+ IV.1 La Funcion de Informacion Mutua. 
+ IV.2 Informacion mutua en secuencias biologicas. 
+ IV.3 Informacion mutua en textos. 
+ IV.4 Informacion mutua en redes neuronales. 
+ IV.5 Informacion mutua en trafico en redes. 
+ IV.6 Automata Celulares y sus propiedades informacionales. 
+ IV.7 Flujos de Informacion en procesos quimicos. 
+ IV.8 Caos. 
+ IV.9 Exponentes de Liapunov. 
+ IV.10 Autoorganizacion. 
+V Complejidad Computacional de Kolmogorov 
+ V.1 El azar. 
+ V.2 Definiciones. 
+ V.3 Universalidad. 
+ V.4 El numero Omega. 
+ V.5 Relaciones entre la funcion K y la entropia. 
+ V.6 Fractalidad y complejidad de Kolmogorov. 
+ 
+ 
+
+Bibliografia basica: 
+1. Ayres, R., Information. Entropy and progress, American Institute of Physics, 1997. 
+2. Aczel, J., Daroczy, Z., On measures of information and their characterizations,   Academic 
+
+Press, 1975. 
+3. Mackay, D., Information theory, inference and learning algorithms, Cambridge University 
+
+press, 2003. 
+
+
+
+350 
+ 
+
+4. Li, Ming, An Introduction to Kolmogorov Complexity and Its Applications, 2a edicion, 
+Springer, 1997. 
+
+Bibliografia complementaria: 
+1. Chaitin, G., Algorithmic information theory some recolections, arXiv:math/0701164v2 
+
+[math.HO], 2007. 
+2. Adami, C., Introduction to Artificial Life, Springer, 1997. 
+3. Adami, C., Information theory in molecular biology, arXiv:q-bio/0405004v1 [q-bio.BM], 2004. 
+4. Adami, C., The Physics of information, arXiv:quant-ph/0405005v1, 2004. 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (   ) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (X) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia (   ) 
+Proyectos de programacion (X) 
+Proyecto final (   ) 
+Seminario (   ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Matematico, fisico, actuario o Licenciado en Ciencias de la Computacion, especialista en el 
+area de la asignatura a juicio del comite de asignacion de cursos. Con experiencia docente. 
+ 
+  
+
+

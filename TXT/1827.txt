@@ -1,0 +1,174 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+132 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Computacion Concurrente 
+
+Clave:  
+ 
+
+Semestre: 
+8 
+
+Eje tematico: 
+Computacion Teorica 
+
+No. Creditos:   
+10 
+
+Caracter: Obligatoria Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorica Teoria: Practica: 6 96 4 2 
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+ 
+
+ 
+Asignatura con seriacion obligatoria antecedente: Analisis de Algoritmos; Organizacion y 
+Arquitectura de Computadoras; Computacion Distribuida 
+ 
+Asignatura con seriacion obligatoria subsecuente: Ninguna 
+ 
+Asignatura con seriacion indicativa antecedente: Redes de Computadoras 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivos generales:  
+Resolver problemas complejos de  computo concurrente de manera critica y creativa. Entender 
+los aspectos de concurrencia y tolerancia a fallas de: sistemas operativos y bases de datos.  
+ 
+
+Indice tematico 
+
+Unidad Temas  
+Horas 
+
+Teoricas Practicas 
+I Introduccion 6 3 
+II Exclusion mutua 12 6 
+III Sincronizacion con y sin bloqueo 12 6 
+IV Recursos multiples 10 5 
+V Problemas clasicos de sincronizacion 10 5 
+VI Consenso 8 4 
+VII Temas selectos 6 3 
+
+Total de horas: 64 32 
+Suma total de horas: 96 
+
+Contenido tematico 
+
+
+
+133 
+ 
+
+Unidad Tema 
+IIntroduccion 
+I.1 Sincronizacion. 
+I.2 El problema de la exclusion mutua. 
+I.3 Medidas de complejidad. 
+II Exclusion mutua 
+II.1 Algoritmos para dos procesos. 
+II.2 Algoritmos de torneo. 
+II.3 Algoritmos de exclusion mutua. 
+II.4 Algoritmos libres de hambruna. 
+II.5 Algoritmos con espera ocupada (busy waiting). 
+II.6 Algoritmos adaptativos. 
+II.7 Algoritmos tolerantes a fallas. 
+II.8 Algoritmos simetricos. 
+III Sincronizacion con y sin bloqueo 
+III.1 Primitivas de sincronizacion. 
+III.2 Bits test-and-set y evitar colisiones. 
+III.3 El algoritmo de incidente. 
+III.4 Otros algoritmos con espera ocupada y primitivas fuertes. 
+III.5 Estructuras de datos concurrentes. 
+III.6 Semaforos. 
+III.7 Monitores. 
+III.8 Justicia y objetos compartidos. 
+IV Recursos multiples 
+IV.1 Abrazos mortales. 
+IV.2 Prevencion de abrazos mortales. 
+IV.3 El problema de los filosofos comensales. 
+IV.4 Estrategia de obtener y esperar. 
+V Problemas clasicos de sincronizacion 
+V.1 Productor y consumidor. 
+V.2 Lectores y escritores. 
+V.3 El barbero dormilon. 
+V.4 El fumador de cigarrillos. 
+V.5 Escritura y lectura de relojes. 
+VI Consenso 
+VI.1 Introduccion y algoritmos basicos. 
+VI.2 Consenso utilizando una cola compartida. 
+VI.3 Imposibilidad de consenso con un proceso falible. 
+VI.4 El poder relativo de las primitivas de sincronizacion. 
+VI.5 Universalidad del consenso. 
+VII Temas selectos 
+VII.1 Tolerancia a fallas benignas y bizantinas. 
+VII.2 Transacciones en memoria compartida 
+
+
+
+134 
+ 
+
+ 
+Bibliografia basica: 
+1. Gadi Taubenfeld, Synchronization Algorithms and Concurrent Programming, Pearson / 
+
+Prentice Hall, 2006. 
+2. Maurice Herlihy y Nir Shavit, The Art of Multiprocessor Programming, Morgan Kaufmann, 
+
+2008. 
+Bibliografia complementaria: 
+1. Leslie Lamport, Specifying Systems: The TLA+ Language and Tools for Hardware and 
+
+Software Engineers, Pearson Education, Inc., 2002. 
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual ( ) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula ( ) 
+Seminarios ( ) 
+Lecturas obligatorias ( ) 
+Trabajo de investigacion ( ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito ( ) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos ( ) 
+Participacion en clase (X) 
+Asistencia ( ) 
+Proyectos de programacion (X) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o Matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+  
+
+

@@ -1,0 +1,183 @@
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+
+Facultad de Ciencias 
+
+Programa de la asignatura 
+
+ 
+
+Denominacion de la asignatura:  
+Matematicas para Ciencias Aplicadas III 
+
+Clave:  
+1318 
+
+Semestre:  
+3 
+
+Eje tematico: 
+Fundamentos Matematicos 
+
+No. Creditos:   
+12 
+
+Caracter: Obligatoria Horas 
+Horas por 
+semana 
+
+Total de 
+Horas  
+
+Tipo: Teorica 
+Teoria: Practica: 
+
+6 96 6 0 
+Modalidad: Curso Duracion del programa: Semestral 
+
+ 
+ 
+
+ 
+Asignatura con seriacion obligatoria antecedente: Ninguna 
+ 
+Asignatura con seriacion obligatoria subsecuente: Ninguna  
+ 
+Asignatura con seriacion indicativa antecedente: Matematicas para Ciencias Aplicadas II 
+ 
+Asignatura con seriacion indicativa subsecuente: Matematicas para Ciencias Aplicadas IV 
+ 
+
+Objetivos generales: 
+Comprender los conceptos de integracion de funciones de varias variables, sobre regiones, 
+curvas y superficies. 
+Conocer y aplicar la modelacion matematica de fenomenos que involucren campos vectoriales. 
+Conocer y explicar el significado matematico, geometrico y fisico de conceptos y resultados del 
+analisis vectorial (campos gradientes, potencial, divergencia, rotacional, teoremas de Gauss, 
+Green y Stokes), y aplicar estos al planteamiento y resolucion de problemas. 
+ 
+  
+
+
+
+ 
+
+- 43 - 
+ 
+
+Indice tematico 
+
+Unidad Temas  
+Horas 
+
+Teoricas Practicas 
+I Integral de Riemann 24 0 
+II Funciones con valores vectoriales 24 0 
+III Integral sobre trayectorias y superficies 24 0 
+IV Teoremas de Green y Stokes 24 0 
+
+Total de horas: 96 0 
+Suma total de horas: 96 
+
+ 
+Contenido tematico 
+
+Unidad Tema 
+I Integral de Riemann 
+I.1 Integral sobre rectangulos. Propiedades de la integral. 
+I.2 La integral sobre regiones mas generales. 
+I.3 Integral iterada y el teorema de Fubini. 
+I.4 Geometria de las funciones de R2 en R2. 
+I.5 Teorema del cambio de variable. 
+I.6 Aplicaciones. 
+II Funciones con valores vectoriales 
+II.1 Campos vectoriales. Campos gradientes. 
+II.2 Divergencia y rotacional. Interpretacion fisica. 
+II.3 Diferenciacion. 
+III Integral sobre trayectorias y superficies 
+III.1 Curvas. Orientacion. 
+III.2 La integral de trayectoria. 
+III.3 Integrales de linea (trabajo, circulacion). 
+III.4 Parametrizacion de superficies. Orientacion. 
+III.5 Area de una superficie. 
+
+III.6 Integral de funciones reales sobre superficies (masa y carga total de una 
+superficie). 
+
+III.7 Integral de superficie (flujo a traves de una superficie). 
+III.8 Aplicaciones. 
+IV Teoremas de Green y Stokes 
+IV.1 Teorema de Green. 
+IV.2 Teorema de Stokes. 
+IV.3 Campos conservativos. 
+IV.4 Teorema de Gauss. 
+IV.5 Aplicaciones. 
+ 
+  
+
+
+
+ 
+
+- 44 - 
+ 
+
+Bibliografia basica: 
+
+1. Stewart J., Multivariable Calculus, Concepts and Contexts. Brooks/Cole Publishing, Boston, 
+1998. 
+
+2. Swokowski E. W., Calculus with Analytic Geometry. Prindle, Weber and Schmidt 
+Incorporated, Boston, 1975. 
+
+3. Thomas, G. B., Finney, M. D., Calculo de varias variables. Pearson Educacion, Mexico, 
+1999. 
+
+Bibliografia complementaria: 
+
+1. Davis, H., Zinder, A. D., Analisis vectorial. McGraw Hill, Mexico, 1992. 
+
+2. Lovric, M., Vector Calculus. Addison Wesley PL, Ontario, 1997. 
+
+3. Marsden, J., Tromba A. J., Calculo vectorial. Addison-Wesley Iberoamericana, Argentina, 
+1991. 
+
+4. Schey, H. M., DIV, GRAD, CURL and All That. Norton Company, New York, 1973. 
+
+Sugerencias didacticas: 
+
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (  ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (  ) 
+Practicas de taller o laboratorio (  ) 
+Practicas de campo (  ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Exposicion de seminarios por los alumnos (  ) 
+Participacion en clase (X) 
+Asistencia (X) 
+Seminario (  ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+
+Matematico, fisico actuario o licenciado en ciencias de la computacion, especialista en el area 
+de la asignatura a juicio del comite de asignacion de cursos. Con experiencia docente. 
+  
+
+

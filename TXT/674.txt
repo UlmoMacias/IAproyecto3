@@ -1,0 +1,185 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+246 
+ 
+
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura: 
+Patrones de Diseno de Software 
+
+Clave:  
+  
+
+Semestre: 
+7-8 
+
+Eje tematico: 
+Ingenieria de Software 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+ 
+Asignatura con seriacion indicativa antecedente: Ingenieria de Software 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivos generales:  
+Identificar y resolver problemas que se suelen presentar los patrones de diseno. 
+Escoger el patron de diseno adecuado. 
+Implementar la solucion utilizando el patron adecuado. 
+Construir programas bien estructurados, faciles de entender y corregir. 
+Utilizar correctamente los patrones de diseno. 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion a UML y al diseno orientado a objetos 6 8 
+II Analisis y diseno de patrones 6 8 
+III Catalogo de patrones 21 28 
+IV Aplicacion practica de los patrones de diseno 12 16 
+
+V Analisis y discusion sobre la necesidad de los 
+patrones de diseno 3 4 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+ 
+
+
+
+247 
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Introduccion a UML y al diseno orientado a objetos 
+I.1 UML. Diagramas necesarios para describir los patrones de diseno, su interaccion y 
+
+comportamiento. 
+I.2 Problemas asociados con el diseno orientado a objetos. 
+I.3 Granularidad, interfaces de los objetos, implementaciones. 
+I.4 Importancia de reutilizar. 
+I.5 Evolucion del software. 
+II Analisis y diseno de patrones 
+II.1 Concepto de patron de diseno. 
+II.2 Caracteristicas que conforman un patron de diseno: nombre, problema que 
+
+resuelve y situaciones habituales en donde se presenta, solucion al problema y 
+consecuencias. 
+
+II.3 Aplicacion de patrones en entornos de desarrollo de software. 
+III Catalogo de patrones 
+III.1 Patrones de creacion: fabrica abstracta, constructor, metodo de fabrica, 
+
+inicializacion floja, prototipo y solitario. 
+III.2 Patrones de estructura: adaptador, puente, composicion, decorador, fachada, peso 
+
+ligero y apoderado (Proxy). 
+III.3 Patrones de comportamiento: cadena de responsabilidad, ejecutor, interprete, 
+
+iterador, mediador, recuerdo, observador, estado, estrategia, metodo de plantilla y 
+visitante. 
+
+III.4 Patrones arquitectonicos. MVC. 
+IV Aplicacion practica de los patrones de diseno 
+IV.1 Aspectos concretos del uso de patrones en lenguajes de programacion orientados 
+
+a objetos. 
+IV.2 Aplicacion inmediata de los patrones a problemas concretos. 
+V Analisis y discusion sobre la necesidad de los patrones de diseno 
+ 
+
+Bibliografia basica: 
+1. Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides, Design Patterns: Elements 
+
+of Reusable Object-Oriented Software, Addison-Wesley Professional, 1994. 
+2. Frank Buschmann, Regine Meunier, Hans Rohnert, Peter Sommerlad, Michael Stal, 
+
+Pattern-Oriented Software Arquitecture. A System of Patterns, John Wiley and Sons, 1996. 
+ 
+
+Bibliografia complementaria: 
+1. Alan Shalloway, James R. Trot., Design Patterns Explained: A New Perspective on Object-
+
+Oriented Design (2nd Edition) Addison-Wesley Professional. 2004.   
+2. John Vlissides, Pattern Hatching: Design Patterns Applied, Addison-Wesley Professional. 
+
+1998.   
+3. Steve McConnell, Code Complete: A Practical Handbook of Software Constructions, 
+
+Microsoft Press: 2nd edition, 2004.  
+
+
+
+248 
+ 
+
+4. Martin Fowler, UML Distilled: A Brief Guide to the Standard Object Oriented Modeling 
+Language, 3rd Edition. 2003.  
+
+5. Peter Coad an Edward Yourdon, Object-Oriented Design, Prentice Hall, 1991. 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios ( ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion ( ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos ( ) 
+Participacion en clase ( ) 
+Asistencia ( ) 
+Proyectos de programacion ( ) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+ 
+  
+
+

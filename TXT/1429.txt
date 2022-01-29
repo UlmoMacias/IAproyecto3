@@ -1,0 +1,209 @@
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Matematicas para Ciencias Aplicadas IV 
+
+Clave:  
+1417 
+
+Semestre:  
+4 
+
+Eje tematico: 
+Fundamentos Matematicos 
+
+No. Creditos:   
+12 
+
+Caracter: Obligatoria Horas 
+Horas por 
+semana 
+
+Total de 
+Horas  
+
+Tipo: Teorica 
+Teoria: Practica: 
+
+6 96 6 0 
+Modalidad: Curso Duracion del programa: Semestral 
+
+ 
+ 
+Asignatura con seriacion obligatoria antecedente: Ninguna 
+ 
+Asignatura con seriacion obligatoria subsecuente: Ninguna 
+ 
+Asignatura con seriacion indicativa antecedente: Matematicas para Ciencias Aplicadas III 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+
+Objetivos generales:  
+
+Comprender el significado geometrico de ecuaciones diferenciales. Aprender los metodos 
+analiticos y numericos mas utilizados para su resolucion. Formular problemas de muy distintos 
+origenes mediante ecuaciones diferenciales o sistemas de ecuaciones diferenciales, asi como 
+de interpretar las soluciones obtenidas.  
+
+Obtener algunas conclusiones respecto al comportamiento cualitativo de las soluciones de 
+sistemas de ecuaciones no lineales. 
+
+Entender los modelos clasicos de la Fisica que ejemplifican los tres tipos de Ecuaciones 
+Diferenciales Parciales de segundo orden y aprendera los metodos basicos para su resolucion. 
+ 
+
+Indice tematico 
+
+Unidad Temas  
+Horas 
+
+Teoricas Practicas 
+PARTE I: Ecuaciones Diferenciales Ordinarias 
+
+I Ecuaciones Diferenciales de 1er Orden 12 0 
+II Existencia y unicidad de soluciones 10 0 
+III Ecuaciones Diferenciales de 2o Orden 12 0 
+
+IV 
+Ecuaciones diferenciales de 2o Orden con 
+coeficientes variables 
+
+6 0 
+
+
+
+ 
+
+- 60 - 
+ 
+
+V Sistemas de Ecuaciones 12 0 
+PARTE II: Introduccion a las Ecuaciones Diferenciales Parciales 
+
+VI Ecuaciones de Tipo Hiperbolico 20 0 
+VII Ecuaciones de tipo Parabolico 12 0 
+VIII Ecuaciones de tipo Eliptico 12 0 
+
+Total de horas: 96 0 
+Suma total de horas: 96 
+
+ 
+Contenido tematico 
+
+Unidad Tema 
+I Ecuaciones Diferenciales de 1er Orden 
+I.1 Definicion y significado geometrico. 
+I.2 Ecuaciones lineales (aplicaciones). 
+I.3 Variables separables (aplicaciones) 
+I.4 Ecuaciones diferenciales exactas y factor de integracion (aplicaciones). 
+II Existencia y unicidad de soluciones 
+II.1 Teorema de existencia y unicidad (sin demostracion). 
+II.2 Introduccion a Matlab. 
+II.3 Metodos Numericos. 
+III Ecuaciones Diferenciales de 2o Orden 
+III.1 Problemas de condiciones iniciales y problemas de condiciones en la frontera. 
+III.2 Ecuaciones lineales de 2o Orden. 
+III.3 Coeficientes constantes. 
+III.4 Transformada de Laplace. 
+III.5 Discontinuidades y funciones de impulso. 
+IV Ecuaciones diferenciales de 2o Orden con coeficientes variables 
+IV.1 Solucion en serie. 
+IV.2 Ecuacion de Euler. 
+IV.3 Puntos singulares regulares y metodo de Frobenius. 
+IV.4 Funciones especiales. 
+V Sistemas de Ecuaciones 
+V.1 Sistemas de ecuaciones lineales homogeneos. 
+V.2 Sistema de ecuaciones lineales no homogeneos. 
+V.3 Interpretacion geometrica y aplicaciones. 
+V.4 Introduccion a sistemas no lineales. 
+VI Ecuaciones de Tipo Hiperbolico 
+VI.1 Problemas que conducen a ecuaciones de tipo hiperbolico. 
+VI.2 Oscilaciones transversales de una cuerda. 
+VI.3 Oscilaciones longitudinales de barras y cuerdas. 
+VI.4 Metodo de propagacion de las ondas. 
+VI.5 Metodo de separacion de variables. 
+VII Ecuaciones de tipo Parabolico 
+VII.1 Problemas que conducen a ecuaciones de tipo parabolico. 
+
+
+
+ 
+
+- 61 - 
+ 
+
+VII.2 Propagacion del calor. 
+VII.3 Ecuacion de difusion. 
+VII.4 Metodo de separacion de variables. 
+VIII Ecuaciones de tipo Eliptico 
+VIII.1 Problemas que se reducen a la ecuacion de Laplace. 
+VIII.2 Campo termico estacionario. 
+VIII.3 Problemas de potencial. 
+VIII.4 Formulas de Green. 
+VIII.5 Resolucion de problemas simples por metodo de separacion de variables. 
+ 
+
+Bibliografia basica: 
+
+1. Boice, W., DiPrima, R., Elementary Differential Equations and Boundary Value Problems. 
+Wiley, New York, 2004. 
+
+2. Edwards, C. H., Penney, D. E., Ecuaciones diferenciales elementales y problemas con 
+condiciones a la frontera. Prentice Hall, Mexic, 2002.. 
+
+Bibliografia complementaria: 
+
+1. Cooper, J. M., Introduction to Partial Differential Equations with MatLab. Birkhauser, Boston, 
+1998. 
+
+2. Hubbard, J. H., West, B. H., Differential Equations: A Dynamical Systems Approach. 
+Springer-Verlag, Berlin, 1995. 
+
+3. Zill, D. G., Wright, W. S., Differential Equations with Computer Lab Experiments. PWS 
+Publishing Company, Boston, 1995. 
+
+ 
+
+Sugerencias didacticas: 
+
+Exposicion oral  (X) 
+Exposicion audiovisual  (X) 
+Ejercicios dentro de clase  (X) 
+Ejercicios fuera del aula  (X) 
+Seminarios  (  ) 
+Lecturas obligatorias  (X) 
+Trabajo de investigacion  (  ) 
+Practicas de taller o  (  ) 
+Practicas de campo  (  ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+
+Examenes parciales  (X) 
+Examen final escrito  (X) 
+Trabajos y tareas fuera del aula  (X) 
+Exposicion de seminarios por los  (  ) 
+Participacion en clase  (X) 
+Asistencia  (X) 
+Seminario  (  ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico: 
+
+Matematico, fisico actuario o licenciado en ciencias de la computacion, especialista en el area 
+de la asignatura a juicio del comite de asignacion de cursos. Con experiencia docente. 
+  
+
+

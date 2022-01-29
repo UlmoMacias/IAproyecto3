@@ -1,0 +1,171 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+323 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Sistemas Dinamicos Computacionales I 
+
+Clave:  
+  
+
+Semestre: 
+6-8 
+
+Eje tematico: 
+Bio-Informatica 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Matematicas para las Ciencias de la 
+Tierra III; Modelado y Programacion 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Proporcionar conocimientos generales de la dinamica no lineal y el caos.   
+Conocer y aplicar los sistemas dinamicos continuos no-lineales. 
+Implementar  las herramientas computacionales de uso comun en el estudio de los sistemas 
+dinamicos no-lineales. 
+Conocer y aplicar los sistemas dinamicos discretos. 
+Comprender a profundidad el concepto de caos.  
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Solucion numerica de sistemas de ecuaciones diferenciales 3 4 
+II Sistemas dinamicos Hamiltonianos 9 I2 
+III Caos en sistemas dinamicos continuos 12 16 
+IV Sistemas dinamicos discretos en una dimension 12 16 
+V Sistemas dinamicos discretos en dos dimensiones 6 8 
+VI Sincronizacion 6 8 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+
+
+
+324 
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Solucion numerica de sistemas de ecuaciones diferenciales 
+I.1 El metodo de Runge-Kutta. 
+I.2 Problemas de precision. 
+II Sistemas dinamicos hamiltonianos 
+II.1 El oscilador armonico. 
+II.2 El oscilador armonico amortiguado. 
+II.3 El oscilador de Duffing. 
+II.4 El oscilador de Duffing forzado. 
+III Caos en sistemas dinamicos continuos 
+III.1 Secciones de Poincare. 
+III.2 Diagramas de bifurcacion. 
+III.3 La ruta al caos de la intermitencia. 
+III.4 Atractores extranos. 
+III.5 Sensibilidad a condiciones iniciales. 
+III.6 Exponentes de Liapunov. 
+IV Sistemas dinamicos discretos en una dimension 
+IV.1 El mapeo logistico. 
+IV.2 Atractores, Repulsores, Orbitas, Conjuntos Limite. 
+IV.3 El mapeo de la tienda. 
+IV.4 Dinamica simbolica. 
+IV.5 La ruta al caos del doblamiento de periodo. 
+IV.6 Las constantes de Feigenbaum. 
+V Sistemas dinamicos discretos en dos dimensiones 
+V.1 El mapeo de Henon. 
+V.2 El gato de Arnold. 
+VI Sincronizacion 
+VI.1 Sincronizacion en la naturaleza. 
+VI.2 El modelo de Kuramoto. 
+VI.3 Sincronizacion de osciladores caoticos. 
+ 
+
+Bibliografia basica: 
+1. Devaney, R., An Introduction to Chaotic Dynamical Systems, 2a edicion, Westview Press, 
+
+2003. 
+2. Holmgren, R., A First Course in Discrete Dynamical Systems, Springer, 2006. 
+3. Ott, E., Chaos in Dynamical Systems, 2a edicion, Cambridge University Press, 2002. 
+ 
+
+Bibliografia complementaria: 
+1. Stewart, I., Does God Play Dice? The New Mathematics of Chaos, Wiley-Blackwell, 2002. 
+
+
+
+325 
+ 
+
+2. Katok, A., Introduction to the Modern Theory of Dynamical Systems, Cambridge University 
+Press, 1996. 
+
+ 
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (   ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (   ) 
+Practicas de taller o 
+laboratorio 
+
+(X) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (   ) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (X) 
+Exposicion de seminarios por los 
+alumnos 
+
+(   ) 
+Participacion en clase (X) 
+Asistencia (   ) 
+Proyectos de programacion (X) 
+Proyecto final (   ) 
+Seminario (   ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Matematico, fisico, actuario o Licenciado en Ciencias de la Computacion, especialista en el 
+area de la asignatura a juicio del comite de asignacion de cursos. Con experiencia docente. 
+ 
+  
+
+

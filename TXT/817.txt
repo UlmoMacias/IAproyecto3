@@ -1,0 +1,255 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+111 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+
+Facultad de Ciencias 
+
+Programa de la asignatura 
+
+ 
+
+Denominacion de la asignatura:  
+Compiladores 
+
+Clave:  
+0817 
+
+Semestre: 
+7 
+
+Eje tematico: 
+Integracion Teoria-Practica 
+
+No. Creditos:   
+10 
+
+Caracter: Obligatoria Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion obligatoria antecedente: Organizacion y Arquitectura de 
+Computadoras; Automatas y Lenguajes Formales 
+ 
+Asignatura con seriacion obligatoria subsecuente: Ninguna 
+ 
+Asignatura con seriacion indicativa antecedente: Analisis de Algoritmos; Lenguajes de 
+Programacion 
+  
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Reconocer los entornos en  los que es conveniente construir un compilador; revisar las  
+distintas organizaciones y etapas de un compilador, tanto  las herramientas para la generacion 
+automatica de las etapas del  compilador susceptibles de ser generadas automaticamente, 
+como las  consideraciones principales a tomar en cuenta para aquellas etapas  que se deben 
+desarrollar ad-hoc.  
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion a lo que es un compilador 3 4 
+II Analisis lexico 6 8 
+III Analisis sintactico 6 8 
+IV Analisis dependiente del contexto 6 8 
+V Representaciones intermedias 3 4 
+VI La abstraccion de procedimiento 3 4 
+
+
+
+112 
+ 
+
+VII Estructura del  codigo generado 3 4 
+VIII Introduccion a optimizacion de codigo 3 4 
+IX Analisis de flujo de datos 3 4 
+X Eleccion de instrucciones 3 4 
+XI Programacion de instrucciones 6 8 
+XII Asignacion de registros 3 4 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Introduccion a lo que es un compilador 
+I.1 Justificacion. 
+I.2 Areas de aplicacion. 
+I.3 Principios fundamentales de compiladores. 
+I.4 Estructura de un compilador. 
+I.5 Vista de alto nivel de la compilacion. 
+I.6 Propiedades deseables en un compilador. 
+I.7 Resumen y perspectiva. 
+II Analisis lexico 
+II.1 En que consiste. 
+II.2 Reconocimiento de palabras. 
+II.3 Expresiones regulares. 
+II.4 Construccion del analizador lexico a partir de expresiones regulares. 
+II.5 Implementacion de analizadores lexicos. 
+II.6 Herramientas automaticas para la construccion de analizadores lexicos. 
+III Analisis sintactico 
+III.1 Introduccion. 
+III.2 Sintaxis de expresiones. 
+III.3 Reconocimiento descendente. 
+III.4 Reconocimiento ascendente. 
+III.5 Construccion de tablas LR(1). 
+III.6 Aspectos practicos. 
+III.7 Manipulacion de gramaticas (optimizacion y reduccion del tamano de tablas). 
+IV Analisis dependiente del contexto 
+IV.1 Introduccion. 
+IV.2 Sistemas de tipos. 
+IV.3 Gramaticas de atributos. 
+IV.4 Traduccion \emph{ad-hoc} dirigida por la sintaxis. 
+IV.5 Temas avanzados (inferencia de tipos y cambio de asociatividad). 
+V Representaciones intermedias 
+V.1 Taxonomia de representaciones intermedias. 
+V.2 Conjuntos de representaciones intermedias graficas. 
+V.3 Representaciones intermedias lineales. 
+
+
+
+113 
+ 
+
+V.4 Forma de asignacion simple estatica. 
+V.5 Transformacion de valores a nombres. 
+V. 6 Tablas de simbolos. 
+VI La abstraccion de procedimiento 
+VI.1 Aspectos importantes. 
+VI.2 Abstraccion de control de flujo. 
+VI.3 Espacio de nombres. 
+VI.4 Comunicacion de valores entre procedimientos. 
+VI.5 Establecimiento de la direccionabilidad. 
+VI.6 Ligado estandarizado. 
+VI.7 Manejo de la memoria. 
+VII Estructura del  codigo generado 
+VII.1 Importancia del tema. 
+VII.2 Asignacion de espacios de almacenamiento. 
+VII.3 Operadores aritmeticos. 
+VII.4 Operadores booleanos y relacionales. 
+VII.5 Almacenamiento y acceso a arreglos. 
+VII.6 Cadenas de caracteres. 
+VII.7 Referencias a estructuras. 
+VII.8 Construcciones para el control del flujo. 
+VII.9 Llamadas a procedimientos. 
+VII.10 Implementacion en lenguajes orientados a objetos. 
+VIII Introduccion a optimizacion de codigo 
+VIII.1 Aspectos generales. 
+VIII.2 Antecedentes. 
+VIII.3 Expresiones redundantes. 
+VIII.4 Alcance de la optimizacion: metodos locales, super-locales, por region, globales y 
+
+de toda la aplicacion. 
+VIII.5 Numeracion de valores sobre regiones mayores al bloque basico. 
+VIII.6 Eliminacion global de redundancia. 
+VIII.7 Temas avanzados: clonacion y sustitucion en linea.. 
+IX Analisis de flujo de datos 
+IX.1 Aspectos generales. 
+IX.2 Analisis de flujo de datos iterativo. 
+IX.3 Forma de asignacion simple estatica. 
+X Eleccion de instrucciones 
+X.1 Importancia para la portabilidad. 
+X.2 Esquema simple de recorrido de arboles. 
+X.3 Seleccion de instrucciones mediante apareamiento de arboles. 
+X.4 Seleccion usando optimizacion con mirilla (peephole). 
+XI Programacion de instrucciones 
+XI.1 Aspectos importantes. 
+XI.2 El problema de la programacion de instrucciones. 
+
+
+
+114 
+ 
+
+XI.3 Programacion en listas. 
+XII Asignacion de registros 
+XII.1 Importancia. 
+XII.2 Aspectos subyacentes. 
+XII.3 Asignacion y alojamiento locales de registros. 
+XII.4 Alojamiento y asignacion cruzando fronteras de bloques basicos. 
+XII.5 Alojamiento y asignacion globales. 
+ 
+
+Bibliografia basica: 
+1. Keith D. Cooper y Linda Torczon, Engineering a Compiler, Morgan Kaufmann, 2004. 
+2. Michael Lee Scott, Programming Language Pragmatics, Morgan-Kauffman Publishers, 
+
+2009. 
+3. Aho, Lam, Sethi y Ullman, Compilers, Principles, Techniques and Tools, Second Edition, 
+
+Pearson Education Inc., 2007. 
+Bibliografia complementaria: 
+4. Aho, Lam, Sethi y Ullman, Compilers, Principles, Techniques and Tools, Second Edition, 
+
+Pearson Education Inc., 2007. 
+5. Aho y Ullman, The Theory of Parsing, Translation and Compiling, Vol. 1, Parsing, Prentice-
+
+Hall, 1972. 
+6. Aho y Ullman, The Theory of Parsing, Translation and Compiling, Vol. 2, Prentice-Hall, 
+
+1973. 
+7. Duck Grune, Henri E. Bal, Ceriel J. H. Jacobs y Koen G. Langendoen, Modern Compiler 
+
+Design, John Wiley y Sons, Ltd., 2000. 
+8. Michael Lee Scott, Programming Language Pragmatics, Morgan-Kauffman Publishers, 
+
+2009. 
+9. Reinhard Wilhelm y Dieter Maurer, Compiler Desig, Addison-Wesley, 1995. 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula ( ) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion ( ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito ( ) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos ( ) 
+Participacion en clase (X) 
+Asistencia ( ) 
+Proyectos de programacion (X) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+ 
+
+
+
+115 
+ 
+
+Perfil profesiografico: 
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o Matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+ 
+  
+
+

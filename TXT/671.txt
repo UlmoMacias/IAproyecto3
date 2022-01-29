@@ -1,0 +1,177 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+231 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+
+Facultad de Ciencias 
+
+Programa de la asignatura 
+
+ 
+
+Denominacion de la asignatura:  
+Logica Computacional II 
+
+Clave:  
+ 
+
+Semestre:  
+6-8 
+
+Eje tematico: 
+Logica Matematica y Computacional 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Logica Computacional 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+
+Objetivo general:  
+
+Presentar y formar en varios sistemas logicos utilizados en ciencias de la computacion. 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion y preliminares 6 8 
+II Logica Modal Proposicional 12 16 
+III Logica Epistemica 6 8 
+IV Logica Dinamica 9 12 
+V Logica Hibrida 9 12 
+VI Aplicaciones 6 8 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+  
+
+
+
+232 
+ 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Introduccion y preliminares 
+I.1 Logica proposicional, sintaxis y semantica 
+I.2 Logica de primer orden, sintaxis y semantica. 
+ Sistema de deduccion. 
+II Logica Modal Proposicional 
+II.1 Sintaxis 
+II.2 Semantica, estructuras de Kripke 
+II.3 Sistemas axiomaticos: K, T, S4 y S5. 
+II.4 Estructuras de Kripke asociadas a los sistemas axiomaticos. 
+II.5 Sistemas de deduccion natural para Logica Modal Proposicional. 
+II.6 Logicas multimodales, ejemplos 
+III Logica Epistemica 
+III.1 Motivacion: representacion del conocimiento 
+III.2 Sintaxis, operador de conocimiento 
+III.3 Semantica 
+III.4 Sistemas axiomaticos: K, T, S4 y S5 
+III.5 Conocimiento grupal y axiomatizacion. 
+IV Logica Dinamica 
+
+IV.1 Motivacion: razonamiento de programas, acciones. 
+ 
+
+IV.2 Sintaxis, acciones, operadores modales y composicion de acciones. 
+IV.3 Axiomas, derivaciones, reglas de inferencia, asignacion y test de proposiciones. 
+IV.4 Semantica de mundos posibles. 
+V Logica Hibrida 
+V.1 Logica modal, LTL, CTL. 
+V.2 Motivacion y nominales. 
+V.3 Sintaxis y semantica: operadores de satisfaccion y de ligado. 
+V.4 CTL hibrida: sintaxis y semantica de Kripke. 
+VI Aplicaciones 
+
+VI.1 Calculo m. 
+6.2. Logica de Hennesy-Milner. 
+
+VI.2  
+ 
+
+Bibliografia basica: 
+1. Blackburn P., de Rijke M., Venema Y., Modal Logic, Cambridge Tracts in Theoretical 
+
+Computer Science, 2001. 
+2. Harel D., Kozen D., Tiuryn J., Dynamic Logic, MIT Press, 1984. 
+3. Huth M., Ryan M., Logic in computer science 2a ed., Cambridge University Press, 2004. 
+
+
+
+233 
+ 
+
+4. Priest, An introduction to non-classical logic, 2001. 
+5. Van Ditmarsch H., Van der Hoek W., Kooi B., Dynamic Epistemic Logic, Springer, 2008. 
+
+Bibliografia complementaria: 
+1. Areces, C., Logic Engineering. The Case of Description and Hybrid Logics, Ph.D. Thesis, 
+
+Institute for Logic, Language and Computation, University of Amsterdam, Amsterdam, The 
+Netherlands, 2000. 
+
+2. Popkorn S.,First steps in Modal Logic, Cambridge University Press, 1994. 
+3. Reeves S., Clarke M., Logic for computer science, Addison Wesley, 1990. 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (  ) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (  ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (  ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (  ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Exposicion de seminarios por los alumnos (  ) 
+Participacion en clase (X) 
+Asistencia (  ) 
+Seminario (  ) 
+ 
+Otras: Practicas de laboratorio. Proyectos de 
+programacion. 
+  
+
+Perfil profesiografico: Egresado preferentemente de la Licenciatura en Ciencias de la 
+Computacion o Matematico con especialidad en Computacion. Es conveniente que posea un 
+posgrado en la disciplina. Con experiencia docente. 
+ 
+ 
+ 
+ 
+ 
+  
+
+

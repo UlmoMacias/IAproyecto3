@@ -1,0 +1,188 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+342 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Teoria de Codigos 
+
+Clave:  
+0815 
+
+Semestre: 
+8 
+
+Eje tematico: 
+Estructuras Discretas 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Algebra Moderna I; Teoria de los 
+Numeros II; Introduccion a la Criptografia 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Conocer los fundamentos de la Teoria de Codigos correctores de errores. Presentar diversos 
+metodos de construccion de Codigos. Enfatizar en la existencia de codigos optimos que estan 
+relacionados a la existencia de objetos matematicos concretos. 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 2   3 
+II Campos Finitos 7 10 
+III Codigos MDS 7 8 
+IV Codigos Perfectos 8 10 
+V Geometrias Finitas y Codigos 7 10 
+VI Construcciones recursivas 8 10 
+VII Codigos Ciclicos 7 10 
+VIII Temas optativos 2 3 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+ 
+
+Contenido tematico 
+
+
+
+343 
+ 
+
+Unidad Tema 
+I Introduccion 
+I.1 Motivacion. 
+I.2 Mensaje, palabras y canal de transmision. 
+I.3 Metrica de Hamming. 
+I.4 Codigos Lineales. 
+II Campos Finitos 
+II.1 Enteros Modulo p. 
+II.2 Polinomios irreducibles y separables. 
+II.3 Extensiones Algebraicas de Zp. 
+II.4 Automorfismo de Frobenio. 
+II.5 Traza y Norma 
+II.6 Construccion de campos finitos concretos. 
+III Codigos MDS 
+III.1 Cota del Singulete. 
+III.2 Codigos de ReedSolomon. 
+III.3 Decodificacion de Gao. 
+IV Codigos Perfectos 
+IV.1 Cota del empaquetamiento por esferas. 
+IV.2 El Codigo Dual. 
+IV.3 Codigo Simplex. 
+IV.4 Codigo de Hamming. 
+IV.5 Fuerza de una matriz. 
+IV.6 Decodificacion de Hamming. 
+V Geometrias Finitas y Codigos 
+V.1 Espacios vectoriales sobre campos finitos. 
+V.2 Proyectivizacion de un Espacio Vectorial. 
+V.3 Codigos asociados a Conicas sobre campos finitos. 
+V.4 El Metodo Geometrico. 
+VI Construcciones recursivas 
+VI.1 Codigo residual. 
+VI.2 Cota de Griesmer. 
+VI.3 Construccion X. 
+VI.4 Construccion XX. 
+VI.5 Radio de Cubierta. 
+VII Codigos Ciclicos 
+VII.1 Anillos e ideales. 
+VII.2 Codigos Ciclicos e ideales. 
+VII.3 Matriz Generadora de un Codigo Ciclico. 
+VII.4 Matriz de Verificacion de Paridad de un Codigo Ciclico. 
+VII.5 El polinomio generador. 
+VIII Temas optativos 
+
+
+
+344 
+ 
+
+VIII.1 Codigos de Goppa. 
+VIII.2 Construccion de funciones Hash a partir de Codigos Correctores. 
+VIII.3 Codigos Cuanticos. 
+ 
+
+Bibliografia basica: 
+1. Bierbrauer, J., Introduction to Coding Theory, Chapman and Hall, CRC, 2004. 
+2. Van Lint, J. H., Introduction to Coding Theory, SpringerVerlag, GTM, 1998. 
+Bibliografia complementaria: 
+1. Assmuss, E. F. y Key, J. D., Designs and Their Codes, Cambridge Tracts in Mathematics 
+2. Roman, S., Coding and Information Theory, SpringerVerlag, GTM 1992. 
+3. Stepanov, S., Codes and Algebraic Curves, Springer; 1999. 
+4. Pless, V., Introduction to the Theory of ErrorCorrecting Codes, 3rd Edition 1998. 
+5. Wade, T. y Washington, L. C., Introduction to Cryptography with Coding Theory, Pearson, 
+
+2002. 
+6. Hirschfeld, J. W., Projective Geometries Over Finite Fields, Second Edition Oxford 
+
+University Press, 555 + xiv pp., 1998. 
+7. Hirschfeld, J. W., Finite Projective Spaces of Three Dimensions, Oxford University Press, 
+
+316 + x pp., 1985. 
+Software sugerido:  
+1. GAP, con paquetes guava, factint y design.  
+2. Maple.  
+3. Mathematica. 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (   ) 
+Seminarios (   ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (   ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (   ) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (X) 
+Exposicion de seminarios por los alumnos (   ) 
+Participacion en clase (X) 
+Asistencia (   ) 
+Proyectos de programacion (X) 
+Proyecto final (   ) 
+Seminario (   ) 
+ 
+Otras: _____________________________ 
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+
+

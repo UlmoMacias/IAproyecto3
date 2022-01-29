@@ -1,0 +1,176 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+329 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Sistemas Manejadores de Bases de Datos 
+
+Clave:  
+0826 
+
+Semestre: 
+6-8 
+
+Eje tematico: 
+Bases de Datos y Manejo de la Informacion 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Fundamentos de Bases de Datos 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Conocer y aplicar los conocimientos de los aspectos fundamentales de la implementacion y 
+funcionamiento interno de un sistema manejador de bases de datos. 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 3 4 
+II Almacenamiento y estructura de archivos 6 8 
+III Metodos de indexamiento 9 12 
+IV Procesamiento y optimizacion de consultas 12 16 
+V Procesamiento de transacciones 6 8 
+VI Control de concurrencia 6 8 
+VII Sistema de recuperacion 6 8 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Panorama general de un SMBD. 
+I.2 Revision del modelo relacional. 
+
+
+
+330 
+ 
+
+I.3 Revision de SQL. 
+II Almacenamiento y estructura de archivos 
+II.1 Organizacion de la memoria. 
+II.2 Los discos duros. 
+II.3 Los niveles RAID. 
+II.4 Organizacion de archivos. 
+III Metodos de indexamiento 
+III.1 Indices sobre archivos secuenciales. 
+III.2 Indices secundarios. 
+III.3 Arboles B+. 
+III.4 Tablas de dispersion. 
+III.5 Indices de multiples dimensiones y mapas de bits. 
+IV Procesamiento y optimizacion de consultas 
+IV.1 Algebra y calculo relacional. 
+IV.2 Algoritmos de una pasada. 
+IV.3 Algoritmos de dos pasadas basados en ordenamientos y en dispersion. 
+IV.4 Algoritmos de mas de dos pasadas. 
+IV.5 Algoritmos basados en indices. 
+IV.6 El compilador de consultas. 
+V Procesamiento de transacciones 
+V.1 Concepto, problemas. 
+V.2 Propiedades ACID de una transaccion. 
+V.3 Implementacion de ACID. 
+V.4 Seriabilidad. 
+VI Control de concurrencia 
+VI.1 Seriabilidad y sus problemas. 
+VI.2 Bloqueos y sus tipos. 
+VI.3 Deadlock: definicion, manejo y prevencion. 
+VI.4 Planeacion. 
+VI.5 Metodos de control de concurrencia. 
+VII Sistema de recuperacion 
+VII.1 Tipos de fallas. 
+VII.2 Seriabilidad. Paginacion sombra. 
+VII.3 Recuperacion. 
+VII.4 Tipos de almacenamiento. 
+VII.5 Recuperacion basada en registro historico. 
+VII.6 Proteccion contra fallas en los medios. 
+VII.7 Paginacion sombra. 
+VII.8 Recuperacion en transacciones concurrentes. 
+ 
+  
+
+
+
+331 
+ 
+
+Bibliografia basica: 
+1. Elmasri and Navathe, Fundamentals of Database Systems, Addison-Wesley. Sexta 
+
+Edicion. 2010. 
+2. Silberschatz A., Kort H. y Sudarshan S., Fundamentos de Bases de Datos. McGraw Hill. 
+
+Sexta edicion. 2010. 
+3. Ullman J.D. and Widom J., Database System. The Complete Book, Prentice Hall. Segunda 
+
+edicion. 2008. 
+Bibliografia complementaria: 
+1. Articulos escogidos de ACM SIGMOD y similares. 
+ 
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (   ) 
+Lecturas obligatorias (   ) 
+Trabajo de investigacion (   ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (X) 
+Exposicion de seminarios por los 
+alumnos 
+
+(   ) 
+Participacion en clase (   ) 
+Asistencia (   ) 
+Proyectos de programacion (   ) 
+Proyecto final (   ) 
+Seminario (   ) 
+ 
+Otras: Desarrollo de una aplicacion 
+  
+
+Perfil profesiografico: 
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico 
+con especialidad en computacion con amplia experiencia de programacion. Es conveniente 
+que posea un posgrado en la disciplina. Con experiencia docente.  
+ 
+  
+
+

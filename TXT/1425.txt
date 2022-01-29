@@ -1,0 +1,239 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+68 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Automatas y Lenguajes Formales 
+
+Clave:  
+ 
+
+Semestre:  
+4 
+
+Eje tematico: 
+Computacion Teorica 
+
+No. Creditos:   
+10 
+
+Caracter: Obligatoria Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 6 96 4 2 
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+ 
+Asignatura con seriacion obligatoria antecedente: Algebra Superior I; Estructuras Discretas 
+ 
+Asignatura con seriacion obligatoria subsecuente: Compiladores; Complejidad 
+Computacional  
+ 
+Asignatura con seriacion indicativa antecedente: Algebra Lineal I; Graficas y Juegos; 
+Estructuras de Datos 
+ 
+Asignatura con seriacion indicativa subsecuente: Lenguajes de Programacion 
+ 
+
+Objetivo general: 
+Conocer y aplicar los conceptos de automatas con un numero finito de estados, identificar 
+problemas que no tienen solucion en estos modelos, reconocer la clase a la que pertenece 
+determinado lenguaje y, por lo tanto, cuales propiedades tiene y cuales no;  
+Proponer soluciones en ambos tipos de modelos y esten conscientes de las limitaciones y 
+posibilidades de computo que presenta cada uno de los modelos expuestos. 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 8 4 
+
+II Maquinas con un numero finito de estados y 
+lenguajes tipo 3 12 6 
+
+III Automatas con pila 4 2 
+IV Lenguajes libres del contexto 16 8 
+V Maquinas de Turing 8 4 
+
+
+
+69 
+ 
+
+VI La Jerarquia de Chomsky 8 4 
+VII Introduccion a decidibilidad 8 4 
+
+Total de horas: 64 32 
+Suma total de horas: 96 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Motivacion. 
+I.2 Cadenas y lenguajes. 
+I.3 Expresiones regulares. 
+I.4 Modelos matematicos de cadenas. 
+I.5 Gramaticas y lenguajes formales. 
+I.6 Conceptos basicos de gramaticas. 
+I.7 Gramaticas formales. 
+I.8 Clasificacion de gramaticas. 
+I.9 Arboles de derivacion. 
+II Maquinas con un numero finito de estados y lenguajes tipo 3 
+II.1 Definicion. 
+II.2 Aplicaciones e instrumentacion. 
+II.3 Equivalencia. 
+II.4 Minimizacion. 
+II.5 Modelos alternativos. 
+II.6 Lenguajes tipo 3. 
+II.7 Propiedades de los lenguajes regulares. 
+II.8 Relacion entre automatas finitos, lenguajes regulares y expresiones regulares. 
+III Automatas con pila 
+III.1 Formalizacion. 
+III.2 Traduccion con automatas con pila. 
+III.3 Ciclos en los automatas con pila. 
+III.4 Automatas con pila de un solo estado. 
+III.5 Traduccion con automatas de pila. 
+III.6 Ciclos en los automatas de pila deterministas. 
+IV Lenguajes libres del contexto 
+IV.1 Recapitulacion. 
+IV.2 Simplificacion de gramaticas libres del contexto. 
+IV.3 Formas normales. 
+IV.4 Equivalencia entre automatas de pila y lenguajes libres del contexto. 
+IV.5 Propiedades de los lenguajes libres del contexto. 
+IV.6 Caracterizacion de lenguajes que no son libres del contexto. 
+IV.7 Lema de Ogden. 
+IV.8 Propiedades de cerradura de LLC. 
+
+
+
+70 
+ 
+
+IV.9 Decidibilidad en lenguajes libres del contexto. 
+V Maquinas de Turing 
+V.1 Motivacion. 
+V.2 Definiciones y notacion. 
+V.3 Tecnicas para la construccion de maquinas de Turing. 
+V.4 La maquina de Turing como un procedimiento. 
+V.5 Distintos tipos de maquinas de Turing. 
+V.6 La maquina universal de Turing. 
+V.7 Automatas linealmente acotados. 
+VI La Jerarquia de Chomsky 
+VI.1 Lenguajes recursivos y recursivamente numerables. 
+VI.2 Gramaticas sin restricciones. 
+VI.3 Lenguajes generales y maquinas de Turing. 
+VI.4 Lenguajes dependientes del contexto y automatas linealmente acotados. 
+VII Introduccion a decidibilidad 
+VII.1 Significado  de  "indecidibilidad''. 
+VII.2 El problema de la detencion (Halting Problem). 
+VII.3 Reduccion. 
+VII.4 Indecidibilidad en Maquinas de Turing. 
+VII.5 Otros problemas de indecidibilidad. 
+ 
+
+Bibliografia basica: 
+1. Viso G., E., Introduccion a la teoria de la computacion. Las Prensas de Ciencias, 2008. 
+
+(libro escrito para este curso). 
+2. Rich, E., Automata, Computability and Complexity, theory and applications. Pearson 
+
+Prentice Hall, 2008. (libro relativamente nuevo, con buenas bases teoricas y una gran 
+cantidad de ejemplos novedosos y aplicaciones). 
+
+ 
+Bibliografia complementaria: 
+1. Aho A.V., Lam M., Sethi S.R. and Ullman J.D., Compilers: Principles, Techniques, & Tools. 
+
+Pearson Addison-Wesley, 2007. (Buena fuente de ejemplos y aplicaciones, ademas de que 
+extiende la teoria de la parte sintactica para lenguajes regulares y libres del contexto). 
+
+2.  Ceruzzi, P. E., A History of Modern Computing. The MIT Press, 2nd. Edition, 2003. (Para 
+informacion historica de las abstracciones en computacion). 
+
+3. Cooper, K. D. and Torkzon, L., Engineering a Compiler. Morgan Kaufman Publishers, 2004. 
+(Aplicaciones para lenguajes regulares y libres del contexto). 
+
+4. Hopcroft, J. E., Motwani, R., and Ullman, J., Introduction to Automata Theory, Languages, 
+and Computation. Addison-Wesley Publishing Company, third edition edition, 2007. (libro 
+clasico con un desarrollo teorico adecuado). 
+
+5. Ifrah, G., Harding, E. F, Bellos, D., Wood S., The Universal History of Computing: From the 
+Abacus to Quantum Computing. John Wiley & Sons, Inc., 2000. (Interesantes aspectos 
+sobre el desarrollo de abstracciones de computo). 
+
+
+
+71 
+ 
+
+6. Kozen, D. C., Automata and Computability. Springer-Verlag TELOS, 1997. (Presentacion 
+muy formal y concisa de lenguajes regulares, libres del contexto y maquinas de Turing; tal 
+vez demasiado breve para este curso). 
+
+7. Linz, P., An Introduction to Formal Languages and Automata. D.C. Heath and Company, 
+fourth edition edition, 2006. (Un muy buen libro que cubre los aspectos teoricos, pero da 
+una muy buena intuicion de cada uno de los resultados teoricos). 
+
+8. Sipser, M., Introduction to the Theory of Computation. PWS Publishing Company, second 
+edition, 2005. (Trabaja mas la parte de complejidad, pero trae una parte breve y concisa 
+sobre lenguajes no contraibles). 
+
+9. Sudkamp, T. A., Languages and Machines. Addisson-Wesley, second edition, 1997. (Una 
+vision un pco distinta de los automatas, pues empieza en maquinas de Turing, pero puede 
+proporcionar otro enfoque). 
+
+10. Taylor, R. G., Models of Computation and Formal Languages. Oxford University Press, 
+1998. (Un enfoque un poco mas general que el tradicional). 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (  ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (  ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Exposicion de seminarios por los alumnos (  ) 
+Participacion en clase (  ) 
+Asistencia (X) 
+Seminario (  ) 
+ 
+Otras: Practicas de laboratorio. 
+  
+
+Perfil profesiografico:  
+Profesional de la computacion orientado a la teoria, con fundamentos solidos de matematicas. 
+Es deseable que este curso sea impartido por profesionales con posgrado y con conocimientos 
+de diseno e implementacion de reconocedores de lenguajes. Con experiencia docente. 
+ 
+ 
+ 
+  
+
+

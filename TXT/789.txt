@@ -1,0 +1,123 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+334 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Taller de Ejercicio Profesional B 
+
+Clave:  
+  
+
+Semestre: 
+6-8 
+
+Eje tematico: 
+Seminarios y Tallers 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Practica Teoria: Practica: 
+10 160 0 10 
+
+Modalidad: Taller Duracion del programa: Semestral 
+ 
+
+ 
+ 
+Asignatura con seriacion indicativa antecedente: Modelado y Programacion 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Participar en proyectos de desarrollo de software, ya sea en el contexto de proyectos de 
+investigacion o  vinculacion, para adquirir experiencia en este aspecto y que sea el inicio de un 
+trabajo de titulacion. 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Desarrollo de un proyecto de software 0 160 
+
+Total de horas: 0 160 
+Suma total de horas: 160 
+
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Desarrollo de un proyecto de software 
+I.1 Especificacion del problema. 
+I.2 Recabar los requerimientos del sistema en cuestion. 
+I.3 Diseno del sistema. 
+I.4 Desarrollo e implementacion. 
+
+
+
+335 
+ 
+
+I.5 Validacion. 
+I.6 Implantacion. 
+ 
+
+Bibliografia basica: 
+Depende del tipo de proyecto en el que se involucre 
+
+Bibliografia complementaria: 
+Depende del tipo de proyecto en el que se involucre. 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (   ) 
+Exposicion audiovisual (   ) 
+Ejercicios dentro de clase (   ) 
+Ejercicios fuera del aula (X) 
+Seminarios (   ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (   ) 
+Examen final escrito (   ) 
+Trabajos y tareas fuera del aula (   ) 
+Practicas de laboratorio (X) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia (   ) 
+Proyectos de programacion (   ) 
+Proyecto final (   ) 
+Seminario (   ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+ 
+  
+
+

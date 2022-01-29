@@ -1,0 +1,169 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+317 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Seminario de Ciencias de la Computacion B 
+
+Clave:  
+ 
+
+Semestre: 
+6-8 
+
+Eje tematico: 
+Seminarios y Tallers 
+
+No. Creditos:  
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Seminario Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Analisis de Algoritmos 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general: (Este es un temario muestra del nivel que debe tener el seminario) 
+El tema particular de este seminario es la Teoria de los dominios.  
+Conocer, explicar y aplicar los conocimientos generales de la teoria de dominios, en particular 
+de sus aspectos discretos.  
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion y preliminares 6 8 
+II Ordenes parciales completos 12 16 
+III Dominios 9 12 
+IV Ecuaciones recursivas 12 16 
+V Aplicaciones 9 12 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Introduccion y preliminares 
+I.1 Conjuntos ordenados. 
+I.2 Latices y latices completas. 
+I.3 Nociones basicas de teoria de las categorias. 
+
+
+
+318 
+ 
+
+II Ordenes parciales completos 
+II.1 Definiciones basicas. 
+II.2 Ordenes parciales -completos. 
+II.3 Ordenes parciales completos (cpos). 
+II.4 Espacios de funciones. 
+II.5 Construcciones adicionales. 
+II.6 Teoremas de punto fijo. 
+III Dominios 
+III.1 Convergencia y aproximacion. 
+III.2 Topologia de Scott. 
+III.3 Construcciones finitas e infinitas. 
+III.4 El teorema de representacion. 
+IV Ecuaciones recursivas 
+IV.1 Semilatices superiores condicionales con elemento minimo (cusls). 
+IV.2 Puntos fijos y funtores -continuos. 
+IV.3 Subdominios y pares de proyeccion. 
+IV.4 Solucion de ecuaciones. 
+IV.5 Canonicidad y analisis de soluciones. 
+V Aplicaciones 
+V.1 Un modelo del calculo lambda sin tipos. 
+V.2 Fundamentos de semantica denotacional. 
+V.3 Semantica denotacional del lenguaje de funciones computables de Scott y Plotkin 
+
+(PCF). 
+ 
+
+Bibliografia basica: 
+1. B. A. Davey and H. A. Priestley Introduction to Lattices and Order, 2nd edition, Cambridge 
+
+Univer- sity Press. ISBN 0-521-78451-4. 2002. 
+2. V. Stoltenberg-Hansen, I. Lindstrom, E. R. Griffor. Mathematical theory of domains. 
+
+Cambridge Tracts in Theoretical Computer Science vol. 22. Cambridge University Press 
+1994. 
+
+Bibliografia complementaria: 
+1. S. Abramsky, A. Jung. Domain theory. S. Abramsky, D. M. Gabbay, T. S. E. Maibaum, 
+
+editors, Handbook of Logic in Computer Science III, Oxford University Press. ISBN 0-19-
+853762-X. Una version actualizada esta disponible en 
+http://www.cs.bham.ac.uk/~axj/pub/papers/handy1.pdf 
+
+2. G. Gierz, K. H. Hofmann, K. Keimel, J. D. Lawson, M. Mislove, and D. S. Scott Continuous 
+Lattices and Domain. Encyclopedia of Mathematics and its Applications 93. Cambridge 
+University Press. ISBN 0-521-80338-1. 2003. 
+
+3. G. Plotkin. Domains The Pisa notes Disponibles en 
+http://www.dcs.ed.ac.uk/home/gdp/publications/Domains.ps.gz 1983. 
+
+  
+
+http://www.cs.bham.ac.uk/~axj/pub/papers/handy1.pdf
+http://www.dcs.ed.ac.uk/home/gdp/publications/Domains.ps.gz
+
+
+319 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (X) 
+Lecturas obligatorias (   ) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (   ) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos de evaluacion:  
+Examenes parciales (   ) 
+Examen final escrito (   ) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (   ) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia (   ) 
+Proyectos de programacion (   ) 
+Proyecto final (   ) 
+Seminario (   ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en Computacion. Es conveniente que posea un posgrado en la disciplina. Con 
+experiencia docente. 
+  
+
+

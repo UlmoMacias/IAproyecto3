@@ -1,0 +1,254 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+213 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura: 
+Introduccion a la Criptografia 
+
+Clave:  
+  
+
+Semestre: 
+8 
+
+Eje tematico: 
+Estructuras Discretas 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+ 
+Asignatura con seriacion indicativa antecedente: Analisis de Algoritmos; Teoria de los 
+Numeros I; Algebra Moderna I  
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Proporcionar conocimientos generales de la Criptografia a traves del estudio de diferentes 
+metodos criptograficos historicos y modernos.  Consolidar la  importancia del estudio de objetos 
+matematicos y su aplicacion a la Teoria de la Informacion. Dar al alumno herramientas basicas 
+de analisis criptoanalitico. Presentar a la Criptografia como rama de  investigacion activa.  
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 1 1 
+II Criptografia clasica 15 20 
+III Metodos historicos de llave larga 5 7 
+IV Criptografia moderna y de llave publica 15 20 
+V Esquemas de Firmas 3 4 
+VI Sistemas basados en Curvas Elipticas 6 8 
+VII Optativo 3 4 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+ 
+
+
+
+214 
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Motivacion y principales problemas de la Criptografia. 
+I.2 Esquemas basicos de comunicacion. 
+II Criptografia clasica 
+II.1 Criptografia de sustitucion monoalfabetica.  
+
+ Cifrado de Cesar. 
+ Sustituciones afines. 
+ Alfabetos mezclados. 
+
+II.2 Criptoanalisis de sustitucion monoalfabetica. 
+II.3 Criptografia de sustitucion polialfabetica. 
+
+ Vigenere. 
+ Alberti. 
+
+II.4 Criptoanalisis de sustitucion polialfabetica.   
+ Prueba de Kasiski. 
+ Prueba de Friedman. 
+ Indice de coincidencias. 
+
+II.5 Criptografia de sustitucion poligrafica. 
+ Algebra lineal y metodo de Hill. 
+ Metodos modulares. 
+
+II.6 Criptoanalisis de sustitucion poligrafica.   
+ Ataques al metodo de Hill. 
+ Analisis de frecuencias. 
+ Ataque de palabra probable. 
+
+III Metodos historicos de llave larga 
+III.1 Enigma. 
+III.2 Purpura. 
+III.3 Cifrado de Vernam. 
+III.4 Seguridad Perfecta.  
+
+ Cuadrados Latinos. 
+III.5 Registros de desplazamiento con retroalimentacion lineal. 
+IV Criptografia moderna y de llave publica 
+IV.1 DES. 
+IV.2 Criptoanalisis de DES. 
+IV.3 Funciones de un solo sentido. 
+IV.4 Idea de la Criptografia  de llave publica. 
+IV.5 Intercambio de llaves de Diffie-Hellman. 
+IV.6 Criptosistema de envio de mensajes Massey Omura. 
+IV.7 Criptosistemas de Llave publica. 
+
+ RSA. 
+
+
+
+215 
+ 
+
+ ElGamal. 
+ Rabino. 
+
+IV.8 Criptoanalisis de llave publica. 
+ Ruptura contra ruptura total. 
+ Problemas asociados con el criptoanalisis de llave publica. 
+ Complejidad de operaciones sencillas en Teoria de Numeros. 
+ Problema del Logaritmo Discreto y algoritmos para solucionarlo. 
+
+o Busqueda exhaustiva. 
+o Paso grande, paso chico. 
+o Algoritmo de Pohling Hellman. 
+o Calculo de indices.  
+
+ El problema de factorizacion y algoritmos para solucionarlo. 
+o Division. 
+o Algoritmo de factorizacion Ro de Pollard. 
+o Algoritmo de factorizacion Ro-1 de Pollard. 
+o Criba Cuadratica. 
+
+ Ataques al RSA sin factorizacion del modulo. 
+ Ataque por modulo en comun. 
+ Ataques por exponente publico y/o privado pequeno. 
+ Ataques de implementacion. 
+
+V Esquemas de Firmas 
+V.1 Proceso de firmas y verificacion. 
+V.2 Algoritmos de firmas.  
+
+ ElGamal.  
+ RSA. 
+
+VI Sistemas basados en Curvas Elipticas 
+VI.1 Definicion y estructura de grupo de las Curvas Elipticas. 
+VI.2 Algoritmos para hacer mas eficiente la suma de puntos. 
+VI.3 Criptosistemas basados en Curvas Elipticas. 
+VI.4 Algoritmos de factorizacion y primalidad usando Curvas Elipticas. 
+VII Optativo 
+VII.1 Criptografia cuantica. 
+VII.2 Criptografia Visual. 
+ 
+
+Bibliografia basica: 
+1. Bauer, F. L., Decrypted Secrets, Methods and Maxims of Cryptology, 2a. ed., Springer 
+
+Verlag, 2000.    
+2. Galaviz Jose,   Introduccion a la Criptografia,  Departamento de Matematicas, Facultad de 
+
+Ciencias, UNAM, Vinculos Matematicos #15, 2003.  
+3. Koblitz, Neal, A Course in Number Theory and Cryptography, 2a ed., Springer Verlag, 1994, 
+
+Graduate Texts in Mathematics.   
+
+
+
+216 
+ 
+
+4. Menezes A. J., P. C. van Oorschot y S. A. Vanstone, Handbook of Applied Cryptography, 
+CRC Press, 1996.  
+
+5. Schneier, Bruce, Applied Cryptography, 2a. ed., John Wiley and Sons. 1996.   
+6. Douglas R. Stinson,   Cryptography: Theory and Practice, CRC Press, Inc., Boca Raton, FL, 
+
+USA, 1995. ISBN 0849385210. 
+Bibliografia complementaria: 
+1. John B. Fraleigh, A first course in abstract algebra ,  (Addison-Wesley series in 
+
+mathematics),  Addison-Wesley Pub. Co, July 1976. ISBN 0201019841. 
+2. Joseph H. Silverman and John Tate,   Rational Points on Elliptic Curves, Undergraduate 
+
+Texts in Mathematics. Springer, 1992.   
+3. Whitfield Diffie and Martin E. Hellman, New directions in cryptography, IEEE Transactions 
+
+on Information Theory, IT-22(6):644-654, 1976.  URL citeseer.ist.psu.edu/diffie76new.html.   
+4. Neal Koblitz,   A course in number theory and cryptography, Springer-Verlag New York, Inc., 
+
+New York, NY, USA, 1987. ISBN 0-387-96576-9.   
+5. Lawrence C.Washington,   Elliptic Curves: Number Theory and Cryptography, CRC Press, 
+
+Inc., Boca Raton, FL, USA, 2003. ISBN 1584883650.   
+6. Henri Cohen and Gerhard Frey, editores, Handbook of elliptic and hyperelliptic curve 
+
+cryptography, CRC Press, 2005. ISBN 11584885181 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula ( ) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion ( ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito ( ) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos ( ) 
+Participacion en clase (X) 
+Asistencia ( ) 
+Proyectos de programacion (X) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+  
+
+

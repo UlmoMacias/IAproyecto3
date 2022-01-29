@@ -1,0 +1,202 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+72 
+ 
+
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Logica Computacional 
+
+Clave:  
+ 
+
+Semestre:  
+4 
+
+Eje tematico: 
+Estructuras Discretas 
+
+No. Creditos:   
+10 
+
+Caracter: Obligatoria Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+6 96 4 2 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion obligatoria antecedente: Algebra Superior I;Estructuras Discretas 
+ 
+Asignatura con seriacion obligatoria subsecuente: Complejidad Computacional 
+ 
+ 
+Asignatura con seriacion indicativa antecedente: Algebra Superior II 
+ 
+Asignatura con seriacion indicativa subsecuente: Lenguajes de Programacion; Inteligencia 
+Artificial 
+Objetivo general: 
+Concer y aplicar la logica como una herramienta formal de apoyo en diversas areas de las 
+ciencias de la computacion. 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 2 2 
+II Logica proposicional 7 10 
+III Logica de predicados de primer orden 8 10 
+IV Analisis de argumentos 6 8 
+V Sistemas deductivos 9 12 
+VI El paradigma de programacion logica 10 14 
+VII Extensiones y aplicaciones (opcional) 6 8 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+
+
+
+73 
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Importancia de la logica para las ciencias computacionales. 
+I.2 Panorama de aplicaciones en distintas areas de las ciencias de la computacion. 
+II Logica proposicional 
+II.1 Sintaxis: lenguaje formal, recursion e induccion estructural. 
+II.2 Sustitucion textual. 
+II.3 Semantica: funciones de interpretacion. 
+II.4 Decidibilidad de la logica proposicional. 
+
+II.5 Analisis de argumentos logicos: interpretaciones y/o tableaux semanticos (reglas  
+y ). 
+
+II.6 Resolucion binaria: formas normales negativa y conjuntiva, resolucion binaria 
+proposicional, algoritmos de saturacion, el problema SAT. 
+
+III Logica de predicados de primer orden 
+III.1 Sintaxis y ejemplos de especificacion formal. 
+
+III.2 Conceptos sintacticos: recursion e induccion estructural en terminos y formulas, 
+ligado de variables. 
+
+III.3 Sustitucion: el problema de la sustitucion textual y la captura de variables libres, 
+definicion y -equivalencia, definicion formal de sustitucion. 
+
+III.4 Semantica: introduccion; interpretacion de terminos y formulas; definicion de 
+satisfaccion de Tarski. 
+
+III.5 Conceptos semanticos: verdad, modelos, validez y equivalencia logica. 
+IV Analisis de argumentos 
+IV.1 La nocion de consecuencia logica. 
+IV.2 Argumentos incorrectos: construccion de modelos contraejemplo. 
+IV.3 El teorema de indecidibilidad de Church. 
+V Sistemas deductivos 
+V.1 Generalidades: reglas de inferencia; correctud, completud y completud refutacional. 
+V.2 Tableaux semanticos: reglas  y  
+V.3 Deduccion natural: uso de contextos; logica minimal, intuicionista y clasica; el 
+
+teorema de completud de Godel. 
+V.4 Formas normales: prenex, de Skolem, forma clausular. 
+
+V.5 
+Resolucion binaria: clausulas cerradas; unificacion: unificadores mas generales, 
+algoritmo de Martelli-Montanari; algoritmos de saturacion; estrategias de derivacion 
+(resolucion lineal, resolucion unitaria, conjunto de soporte). 
+
+VI El paradigma de programacion logica 
+VI.1 Resolucion SLD: clausulas de Horn y programas logicos. 
+VI.2 Semantica operacional y declarativa; modelos de Herbrand. 
+
+VI.3 El lenguaje de programacion Prolog: aritmetica, listas, arboles, el operador de 
+corte. 
+
+VII Extensiones y aplicaciones (opcional a elegir alguno de los siguientes temas u otro 
+relacionado a criterio del profesor) 
+VII.1 Introduccion a los sistemas de tipos; la correspondencia de Curry-Howard. 
+
+
+
+74 
+ 
+
+VII.2 Logicas no clasicas: modal, temporal, de Hoare, dinamica, etcetera. 
+VII.3 Logicas de orden superior: logica de segundo orden, logicas relacionales 
+ 
+
+Bibliografia basica: 
+1. Huth M., Ryan M. Logic in Computer Science, modelling and reasoning about systems. 2nd 
+
+Edition, Cambridge University Press 2004. 
+2. Nerode A., Shore R.A. Logic for Applications. 2nd. Edition. Graduate Texts in Computer 
+
+Science. Springer 1997. 
+Bibliografia complementaria: 
+1. Ben-Ari M. Mathematical Logic for Computer Science. 2nd Edition, 3rd corrected printing. 
+
+Springer 2008.  
+2. Fitting M., First-Order Logic and Automated Theorem Proving. Graduate Texts in Computer 
+
+Science. 2nd. Edition. Springer 1996. 
+3. Sperschneider V., Antoniou G. Logic, A Foundation for Computer Science. Addison-Wesley 
+
+1991. 
+4. Socher-Ambrosius R., Johann P. Deduction Systems. Graduate Texts in Computer Science. 
+
+Springer 1997. 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (  ) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (  ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (  ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (  ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Exposicion de seminarios por los alumnos (  ) 
+Participacion en clase (X) 
+Asistencia (  ) 
+Seminario (  ) 
+ 
+Otras: Practicas de laboratorio. Proyectos de 
+programacion. 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o Matematico con 
+especialidad en Computacion. Es conveniente que posea un posgrado en la disciplina. Con 
+experiencia docente. 
+ 
+  
+
+

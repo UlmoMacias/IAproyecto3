@@ -1,0 +1,161 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+372 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Vision por Computadora 
+
+Clave:  
+  
+
+Semestre: 
+8 
+
+Eje tematico: 
+Imagenes y Ambientes Virtuales 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Proceso Digital de Imagenes, 
+Reconocimiento de Patrones 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Conocer y aplicar las diferentes tecnicas de navegacion, seguimiento  y clasificacion de objetos  
+utilizando una videocamara y una computadora digital como apoyo.  
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 6 8 
+II Conceptos basicos de las imagenes 9 12 
+III Procesamiento de la imagen en 2-D y 3-D 9 12 
+IV Analisis de forma de un objeto 12 16 
+
+V Seguimiento tridimensional de partes del cuerpo 
+humano 12 16 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Sistemas de adquisicion de objetos en 2-D. 
+I.2 Sistemas de adquisicion de objetos en 3-D. 
+I.3 Sistemas de adquisicion de objetos en 3-D en movimiento. 
+
+
+
+373 
+ 
+
+II Conceptos basicos de las imagenes 
+II.1 Lectura y escritura de imagenes en diferentes formatos. 
+II.2 Acceso a pixel y planos en las imagenes. 
+II.3 Sub-muestreo de imagenes. 
+III Procesamiento de la imagen en 2-D y 3-D 
+III.1 Filtraje espacial. 
+III.2 Funciones para la extraccion de bordes. 
+III.3 Imagenes binarias. 
+III.4 Segmentacion morfologica. 
+III.5 Analisis de textura. 
+III.6 Analisis de imagenes en color. 
+IV Analisis de forma de un objeto 
+IV.1 Representacion de formas en 2-D y 3-D. 
+IV.2 Obtencion de parametros de formas en 2-D y 3-D. 
+IV.3 Representacion de superficies en 3-D. 
+V Seguimiento tridimensional de partes del cuerpo humano 
+V.1 Trayectorias rectas en 3-D. 
+V.2 Trayectorias curvilineas en 3-D. 
+V.3 Trayectorias aleatorias en 3-D. 
+ 
+
+Bibliografia basica: 
+1. Szeliski, Richard, Computer Vision: Algorithms and Applications, Springer 2008. 
+2. Schreier, H., Orteu, Jean-Jose and Sutton, M., Image Correlation for Shape, Motion and 
+
+Deformation Measurements Basic Concepts. Theory and Applications, Germany, Springer, 
+2009. 
+
+3. Whelan, Paul F., Molloy, Derek, Machine Vision Algorithms in Java, Springer 2001. 
+4. Gonzalez, C. Rafael and Woods, Richard, Digital Image Processing, Third edition.  Prentice 
+
+Hall, 2007. 
+Bibliografia complementaria: 
+1. Velho, L., Frery, A., and Gomes, Jonas, Image Processing for Computer Graphics and 
+
+Vision, Springer, 2009. 
+2. Bourne, Roger, Fundamentals of Digital Imaging in medicine, Springer, 2010. 
+3. Ronsefeld, A. and Kak, A. C., Digital Picture Processing, Academic Press, 1982. 
+ 
+  
+
+
+
+374 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (   ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (X) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia (   ) 
+Proyectos de programacion (X) 
+Proyecto final (X) 
+Seminario (   ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+ 
+  
+
+

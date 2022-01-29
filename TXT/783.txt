@@ -1,0 +1,188 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+314 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Seminario de Ciencias de la Computacion A 
+
+Clave:  
+ 
+
+Semestre: 
+6-8 
+
+Eje tematico: 
+Seminarios y Tallers 
+
+No. Creditos:  
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Seminario Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Analisis de Algoritmos  
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general: (Este es un temario muestra del nivel que debe tener el seminario) 
+Conocer, explicar  y aplicar los conocimientos sobre los  compiladores optimizadores para 
+arquitecturas modernas. 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Retos para arquitecturas de alto rendimiento 3 4 
+II Dependencias: teoria y practica 3 4 
+III Pruebas de dependencias 6 8 
+IV Transformaciones preliminares 3 4 
+V Mejoras al paralelismo de granularidad fina 6 8 
+VI Creacion de paralelismo de granularidad gruesa 9 12 
+VII Manejo del flujo del control 6 8 
+VIII Mejoras al uso de registros 9 12 
+IX Manejo de la memoria cache 3 4 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Retos para arquitecturas de alto rendimiento 
+I.1 Entubamiento. 
+
+
+
+315 
+ 
+
+I.2 Instrucciones de vector. 
+I.3 Paralelismo en el procesador. 
+I.4 Jerarquias de memoria. 
+I.5 Ejemplo: multiplicacion de matrices. 
+I.6 Tecnologias avanzadas de compiladores. 
+II Dependencias: teoria y practica 
+II.1 Introduccion. 
+II.2 La dependencia y sus propiedades. 
+II.3 Pruebas de descenso simple. 
+II.4 Paralelizacion y vectorizacion. 
+III Pruebas de dependencias 
+III.1 Introduccion. 
+III.2 Vista general de dependencia. 
+III.3 Pruebas de dependencia de un solo subindice. 
+III.4 Pruebas en grupos acoplados. 
+III.5 Integracion. 
+IV Transformaciones preliminares 
+IV.1 Introduccion. 
+IV.2 Requerimientos de informacion. 
+IV.3 Normalizacion de ciclos. 
+IV.4 Analisis de flujo de datos. 
+IV.5 Exposicion de variables de induccion. 
+V Mejoras al paralelismo de granularidad fina 
+V.1 Introduccion. 
+V.2 Intercambio de ciclos. 
+V.3 Expansion escalar. 
+V.4 Renombrado de escalares y arreglo. 
+V.5 Division de nodos. 
+V.6 Reconocimiento de reducciones. 
+V.7 Division de conjuntos de indices. 
+V.8 Resolucion simbolica en ejecucion. 
+V.9 Retorcido de ciclos. 
+V.10 Integracion. 
+V.11 Complicaciones en computadoras verdaderas. 
+VI Creacion de paralelismo de granularidad gruesa 
+VI.1 Metodos para ciclos solos. 
+VI.2 Anidamientos de ciclos perfectos. 
+VI.3 Ciclos anidados imperfectamente. 
+VI.4 Empaquetado de paralelismo. 
+VII Manejo del flujo del control 
+VII.1 Introduccion. 
+VII.2 Conversion condicional. 
+
+
+
+316 
+ 
+
+VII.3 Dependencia de control. 
+VIII Mejoras al uso de registros 
+VIII.1 Introduccion. 
+VIII.2 Alojamiento de escalares en registros. 
+VIII.3 Reemplazo de escalares. 
+VIII.4 Desenrrollar--y--pegar. 
+VIII.5 Intercambio de ciclos para el reuso de registros. 
+VIII.6 Fusion de ciclos para el reuso de registros. 
+VIII.7 Integracion. 
+VIII.8 Anidamiento complejo de ciclos. 
+IX Manejo de la memoria cache 
+IX.1 Introduccion. 
+IX.2 Intercambio de ciclos para lograr localidad espacial. 
+IX.3 Bloqueo. 
+IX.4 Manejo de caches en anidamiento complejo de ciclos. 
+IX.5 Precargado por software. 
+ 
+
+Bibliografia basica: 
+1. Allen, Randy y Kennedy, Ken, Optimizing Compilerrs for Modern Architectures, Academic 
+
+Press, 2002. 
+
+Bibliografia complementaria: 
+1. Diversos articulos de investigacion. 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (   ) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (   ) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (   ) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia (   ) 
+Proyectos de programacion (   ) 
+Proyecto final (   ) 
+Seminario (   ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+  
+
+

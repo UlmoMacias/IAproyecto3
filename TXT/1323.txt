@@ -1,0 +1,225 @@
+A DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+
+Facultad de Ciencias 
+
+Programa de la asignatura 
+
+ 
+
+Denominacion de la asignatura:  
+
+Modelado y Programacion 
+
+Clave:  
+
+1323 
+
+Semestre:  
+
+3 
+
+Eje tematico: 
+
+Programacion 
+
+No. Creditos:   
+
+10 
+
+Caracter: Obligatoria Horas 
+Horas por 
+semana 
+
+Total de 
+Horas  
+
+Tipo: Teorico- Practica 
+Teoria: Practica: 
+
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+
+ 
+Asignatura con seriacion obligatoria antecedente:  Ninguna 
+ 
+Asignatura con seriacion obligatoria subsecuente: Inteligencia Artificial; Sistemas 
+Operativos; Ingenieria de Software 
+Asignatura con seriacion indicativa antecedente: Estructuras de Datos 
+ 
+Asignatura con seriacion indicativa subsecuente: Fundamentos de Bases de Datos;  
+Organizacion y Arquitectura de Computadoras 
+
+Objetivos generales:  
+Conocer lo necesario y obtener la experiencia para integrar las habilidades de programacion y 
+de modelado aplicando los conocimientos adquiridos en los primeros semestres.  
+Conocer aspectos sofisticados de la programacion para incursionar en temas de actualidad como 
+la graficacion por computadora, patrones de diseno y computo concurrente. 
+
+ 
+
+Indice tematico 
+
+Unidad Temas  
+Horas 
+
+Teoricas Practicas 
+I Lenguajes de programacion 6 8 
+II Estructuras de datos avanzadas 6 8 
+III Buenas practicas de programacion 9 12 
+IV Interfaces hombre/maquina 6 8 
+V Programacion concurrente 6 8 
+VI Graficacion por computadora 9 12 
+VII Emulacion de maquinas virtuales 6 8 
+
+Total de horas: 48 64 
+
+Suma total de horas: 112 
+
+
+
+ 
+
+Contenido tematico 
+
+Unidad Tema 
+
+I Lenguajes de programacion 
+
+I.1 Programacion imperativa. 
+
+I.2 Programacion declarativa. 
+
+I.3 Programacion estructurada. 
+
+I.4 Programacion orientada a objetos. 
+
+I.5 Programacion funcional. 
+
+I.6 Programacion logica. 
+
+I.7 Tecnologias de compiladores e interpretes. 
+
+II Estructuras de datos avanzadas 
+
+II.1 Tablas de dispersion. 
+
+II.2 Arboles B. 
+
+II.3 Arboles black/red. 
+
+III Buenas practicas de programacion 
+
+III.1 Definicion de patrones de diseno. 
+
+III.2 Patrones de diseno de uso comun: Factory method, Singleton, Adapter, Composite. 
+
+III.3 Pruebas unitarias (Junit). 
+
+III.4 Estrategia de desarrollo: desarrollo guiado por pruebas. 
+
+III.5 Programacion en pares. 
+
+IV Interfaces hombre/maquina 
+
+IV.1 Eventos. 
+
+V Programacion concurrente 
+
+V.1 Introduccion y contexto. 
+
+V.2 Conceptos basicos y Ley de Amdahl. 
+
+V.3 Candados. 
+
+V.4 Primitivas de sincronizacion por hardware. 
+
+V.5 Semaforos. 
+
+V.6 Monitores. 
+
+V.7 Problemas de sincronizacion 
+
+VI Graficacion por computadora 
+
+VI.1 Descripcion. 
+
+VI.2 Arquitectura. 
+
+VI.3 El algoritmo de ray-tracing. 
+
+VI.4 Elementos soportados en el proyecto. 
+
+VI.5 Construccion del sistema de algebra lineal. 
+
+VI.6 Construccion del modulo de lectura. 
+
+VI.7 Implementacion del algoritmo. 
+
+VI.8 Sombras, reflexion y refraccion. 
+
+VI.9 Posicion de la camara y relacion de aspecto. 
+
+VI.10 Multimuestreo y sombras suaves. 
+
+
+
+VII Emulacion de maquinas virtuales 
+
+VII.1 Descripcion de una maquina virtual. 
+
+VII.2 Arquitectura. 
+
+VII.3 Construccion de la maquina virtual. 
+
+VII.4 Definicion del lenguaje ensamblador. 
+
+VII.5 Construccion del analizador lexico. 
+
+VII.6 Construccion del analizador sintactico. 
+
+VII.7 Construccion del back End. 
+
+Bibliografia basica: 
+
+1. Monterrubio Gutierrez Maximiliano, Propuesta de tercer curso de programacion para la 
+Licenciatura en Ciencias de la Computacion, tesis de licenciatura, Facultad de Ciencias, 
+UNAM, 2009. 
+
+Bibliografia complementaria: 
+
+1. Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Cliffor Stein, Introduction to 
+Algorithms, Second Edition, MIT Press, 2001. 
+
+2. John L. Hennesy, David A. Patterson, David Goldberg, Computer Architecture: A 
+quantitative approach, Third Edition, Morgan Kaufmann, 2002. 
+
+3. Maurice Herlihy, Nir Shavit, The Art of Multiprocessor Programming, Morgan Kaufmann, 
+2008. 
+
+4. Abraham Silverschatz, Peter Baer Galvin, Greg Gagne, Operating System Concepts with 
+Java, 7th Edition, John Wiley & Sons, 2007. 
+
+5. Erich Gamma, Richard Helm, Ralph Johnson, John M. Vlissides, Design Patterns: Elements 
+of Reusable Object-Oriented Software, Addison-Wesley Professional, 1994. 
+
+6. Peter Shirley, Realistic Raytracing, A K Peters, 2000. 
+
+7. Cem Kaner, Jack Falk, Hung Q. Nguyen, Testing Computer Software, 2nd Edition, John 
+Wiley & Sons, 1999. 
+
+8. Keith Cooper, Linda Torczon, Engineering a Compiler, Morgan Kaufmann, 2003. 
+
+Perfil profesiografico:  
+
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o Matematico con 
+especialidad en Computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+
+
+
+ 
+
+

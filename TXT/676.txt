@@ -1,0 +1,163 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+263 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Programacion Declarativa 
+
+Clave:  
+ 
+
+Semestre: 
+6-8 
+
+Eje tematico: 
+Lenguajes de Programacion 
+
+No. Creditos:  
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Logica Computacional 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general: 
+Obtener y aplicar conocimientos profundos de la programacion declarativa. 
+ 
+
+Indice tematico 
+
+Unidad Temas  
+Horas 
+
+Teoricas Practicas 
+I Introduccion 3 4 
+II Programacion logica 15 20 
+III Programacion funcional: fundamentos 6 8 
+IV Programacion funcional: desarrollo de programas 15 20 
+V Aplicaciones 9 12 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Programacion declarativa y otros paradigmas de programacion. 
+I.2 Motivacion para el desarrollo de la programacion declarativa. 
+I.3 Elementos que conforman los lenguajes declarativos. 
+II Programacion logica 
+II.1 La logica como lenguaje de programacion. 
+
+
+
+264 
+ 
+
+II.2 Unificacion y resolucion binaria como elementos principales de Prolog. 
+II.3 Tipos de datos: numeros, listas, arboles. 
+II.4 Control en Prolog: listas de diferencia, negacion como falla, corte y 
+
+metaprogramacion. 
+II.5 Ventajas y problematicas de Prolog. 
+II.6 Diferentes usos de la programacion logica en inteligencia artificial. 
+III Programacion funcional: fundamentos 
+III.1 Confrontacion de los paradigmas funcional y logico. 
+III.2 Motivacion, uso de funciones como forma de programacion. 
+III.3 Conceptos fundamentales: funciones como objetos de primer orden, funciones 
+
+puras, alcance estatico y transparencia referencial.Reducciones de expresiones y 
+estrategias de evaluacion. 
+
+III.4 Reducciones de expresiones y estrategias de evaluacion. 
+III.5 Diferentes lenguajes funcionales, clasificacion y comparacion. 
+IV Programacion funcional: desarrollo de programas 
+IV.1 Tipos de datos concretos. 
+IV.2 Tipos abstractos de datos. 
+IV.3 Ventajas de la evaluacion perezosa: tipos conductivos. 
+IV.4 Aspectos imperativos: lenguajes puros e impuros, monadas. 
+V Aplicaciones 
+V.1 Desarrollo de un analizador sintactico. 
+V.2 Programacion con restricciones. 
+V.3 Logica en programacion funcional (Haskell). 
+V.4 Programacion funcional en lenguajes no funcionales: C y Java. 
+V.5 Interaccion de la programacion funcional con otros paradigmas: OCaml y Python. 
+V.6 Programacion generica. 
+V.7 Tipos de datos puramente funcionales. 
+
+Bibliografia basica: 
+1. Bird R., Introduction to functional programming with Haskell 2nd ed., Prentice Hall, 2000. 
+2. Bratko I., Prolog, Programming for artificial intelligence 3rd ed., Addison-Wesley, 2000. 
+3. Hutton G., Programming in Haskell, Cambridge University Press, 2007. 
+4. Rabhi F., Lapalme G., Algorithms: A Functional Programming Approach, Addison-Wesley, 
+
+1999. 
+Bibliografia complementaria: 
+1. Harvey B., Wright M., Simply scheme: introducing computer science, The MIT Press, 2001. 
+2. Okasaki C., Purely Functional Data Structures, Cambridge University Press, 1998. 
+3. Paulson L. C., ML for the Working Programmer 2nd ed., Cambridge University Press, 1996. 
+4. Russell S., Norvig P., Artificial Intelligence, A modern aproach 2nd ed., Prentice Hall, 2003. 
+
+
+
+265 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (   ) 
+Ejercicios dentro de clase (   ) 
+Ejercicios fuera del aula (X) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (   ) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos de evaluacion:  
+Examenes parciales (   ) 
+Examen final escrito (   ) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (   ) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia (   ) 
+Proyectos de programacion (X) 
+Proyecto final (   ) 
+Seminario (   ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Matematico, fisico, actuario o Licenciado en Ciencias de la Computacion, especialista en el 
+area de la asignatura a juicio del comite de asignacion de cursos.  Con experiencia docente. 
+ 
+  
+
+

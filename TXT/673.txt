@@ -1,0 +1,196 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+243 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Metricas de Software 
+
+Clave:  
+  
+
+Semestre: 
+7-8 
+
+Eje tematico: 
+Ingenieria de Software 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+ 
+Asignatura con seriacion indicativa antecedente: Ingenieria de Software 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Exponer conocimientos generales de las metricas que acompanan a la  ingenieria de 
+software, asi como a los modelos de referencia de los  procesos de desarrollo de software 
+con calidad (CMMi, MoProSoft, etc); haciendo enfasis en las metricas que requieren del 
+tamano de software, presentando la metodologia de Puntos de Funcion (IFPUG). 
+Resolver problemas reales del entorno a traves de poder investigar, definir y explicar las 
+distintas teorias y definiciones de metricas de software existentes en distintas organizaciones, 
+que tipos de metricas son utilizadas actualmente en la industria de software. 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion a las metricas de software 6 8 
+II Programa de metricas 6 8 
+III Metricas de tamano 15 20 
+IV Metodos de estimacion 12 16 
+V Analisis de metricas 9 12 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+
+Contenido tematico 
+
+
+
+244 
+ 
+
+Unidad Tema 
+I Introduccion a las metricas de software 
+I.1 Conceptos basicos. 
+I.2 Metricas primitivas y compuestas. 
+I.3 Metricas para diferentes audiencias y aplicaciones.  
+
+ Metricas para producto y proceso de software. 
+ Metricas para medir calidad, productividad,etc. 
+
+I.4 Principales usos: estimar, controlar, mejorar, organizar. 
+II Programa de metricas 
+II.1 GQM (Goal-Question-Metric). 
+II.2 Proceso de mejora continua de software. 
+II.3 Metricas en los modelos de calidad. 
+
+ PSP (Personal Software Process).  
+ CMMi (Capability Maturity Model Integrated). 
+ MoProSoft (Modelo de Procesos de Software). 
+ ITIL (Information Technology Infrastructure Library). 
+
+III Metricas de tamano 
+III.1 Metricas de tamano.  
+
+ LoC (Lineas de codigo). 
+ Tamano en metodologias OO. 
+
+III.2 Medir el tamano funcional. 
+ IFPUG/FP (Puntos de funcion). 
+ Cosmic. 
+
+IV Metodos de estimacion 
+IV.1 Wide Band Delphi. 
+IV.2 Putnam. 
+IV.3 Herramientas en el mercado basados en LoC y FPs.  
+
+ COCOMO. 
+ Construx. 
+
+IV.4 Otras metodologias. 
+V Analisis de metricas 
+V.1 Earned Value (EV). 
+V.2 Control estadistico de procesos. 
+ 
+ 
+
+Bibliografia basica: 
+1. Fenton, Norman; Lawrence Pfleeger, Shari; Software Metrics. A Rigorous y Practical 
+
+Approach. Second Edition. Publisher: Chapman y Hall (Dec, 2010)  
+2. Florac William, Carleton Anita; Measuring the Software Process; Statival Process Control 
+
+for Software Process Improvement. Addison-Wesley 1999. 
+3. McConnek, Steve; Software Estimation. Desmystifying the black art, Microsoft Press. 
+
+
+
+245 
+ 
+
+2006. 
+
+Bibliografia complementaria: 
+1. Barry Boehm, et al; Software Cost Estimation with COCOMO II. Prentice Hall. 2000. 
+2. IFPUG www.ifpug.org  
+3. Kan, Stephen H., Metrics and Models in Software Quality Engineering, Second Edition. 
+
+Addison-Wesley. 2002. 
+4. McConnek, Steve; Software Estimation. Desmystifying the black art, Microsoft Press. 
+
+2006.  
+5. Park, Robert E.; Goethert Wolfhart B; Florac William A, Goal-Driven Software 
+
+Measurement; CMU/SEI. Handbook; CMU/SEI-96-HB-002. 1996. 
+http://www.jamesheiresconsulting.com/Goal%20Driven%20Software%20Measurement.pd
+f 
+
+6. SEI Software Measurement and Analysis. http:www.sei.cmu.edu/measurement/index.cfm 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios ( ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion ( ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales     (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios  
+por los alumnos 
+
+( ) 
+Participacion en clase ( ) 
+Asistencia ( ) 
+Proyectos de programacion ( ) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico 
+con especialidad en computacion con amplia experiencia de programacion. Es conveniente 
+que posea un posgrado en la disciplina. Con experiencia docente. 
+ 
+  
+
+

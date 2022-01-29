@@ -1,0 +1,206 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+223 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Lenguajes de Programacion II 
+
+Clave:  
+  
+
+Semestre: 
+7-8 
+
+Eje tematico: 
+Lenguajes de Programacion 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+ 
+Asignatura con seriacion indicativa antecedente: Lenguajes de Programacion 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Estudiar a profundidad diversos conceptos avanzados subyacentes al diseno de lenguajes de 
+programacion, asi como tecnicas formales que ayuden a la implementacion de estos.  
+Conocer a profundidad diversos principios y conceptos avanzados que resultan ser parte 
+fundamental de algunos componentes, en el diseno de los lenguajes de programacion. De esta 
+manera se comprenderan las caracteristicas de dichos conceptos tanto de manera teorica 
+como en la practica. 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 1.5 2 
+II Polimorfismo 6 8 
+III Tipos de Datos Abstractos 6 8 
+IV Tipos Recursivos 7.5 10 
+V Tipado Dinamico 6 8 
+VI Inferencia de Tipos 6 8 
+VII Recoleccion de Basura 7.5 10 
+VIII Continuaciones 7.5 10 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+
+
+
+224 
+ 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Revision de conceptos y aspectos de lenguajes de programacion estudiados en el 
+
+curso obligatorio de lenguajes de programacion.  
+II Polimorfismo 
+II.1 Clases de polimorfismo. 
+II.2 Polimorfismo parametrico y ad-hoc. 
+II.3 Funciones parametrizadas. 
+II.4 Interaccion, evaluacion, semantica y efectos del uso del polimorfismo. 
+II.5 Polimorfismo de subtipos (subtipado algoritmico). 
+III Tipos de Datos Abstractos 
+III.1 Tipos de datos abstractos. 
+III.2 Tipos existenciales y su semantica. 
+III.3 Implementacion de tipos de datos abstractos. 
+III.4 Modulos. 
+IV Tipos Recursivos 
+IV.1 Definicion y conceptos relacionados con recursion. 
+IV.2 Declaracion de tipos recursivos (tipos isorrecursivos y equirrecursivos). 
+IV.3 Funciones que involucran tipos recursivos. 
+IV.4 Semantica de tipos recursivos. 
+IV.5 Tipos inductivos. 
+IV.6 Tipos perezosos coinductivos (expresividad y ventajas de la evaluacion perezosa). 
+V Tipado Dinamico 
+V.1 El calculo lambda sin tipos, panorama de lenguajes sin tipos. 
+V.2 Tipado dinamico. 
+V.3 Tipado hibrido. 
+VI Inferencia de Tipos 
+VI.1 Introduccion a la inferencia de tipos. 
+VI.2 El sistema de tipos de Hindley-Milner. 
+VI.3 Restricciones de tipos. 
+VI.4 Algoritmos de unificacion y de inferencia de tipos. 
+VI.5 Semantica y coherencia de las expresiones. 
+VII Recoleccion de Basura 
+VII.1 Introduccion a la recoleccion de basura (objetos vivos, basura, apuntadores 
+
+colgantes, por que la recoleccion de basura). 
+VII.2 Algoritmos clasicos de recoleccion de basura (conteo de referencias, marcado y 
+
+barrido, marcado y compactacion, detente y copia). 
+VII.3 Tecnicas de recoleccion de basura (recoleccion generacional e incremental) 
+VIII Continuaciones 
+VIII.1 Introduccion a las continuaciones. 
+VIII.2 Continuation Passing Style (CPS). 
+VIII.3 Semantica de las continuaciones. 
+
+
+
+225 
+ 
+
+VIII.4 Optimizaciones en continuaciones. 
+VIII.5 Implementacion de continuaciones (Maquinas abstractas). 
+VIII.6 Corrutinas. 
+ 
+
+Bibliografia basica: 
+1. Mitchell J., Concepts in Programming Languages, Cambridge University Press, 2003. 
+2. Pierce, B.C., Types and Programming Languages, MIT Press, 2002.  
+3. Felleisen, Matthias; Findler, Robert Bruce y Flatt, Matthew, Semantics Engineering with PLT 
+
+Redex, The MIT Press; agosto 2009. 
+Bibliografia complementaria: 
+1. Harper R., Practical Foundations for Programming Languages, Working Draft 2010. 
+
+Recuperado el 11 de febrero de 2010 del URL http://www.cs.cmu.edu/~rwh/plbook/book.pdf  
+2. Friedman D.P., Wand M. Essentials of Programming Languages, 3a edicion, MIT Press, 
+
+2008. 
+3. Krishnamurthi S., Programming Languages Aplication and Interpretation, Version 04, 2007. 
+
+Disponible en linea en http://www.cs.brown.edu/~sk/Publications/Books/PorgLangs  
+4. Mitchel J., Foundations for Programming Languages, MIT Press, 1996.  
+5. Appel, Andrew, Compiling with Continuations, Cambridge University Press, 1992.  
+6. Miller, Frederic P., Vandome, Agnes F., McBrewster, John.,  Control flow: Computer 
+
+Science, Subroutine, Imperative programming, Functional programming, Computer 
+Program, Programming Language, Coroutine, Continuation, Signal Computing,  Alphascript 
+Publishing, 2009.  
+
+7. Jones, Richard, Lins, Rafael D., Garbage Collection: Algorithms for Automatic Dynamic 
+Memory Management, Wiley, 1996.  
+
+8. Jones, Mark P., Qualified Types: Theory and Practice, Cambridge University Press, 2003. 
+ 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral ( ) 
+Exposicion audiovisual ( ) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula ( ) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito ( ) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos ( ) 
+Participacion en clase (X) 
+Asistencia ( ) 
+Proyectos de programacion (X) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+
+
+
+226 
+ 
+
+Perfil profesiografico:  
+Matematico, fisico, actuario o Licenciado en Ciencias de la Computacion, especialista en el 
+area de la asignatura a juicio del comite de asignacion de cursos. Con experiencia docente. 
+ 
+  
+
+

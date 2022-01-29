@@ -1,0 +1,176 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+326 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Sistemas Dinamicos Computacionales II 
+
+Clave:  
+  
+
+Semestre: 
+7-8 
+
+Eje tematico: 
+Bio-Informatica 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+ 
+Asignatura con seriacion indicativa antecedente: Sistemas Dinamicos Computacionales I 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivos generales:  
+Conocer y aplicar los conocimientos del amplio espectro de fenomenos, incluyendo el computo 
+universal, que suelen presentarse en los automatas celulares unidimensionales y 
+bidimensionales, asi como en su estudio desde el campo de los sistemas dinamicos y los 
+objetos fractales, desde un punto de vista riguroso y formal. 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  
+Horas 
+
+Teoricas Practicas 
+I Introduccion a los Automatas Celulares 3 4 
+II Fenomenologia de los Automatas Celulares 9 12 
+
+III Propiedades computacionales de los Automatas 
+Celulares 6 8 
+
+IV Generalizaciones de los Automatas Celulares 6 8 
+V Sistemas de Funciones Iteradas 6 8 
+VI Fractales 9 12 
+
+VII Propiedades dinamicas de los Automatas 
+Celulares 6 8 
+
+VIII Juego del caos 3 4 
+Total de horas: 48 64 
+
+Suma total de horas: 112 
+ 
+ 
+
+
+
+327 
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Introduccion a los Automatas Celulares 
+I.1 Contexto historico de los automatas celulares. 
+I.2 Definiciones basicas. 
+II Fenomenologia de los Automatas Celulares 
+II.1 Automatas celulares elementales. 
+II.2 Clases de complejidad de Wolfram. 
+II.3 El juego de la vida de Conway. 
+II.4 El parametro lambda de Langton. 
+III Propiedades computacionales de los Automatas Celulares 
+III.1 La regla 110. 
+III.2 Computo en el juego de la vida. 
+IV Generalizaciones de los Automatas Celulares 
+IV.1 Gases en red. 
+IV.2 Redes booleanas. 
+V Sistemas de Funciones Iteradas 
+V.1 El teorema de la contraccion. 
+V.2 Una metrica en el espacio de conjuntos compactos. 
+V.3 Los fractales como atractores 
+VI Fractales 
+VI.1 Autosemejanza. 
+VI.2 Dimensiones Fractales. 
+VI.3 Compresion fractal de imagenes. 
+VII Propiedades dinamicas de los Automatas Celulares 
+VII.1 Retratos fase. 
+VII.2 Exponentes de Liapunov. 
+VII.3 Dimension fractal. 
+VIII Juego del caos 
+VIII.1 Definicion. 
+VIII.2 Aplicaciones a la biologia. 
+ 
+
+Bibliografia basica: 
+1. Ilachinski, A., Cellular Automata: A Discrete Universe, World Scientific Publishing Company, 
+
+2001. 
+
+2. Wolfram, S.,   Cellular Automata and Complexity, Westview Press, 1994. 
+3. Codd, E.F., Cellular Automata, Academic Press, 1968. 
+4. Barnsley, M., Fractals Everywhere, 2a edicion, Morgan Kaufmann, 2000. 
+Bibliografia complementaria: 
+1. Wolfram S., A New Kind of Science, Wolfram Media, 2002. 
+
+
+
+328 
+ 
+
+2. Mandelbrot, B., The Fractal Geometry of Nature, W.H Freeman, 1983. 
+3. Bartle, R., The Elements of Real Analysis, Willey, 1976. 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (   ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (   ) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (X) 
+Exposicion de seminarios por los 
+alumnos 
+
+(X) 
+Participacion en clase (X) 
+Asistencia (   ) 
+Proyectos de programacion (X) 
+Proyecto final (   ) 
+Seminario (   ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Matematico, fisico, actuario o Licenciado en Ciencias de la Computacion, especialista en el 
+area de la asignatura a juicio del comite de asignacion de cursos. Con experiencia docente. 
+ 
+  
+
+

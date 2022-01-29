@@ -1,0 +1,235 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+75 
+ 
+
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Organizacion y Arquitectura de Computadoras 
+
+Clave:  
+ 
+
+Semestre:  
+4 
+
+Eje tematico: 
+Organizacion de Sistemas de Computo 
+
+No. Creditos:   
+10 
+
+Caracter: Obligatoria Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+
+ 
+Asignatura con seriacion obligatoria antecedente: Estructuras Discretas; Introduccion a las 
+Ciencias de la Computacion 
+ 
+Asignatura con seriacion obligatoria subsecuente: Redes de Computadoras; Compiladores 
+Criptografia y Seguridad; Computacion Concurrente 
+ 
+Asignatura con seriacion indicativa antecedente: Modelado y Programacion 
+ 
+Asignatura con seriacion indicativa subsecuente: Computacion Distribuida; Sistemas 
+Operativos 
+Objetivos generales: 
+Conocer, analizar y aplicar una vision panoramica de la estructura y diseno de sistemas de 
+computo haciendo enfasis en los criterios que permiten tomar decisiones de diseno de mejor 
+relacion costo-beneficio. Adicionalmente conocer:  
+Los principales mecanismos para la evaluacion del desempeno en equipo de computo y saber 
+como y en que circunstancia aplicarlos. 
+Lo elemental de diseno de los circuitos que contiene una computadora digital. 
+El  panorama de las distintas alternativas de diseno en arquitecturas de computadoras y 
+criterios que permiten evaluarlas y los contextos en los que resultan optimas. 
+La importancia de la relacion hardware-software en el diseno de las arquitecturas modernas. 
+Lo necesarios emplear  los principales retos y las tendencias tecnologicas en el diseno de 
+arquitecturas modernas. 
+
+
+
+76 
+ 
+
+ 
+
+ 
+
+Contenido tematico 
+Unidad Tema 
+I. Principios cuantitativos del diseno de arquitecturas 
+I.1 Tendencias tecnologicas y de uso. 
+1.2 Medidas de desempeno de equipo de computo. 
+II. Representacion de datos en una computadora digital 
+II.1 Sistemas numericos posicionales. 
+II.2 Sistemas numericos bases 2, 8 y 16. 
+II.3 Representacion de enteros con signo en una computadora digital 
+II.4 Representacion de enteros con signo en una computadora digital 
+III. Algebra booleana 
+III.1 Postulados del algebra booleana 
+III.2 Formas normales conjuntivas y disjuntivas 
+III.3 Minimizacion de funciones 
+IV. Circuitos combinacionales y secuenciales 
+
+IV.1 Circuitos combinacionales elementales: sumadores, comparadores, 
+decodificadores y multiplexores 
+
+IV.2 Cerrojos (latches) SR, JK, D, maestro-esclavo 
+IV.3 Diagramas de estado, diseno de circuitos secuenciales 
+V. Diseno del conjunto de instrucciones 
+V.1 Tipos de arquitectura del conjunto de instrucciones 
+V.2 Arquitecturas load-store y su relacion costo-beneficio 
+V.3 Tipos y tamano de operandos 
+V.4 Modos de direccionamiento 
+V.5 Formatos de instruccion y su proceso de ejecucion 
+
+Indice tematico 
+
+Unidad Temas  
+Horas 
+
+Teoricas Practicas 
+I Principios cuantitativos del diseno de arquitecturas 5 6 
+II Representacion de datos en una computadora digital 3 4 
+III Algebra booleana 3 4 
+IV Circuitos combinacionales y secuenciales 4 5 
+V Diseno del conjunto de instrucciones 5 7 
+VI Unidad de control 3 4 
+VII Cause segmentado de ejecucion (pipeline) 4 6 
+VIII La relacion hardware-software 2 2 
+IX La jerarquia de memoria 6 8 
+X Entrada/Salida y canales 4 6 
+XI Sistemas multiprocesador 6 8 
+XII Arquitecturas de vanguardia 3 4 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+
+
+77 
+ 
+
+VI. Unidad de control 
+VI.1 El diagrama de flujo de datos (datapath). 
+VI.2 Senales de control. 
+VI.3 Unidades de control microprogramadas y alambradas (hardwired) 
+VII. Cause segmentado de ejecucion (pipeline) 
+VII.1 Paralelismo a nivel de instruccion (ILP) 
+VII.2 Diseno de un procesador con cause segmentado 
+VII.3 Conictos (hazards) de control y de datos 
+VII.4 Esquemas de prediccion de salto, salto retardado (delayed branch) 
+VIII. La relacion hardware-software 
+VIII.1 El papel del compilador en el desempeno del sistema 
+VIII.2 La relacion entre el sistema operativo y el hardware 
+IX. La jerarquia de memoria 
+IX.1 Principio de localidad espacial y temporal 
+IX.2 Esquemas de colocacion de bloques en un cache 
+IX.3 Politicas de reemplazo de bloque en los caches 
+IX.4 Manejo de escrituras en el cache 
+IX.5 Coherencia, conceptos y protocolos 
+IX.6 Memoria virtual 
+X. Entrada/Salida y canales 
+X.1 Canales, conceptos y sincronizacion 
+X.2 Esquemnas de arbitraje de canal 
+X.3 Dispositivos de almacenamiento secundario, medidas de desempeno 
+XI. Sistemas multiprocesador 
+XI.1 Clasificacion de Flynn 
+XI.2 Arquitecturas paralelas con memoria distribuida 
+XI.3 Arquitecturas paralelas con mememoria centralizada 
+XI.4 Factores limitantes de la ley de Moore 
+XI.5 Paralelismo a nivel de hilo de ejecucion (Thread Level Parallelism) 
+XI.6 Arquitecturas multi-nucleo 
+XII. Arquitecturas de vanguardia 
+XII.1 Ejecucion fuera de orden, despacho dinamico 
+XII.2 Arquitecturas VLIW y EPIC 
+XII.3 Especulacion, predicacion, soporte para software pipeline 
+ 
+
+Bibliografia basica: 
+1. Hennessy, John L. y David A. Patterson, Computer Architecture: A Quantitative Approach, 
+
+4a Ed.; Morgan Kaufmann, 2006. 
+2. Kohavi, Zvi y Niraj K. Jha, Switching and Finite Automata Theory, 3a Ed., Cambridge 
+
+UniversityPress, 2009. 
+3. Mano, M. Morris y Charles Kime, Logic and Computer Design Fundamentals, 4a Ed., 
+
+Prentice Hall, 2007. 
+4. Patterson, David A. y John L. Hennessy, Computer Organization and Design: The 
+
+Hardware/Software Interface, 4a Ed., Morgan Kaufmann, 2008 
+
+
+
+78 
+ 
+
+Bibliografia complementaria: 
+1. Stallings, William, Computer Organizaton and Architecture: Designing for Performance, 
+
+PrenticeHall - Pearson, 2009. 
+2. Tanenbaum, Andrew S., Structured Computer Organization, 5a Ed., Prentice Hall, 2005. 
+3. Silberschatz Abraham, Peter B. Galvin y Greg Gagne, Operating System Concepts, 8a Ed., 
+
+Wiley, 2008. 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (X) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los 
+alumnos 
+
+(X) 
+Participacion en clase (X) 
+Asistencia ( ) 
+Proyectos de programacion (X) 
+Proyecto final (X) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+ 
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o Matematico con 
+especialidad en Computacion. Es conveniente que posea un posgrado en la disciplina. Con 
+experiencia docente. 
+ 
+
+  
+
+

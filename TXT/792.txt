@@ -1,0 +1,180 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+345 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Teoria de la Concurrencia 
+
+Clave:  
+  
+
+Semestre: 
+7-8 
+
+Eje tematico: 
+Lenguajes de Programacion 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+6 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Lenguajes de Programacion 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Conocer y aplicar los conocimientos de la teoria de la concurrencia mediante el uso de 
+lenguajes de programacion minimales que capturen conceptos fundamentales como la 
+sincronizacion, el paso de mensajes y la movilidad.  
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 3 4 
+II El calculo de sistemas comunicantes (CCS) 9 12 
+III El  calculo  p 12 16 
+IV Sistemas de tipos para concurrencia 12 16 
+V Aplicaciones 12 16 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 ?Que es la programacion concurrente? 
+I.2 Terminologia de la concurrencia. 
+
+
+
+346 
+ 
+
+I.3 Algebras de proceso. 
+II El calculo de sistemas comunicantes (CCS) 
+II.1 Ejemplos de procesos y su comportamiento. 
+II.2 Sintaxis y semantica: sistemas de transicion etiquetados, paso de valores. 
+II.3 Bisimulacion fuerte y debil. 
+II.4 Equivalencia observacional y contextual. 
+III El  calculo  p 
+III.1 Sintaxis y semantica. 
+III.2 Bisimulacion y equivalencia de procesos. 
+III.3 Congruencia. 
+III.4 Variantes:  calculo  p  asincrono  y  poliadico. 
+IV Sistemas de tipos para concurrencia 
+IV.1 Fundamentos, tipos canal, tipos de entrada y salida. 
+IV.2 Linearidad, subtipado y polimorfismo. 
+IV.3 Tipos de sesion. 
+V Aplicaciones 
+V.1 Seguridad de protocolos. 
+V.2 Sistemas biologicos. 
+V.3 Prototipos e implementaciones. 
+ 
+ 
+
+Bibliografia basica: 
+1. S. Gay, V. Vasconcelos, A. Ravara., Session Types for Inter-Process Communication, 
+
+Technical Report TR-2003-133. Department of Computing Science. University of Glasgow. 
+2003. 
+
+2. N. Kobayashi, Type Systems for Concurrent Programs, LNCS 2757, pp. 439-453. Springer 
+2003. 
+
+3. Milner R., Communicating  and  Mobile  Systems:  The  p-calculus, Cambridge University 
+Press. 1999. ISBN 0521 65869 1. 
+
+4. Sangiorgi D., Walker D., The  p-calculus, A Theory of Mobile Processes, Cambridge 
+University Press 2001. ISBN 0 521 78177 9. 
+
+ 
+Bibliografia complementaria: 
+1. M. Abadi, A. D. Gordon, A  Calculus  for  Cryptographic  Protocols:  The  p  Calculus. 
+
+Information and Computation, 148, pp. 1-70. Academic Press 1999. 
+2. J.A. Bergstra, A. Ponse, S. A., Smolka, editors, Handbook of Process Algebra,  Elsevier 
+
+Science, 2001.  
+3. Guerriero, M.L., Prandi, D., Priami, C., Quaglia, P. Process Calculi Abstractions for Biology, 
+
+Algorithmic Bioprocesses. pp. 463-486. Natural Computing Series, Springer 2009. 
+4. C.A.R. Hoare, Communicating Sequential Processes, Prentice Hall 1985. Version 
+
+disponible en http://www.usingcsp.com/cspbook.pdf. 2004. 
+
+http://www.usingcsp.com/cspbook.pdf
+
+
+347 
+ 
+
+5. M. Neubauer, P. Thiemann, An implementation of session types, Proc. 7th International 
+Symposium on Practical Aspects of Declarative Languages (PADL'04). LNCS 3057, pp 56--
+70. Springer 2004.  
+
+6. B. C. Pierce, D. N. Turner, Pict: A Programming Language Based on the Pi-Calculus, G. 
+Plotkin, C. Stirling, M. Tofte, editores, Proof, Language and Interaction: Essays in Honour of 
+Robin Milner, pp. 455-494. MIT Press, 2000. 
+
+ 
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (   ) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (   ) 
+Examen final escrito (   ) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (   ) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia (   ) 
+Proyectos de programacion (   ) 
+Proyecto final (   ) 
+Seminario (   ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en Computacion. Es conveniente que posea un posgrado en la disciplina. Con 
+experiencia docente. 
+ 
+  
+
+

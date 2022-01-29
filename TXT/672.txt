@@ -1,0 +1,170 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+240 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Metodos Formales 
+
+Clave:  
+ 
+
+Semestre: 
+7-8 
+
+Eje tematico: 
+Integracion Teoria-Practica 
+
+No. Creditos:   
+10 
+
+Caracter: Otativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+Asignatura con seriacion indicativa antecedente: Automatas y Lenguajes Formales;  
+ Inteligencia Artificial; Ingenieria de Software 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+ 
+
+Objetivos generales: 
+Presentar y comprender las tecnicas formales de especificacion y verificacion enfatizando los 
+fundamentos teoricos de los formalismos que las sustentan.  
+Comprender el panorama representativo de los metodos formales basados en logica, delineado 
+con las caracteristicas de expresividad, complejidad, y con el rasgo semantico o sintactico de 
+cada metodo. 
+Usar la herramienta  basica de automatizadas para especificacion y verificacion formal. 
+Implementar el prototipo de una herramienta automatizada para un formalismo de verificacion. 
+Elegir un formalismo para modelar un sistema y verificar algunas de sus propiedades. 
+Conocer y aplicar las tendencias actuales en el area de metodos formales, y la perspectiva de 
+su desarrollo, resaltando las  dificultades conocidas. 
+ 
+
+Indice tematico 
+
+Unidad Temas  
+Horas 
+
+Teoricas Practicas 
+I Vision general 3 4 
+II Metodos basados en logica temporal 13 18 
+III Metodos basados en logica de primer orden 16 21 
+IV Metodos basados en otros formalismos logicos 16 21 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+
+
+241 
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Vision general 
+I.1 Necesidad de verificacion formal. 
+I.2 Comprender las consecuencias que se derivan de no usar metodos formales. 
+I.3 Metodos Formales. El enfoque logico. 
+I.4 Metodos semanticos y metodos sintacticos. 
+II Metodos basados en logica temporal 
+II.1 Modelacion con sistemas de transicion de estados. 
+II.2 Especificacion con Logica temporal. CTL, LTL, CTL*. 
+II.3 Un verificador de modelos para CTL y LTL. 
+II.4 Un algoritmo para verificacion de modelos de la CTL. 
+II.5 Extensiones de CTL. 
+III Metodos basados en logica de primer orden 
+III.1 Logica de primer orden (FO). Alcances y limitaciones. 
+III.2 Logica relacional y extensiones de FO (FO+TC, FO+LFP). 
+III.3 Especificacion con FO+TC. 
+III.4 Un constructor de modelos. 
+III.5 Especificacion con FO (contraste con FO+TC). 
+III.6 Un demostrador automatico para FO. 
+IV Metodos basados en otros formalismos logicos 
+IV.1 Sintaxis y semantica. 
+IV.2 Expresion de propiedades. 
+IV.3 Herramienta automatizada. 
+ 
+
+Bibliografia basica: 
+1. M.Huth M, M. Ryan., Logic in computer science: modelling and reasoning about systems 
+
+2004. 
+2. Baier C, Katoen J.P., Principles of Model Checking, MIT Press 2008.  
+Bibliografia complementaria: 
+3. E. Clarke, O. Grumberg, D. Peled, Model Checking, MIT Press, 2000.  
+4. Baier C, Katoen J.P., Principles of Model Checking, MIT Press 2008.  
+5. WWW. Model Checking at CMU. http://www-2.cs.cmu.edu/~modelcheck/. 2009. 
+6. WW. NuSMV: a new symbolic model checker. http://nusmv.irst.itc.it/. 2010. 
+7.  D. Jackson, Software Abstractions: Logic, Language, and Analysis, 2006. 
+8. N. Marti, M. Palomino, A. Vallejo, A tutorial on specifying data structures in Maude, 2005. 
+9. www. Alloy Community. http://alloy.mit.edu/. 2009.  
+10. www. Prover9 and Mace4. www.cs.unm.edu/~mccune/prover9/ 2007. 
+11. www. The Maude System. http://maude.cs.uiuc.edu/. 2007. 
+
+
+
+242 
+ 
+
+12. www. Prism: Probabilistic model checker. www.prismmodelchecker.org. 2009. 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual ( ) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios ( ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o 
+laboratorio 
+
+( ) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los 
+alumnos 
+
+( ) 
+Participacion en clase (X) 
+Asistencia ( ) 
+Proyectos de programacion ( ) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o Matematico con 
+especialidad en Computacion. Es conveniente que posea un posgrado en la disciplina. Con 
+experiencia docente. 
+ 
+
+  
+
+

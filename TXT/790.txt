@@ -1,0 +1,150 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+336 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Tecnologias para Desarrollos en Internet 
+
+Clave:  
+  
+
+Semestre: 
+6-8 
+
+Eje tematico: 
+Programacion 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Modelado y Programacion 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Conocer y aplicar los conocimientos del balance entre conocimientos teoricos y tecnologias de 
+aplicacion para el desarrollo de aplicaciones en la Web. 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Fundamentos 6 8 
+II Tecnologias de desarrollo 18 24 
+III Principios de diseno 12 16 
+IV Diseno Avanzado 6 8 
+V Desarrollo de proyecto 6 8 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Fundamentos 
+I.1 Internet y protocolos en la Web. 
+I.2 Arquitecturas Cliente/Servidor. 
+I.3 Software para la Web. 
+II Tecnologias de desarrollo 
+
+
+
+337 
+ 
+
+II.1 HTML. 
+II.2 Servlets de Java. 
+II.3 JavaScript y Ajax. 
+II.4 Paginas de Servidores de Java. 
+II.5 Bases de datos. 
+III Principios de diseno 
+III.1 Diseno de aplicaciones en la Web. 
+III.2 Seguridad y cifrado. 
+III.3 Desempeno y confiabilidad. 
+III.4 Internacionalizacion y accesibilidad. 
+IV Diseno Avanzado 
+IV.1 Infraestructura para desarrollo de aplicaciones en la Web. 
+IV.2 Estilos arquitectonicos avanzados. 
+IV.3 La Web movil. 
+V Desarrollo de proyecto 
+ 
+ 
+
+Bibliografia basica: 
+1. Grove, Ralph F., Web-Based Application Development, Jones and Bartlett Publishers, 2010. 
+ 
+
+Bibliografia complementaria: 
+1. Deitsch, A. y Czarnecki, D., Java internaltionalization,  Beijing,  O'Reilly,  2001. 
+2. Hakon, W. L., Bos, B., Cascading Style Sheets, 3rd. edition, Pearson, 2005. 
+3. Johnson, E., The complete guide to client/server computing, Prentice-Hall, 2001. 
+4. Metlapalli, P., Java Server Pages Illuminated, Jons and Bartlett, 2008. 
+5. Shklar, L. y Rosen R., Web Application Architecture, Wiley and Sons, 2003. 
+6. Paginas del proyecto W3C:  http://www.w3.org/TR/xhtml1 y http://www.w3.org/TR/CSS21  
+7. Multiples paginas disponibles en la Web. 
+ 
+  
+
+http://www.w3.org/TR/CSS21
+
+
+338 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (X) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia (   ) 
+Proyectos de programacion (   ) 
+Proyecto final (   ) 
+Seminario (   ) 
+ 
+Otras: _____________________________  
+
+Perfil profesiografico:  
+Matematico, fisico, actuario o Licenciado en Cencias de la Computacion, especialista en el area 
+de la asignatura a juicio del comite de asignacion de cursos. Con experiencia docente. 
+ 
+  
+
+

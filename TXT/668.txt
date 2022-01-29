@@ -1,0 +1,187 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+210 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura: 
+ Ingenieria de Software II 
+
+Clave:  
+  
+
+Semestre: 
+7-8 
+
+Eje tematico: 
+Ingenieria de Software 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+ 
+Asignatura con seriacion indicativa antecedente: Ingenieria de Software 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general: 
+Conocer y aplicar nuevos procesos de desarrollo de software. 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Administracion de proyectos de software 6 8 
+
+II Principio de los metodos agiles de desarrollo de 
+software 6 8 
+
+III Metodos agiles: XP, SCRUM 27 36 
+IV Modelos de calidad 6 8 
+V Metodos Lean 3 4 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Administracion de proyectos de software 
+I.1 Conceptos generales. 
+I.2 Planeacion. 
+I.3 Seguimiento. 
+
+
+
+211 
+ 
+
+I.4 Riesgos. 
+I.5 Cierre. 
+II Principio de los metodos agiles de desarrollo de software 
+II.1 Conceptos generales de metodos agiles.  
+II.2 Comparacion de metodos agiles contra disciplinados. 
+II.3 Principios de metodos agiles. 
+II.4 Mitos y realidades. 
+II.5 Caracteristicas de los metodos agiles. 
+II.6 Tecnicas agiles al desarrollar una aplicacion.  
+II.7 Historias de usuario. 
+II.8 Planeacion de iteraciones. 
+II.9 Prueba de aceptacion.  
+III Metodos agiles: XP, SCRUM 
+III.1 SCRUM: Conceptos, actividades, roles, productos. 
+III.2 XP: Conceptos, actividades, roles, productos. 
+IV Modelos de calidad 
+IV.1 MoProSoft. Conceptos, estructura, procesos, actividades, roles. 
+IV.2 ISO/IEC 29110. Conceptos, estructura, procesos, actividades, roles. 
+IV.3 Implementacion de modelos de calidad. 
+V Metodos Lean 
+V.1 Conceptos generales. 
+V.2 Principios. 
+V.3 Ejemplos. 
+ 
+
+Bibliografia basica: 
+1. Cohn Mike. User stories applied. For Agile Software Development. Addison-Wesley. 2004.  
+2. Cohn Mike. Succeeding with Agile. Software Development using Scrum. Addison-Wesley 
+
+2010.  
+3. Larman C. Agile Iterative Development. A manager's guide. Addison-Wesley. 2009. 
+4. Dustin E., Garret T., Gauf B. Implementing Automated Software Testing. Addison-Wesley. 
+
+2009.  
+5. PMI Standards Committee. A guide to the Project Management Body of Knowledge 
+
+(PMBOK) Project Management Institute.  
+6. NMX-I-059-NYCE-2005, Tecnologia de Informacion-Software-Modelos de procesos y 
+
+evaluacion para desarrollo y mantenimiento de software. Parte 01 a 04, 2005.  
+7. Poppendieck Mary and Tom. Lean Software Development: an Agil Toolkit. Addison Wesley. 
+
+2003.  
+8. Poppendieck Mary and Tom. Implementing Lean Software Development: from concept to 
+
+cash. Addison Wesley. 2006. 
+ 
+
+
+
+212 
+ 
+
+Bibliografia complementaria: 
+1. Alistair Cockburn. Agile Software Development: The cooperative game. (2nd edition) (Agile 
+
+Software Development Series) 2006.  
+2. Ambler S. Agile Modeling: Effective practices for eXtreme Programming and the Unified 
+
+Process. Wiley Computer Publishing. 2002. 
+3. Bohem B., Turner R. Balancing Agility and Discipline. Addison Wesley 2004.  
+4. Cockburn A. Agile Software Development. Addison-Wesley. 2002.  
+5. Cohn M. Agile Estimating and Planning. Prentice-Hall. 2006.  
+6. Highsmith J. Adaptive Software Development. Dorset House Publishing. 2000. Poppendieck 
+
+Mary and Tom. Leading Lean Software Development. Addison Wesley. 2010.   
+7. Tong Ka Iok. Essential Skills for Agile Development.  
+8. http://www.agileskills.org/  
+9. http://www.scrumalliance.org/articles 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios ( ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion ( ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos ( ) 
+Participacion en clase ( ) 
+Asistencia ( ) 
+Proyectos de programacion ( ) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+ 
+  
+
+
