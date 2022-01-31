@@ -1,0 +1,180 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+178 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Computacion Cuantica I 
+
+Clave:  
+  
+
+Semestre: 
+6-8 
+
+Eje tematico: 
+Ciencias Computacionales 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+ 
+Asignatura con seriacion indicativa antecedente: Automatas y Lenguajes Formales 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Conocer y aplicar las herramientas del algebra lineal necesarias para describir los postulados 
+de la mecanica cuantica para sistemas de una particula. 
+Conocer los espacios de Hilbert de dos dimensiones, cada una de ellas finita. 
+Conocer el concepto de algoritmo cuantico, asi como la descripcion de cada uno de sus 
+componentes: estado, compuerta, medicion. 
+Conocer y aplicar la notacion de Dirac para describir procesos cuanticos con una particula. 
+Conocer el estado del arte en tecnologias para implementar una computadora cuantica. 
+ 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Conceptos Fundamentales 7.5 10 
+II Matematicas de la computacion cuantica 12 16 
+III Introduccion a la mecanica cuantica 12 16 
+IV Algoritmos cuanticos 10.5 14 
+V Implementacion de computadoras cuanticas 6 8 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+
+
+179 
+ 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Conceptos Fundamentales 
+I.1 Historia de la computacion cuantica. 
+I.2 Computacion cuantica. 
+I.3 Teoria de la computacion como modelo conceptual. 
+I.4 Conceptos basicos: estados, compuertas y mediciones. 
+I.5 Introduccion al concepto de algoritmo cuantico. 
+I.6 Implicaciones clasicas de los algoritmos cuanticos conocidos a la fecha. 
+II Matematicas de la computacion cuantica 
+II.1 Algebra lineal para la mecanica cuantica. 
+II.2 Espacios vectoriales. 
+II.3 Eigenespacios. 
+II.4 Producto interno. 
+II.5 Producto externo. 
+II.6 Producto tensorial. 
+II.7 Espacio de Hilbert. 
+III Introduccion a la mecanica cuantica 
+III.1 Estado. 
+III.2 Qubit. 
+III.3 Ket. 
+III.4 Operador de densidad. 
+III.5 Estados puros y mixtos. 
+III.6 Compuerta. 
+III.7 Compuertas de Pauli. 
+III.8 Compuerta de Hadamard. 
+III.9 Medicion. 
+III.10 Tres postulados de la mecanica cuantica. 
+III.11 Con los kets como estados. 
+III.12 Con los operadores de densidad como estados. 
+III.13 Entanglement. 
+IV Algoritmos cuanticos 
+IV.1 Circuitos cuanticos. 
+IV.2 Maquina de Turing cuantica. 
+IV.3 Ejemplos de algoritmos cuanticos basicos. 
+IV.4 Algoritmo de teleportacion. 
+IV.5 Transformada de Fourier Cuantica (TFC). 
+IV.6 Algoritmo cuantico de factorizacion con la TFC. 
+IV.7 Algoritmo cuantico de busqueda en bases de datos. 
+V Implementacion de computadoras cuanticas 
+V.1 Computadoras cuanticas en la actualidad. 
+V.2 Problematicas. 
+
+
+
+180 
+ 
+
+Bibliografia basica: 
+1. Nielsen, Michael A. y Chuang, Isaac, Quantum Computation and Quantum Information, 
+
+Cambridge University Press. USA, 2003.  
+2. Kaye, Phillip; LaFlamme, Raymond, An Introduction to Quantum Computing, Oxford 
+
+University Press. USA, 2007.  
+3. Hirvensalo, Mika, Quantum Computing, Springer Verlag, USA, 2004. 
+Bibliografia complementaria: 
+1. Preskill, John,  Notas para curso de computacion cuantica, Caltech, USA, 2004. 
+
+http://www.theory.caltech.edu/people/preskill/ph229/\#lecture 
+2. Chen, Goong; Brylinski, Ranee, editors, Mathematics of Quantum Computation, Chapman 
+
+and Hall, USA, 2004.   
+3. Samuel J. Lomonaco, Jr. y Howard E. Brandt, editors, Quantum Computation and Quantum 
+
+Information,  AMS Contemporary Mathematics, Vol. 305, American Mathematical Society, 
+Providence, RI(2002). 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula ( ) 
+Seminarios ( ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion ( ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito ( ) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos ( ) 
+Participacion en clase (X) 
+Asistencia ( ) 
+Proyectos de programacion ( ) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en Computacion. Es conveniente que posea un posgrado en la disciplina. Con 
+experiencia docente. 
+ 
+  
+
+

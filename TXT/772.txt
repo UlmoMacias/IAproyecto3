@@ -1,0 +1,180 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+293 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Reconocimiento de Patrones 
+
+Clave:  
+ 
+
+Semestre: 
+8 
+
+Eje tematico: 
+Imagenes y Ambientes Virtuales 
+
+No. Creditos:  
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+ 
+Asignatura con seriacion indicativa antecedente: Proceso Digital de Imagenes; Inteligencia 
+Artificial 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Conocer y aplicar las diferentes tecnicas del procesamiento de patrones utilizando 
+computadoras digitales.  
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Conceptos basicos de reconocimiento de patrones 6 8 
+II Funciones de decision 9 12 
+
+III Clasificacion de patrones por medio de funciones 
+de distancia 9 12 
+
+IV Clasificaciones de patrones por medio de 
+funciones de similitud 9 12 
+
+V Reconocimiento de patrones sintacticos 9 12 
+
+VI Desarrollo de aplicaciones a distintas fuentes de 
+informacion 6 8 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+  
+
+
+
+294 
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Conceptos basicos de reconocimiento de patrones 
+I.1 Introduccion al reconocimiento de patrones. 
+I.2 Problemas fundamentales en el diseno de un sistema de reconocimiento de 
+
+patrones. 
+I.3 Ejemplos de sistemas automaticos de reconocimientos de patrones. 
+II Funciones de decision 
+II.1 Funciones de decision lineales. 
+II.2 Funciones de decision generalizada. 
+II.3 Espacio generado por los patrones y las constantes de peso. 
+II.4 Propiedades geometricas. 
+II.5 Instrumentacion de las funciones de decision. 
+II.6 Funciones de varias variables. 
+II.7 Sistemas de funciones ortogonales y ortonormales. 
+III Clasificacion de patrones por medio de funciones de distancia 
+III.1 Clasificacion de patrones por medio de distancia minima. 
+III.2 Algoritmos para el agrupamiento de datos. 
+IV Clasificaciones de patrones por medio de funciones de similitud 
+IV.1 Introduccion. Revision de conceptos de probabilidad: densidad y momentos de una 
+
+variable aleatoria; densidad, correlacion; Clasificacion de patrones como un 
+problema de decision estadistico. 
+
+IV.2 Clasificacion de patrones como un problema de decision estadistico. 
+IV.3 Clasificacion tipo Bayes. Caso de Bayes aplicado a patrones normales. 
+IV.4 Probabilidad de error. 
+V Reconocimiento de patrones sintacticos 
+V.1 Conceptos de la teoria de lenguajes formales. 
+V.2 Descripcion de patrones sintacticos. 
+V.3 Gramaticas de reconocimiento. 
+V.4 Reconocimiento de patrones usando automatas. 
+VI Desarrollo de aplicaciones a distintas fuentes de informacion 
+ 
+
+Bibliografia basica: 
+1. Tou, J.T., Gonzales R.C, Pattern Recognition Principles, Addison-Wesley, 1974. 
+2. Schalkoff, RJ., Pattern Recognition: Statistical, Structural and Neural Approches, Portland, 
+
+1991. 
+
+3. Tou, J. T., Information Theoretic similarity for image registration and segmentation, MICCAI, 
+2009. 
+
+Bibliografia complementaria: 
+1. Fukunaga, K., Introducction to Statistical Pattern Recognition, 2a. ed., Academic Press, 
+
+1990. 
+
+
+
+295 
+ 
+
+2. Fu, K. S, Syntatic Methods in pattern Recognition, Elsevier, Academic Press, 1974. 
+3. Duda, R. O. and Hart, D.E., Pattern Classification and Scene Analysis, John Wiley and 
+
+Sons, 1993. 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (   ) 
+Seminarios (   ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (   ) 
+Exposicion de seminarios por los alumnos (   ) 
+Participacion en clase (X) 
+Asistencia (X) 
+Proyectos de programacion (   ) 
+Proyecto final (   ) 
+Seminario (   ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de  la Licenciatura en Ciencias de la Computacion o matematico 
+con especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+ 
+ 
+
+  
+
+

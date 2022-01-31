@@ -1,0 +1,177 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+286 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Razonamiento Automatizado 
+
+Clave:  
+ 
+
+Semestre: 
+6-8 
+
+Eje tematico: 
+Logica Matematica y Computacional 
+
+No. Creditos:  
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+ 
+Asignatura con seriacion indicativa antecedente: Logica Computacional  
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivos generales:  
+Conocer los aspectos generales de la logica de primer orden y orden superior -consideradas 
+como tecnicas de representacion del conocimiento- y metodos de razonamiento automatizado 
+asociadas a estos; como apoyo se utilizaran herramientas de software que realicen 
+razonamiento automatizado, tales como, demostradores de teoremas y asistentes de prueba. 
+Formalizar problemas utilizando tecnicas de representacion de conocimiento basadas en logica 
+de primer orden u orden superior. 
+Resolver problemas, que requieren razonamiento, de forma automatica utilizando metodos 
+formales de razonamiento automatizado y herramientas de software especializado. 
+Identificar diversas aplicaciones reales basadas en el razonamiento automatizado.  
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  
+Horas 
+
+Teoricas Practicas 
+I Introduccion 4.5 6 
+II Razonamiento automatizado de primer orden 10.5 14 
+III Manejo de la igualdad 9 12 
+IV Razonamiento automatizado de orden superior 12 16 
+V Aplicaciones 12 16 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+
+
+287 
+ 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 ?Que es el razonamiento automatizado? 
+I.2 Demostracion automatizada de teoremas. 
+I.3 Recordatorio de logica de primer orden. 
+II Razonamiento automatizado de primer orden 
+II.1 Estrategias de resolucion binaria. 
+II.2 Subsuncion. 
+III Manejo de la igualdad 
+III.1 Paramodulacion. 
+III.2 Demodulacion. 
+III.3 Complecion de Knuth-Bendix. 
+IV Razonamiento automatizado de orden superior 
+IV.1 Teoria de tipos simples. 
+IV.2 Logica de orden superior. 
+IV.3 Asistentes de prueba (Isabelle, Coq, PVS, etc). 
+V Aplicaciones 
+V.1 Casos de estudio. 
+ 
+ 
+
+Bibliografia basica: 
+1. Y. Bertot, P. Casteran, Interactive Theorem Proving and Program Development Coq'Art: 
+
+The Calculus of Inductive Constructions, Series: Texts in Theoretical Computer Science. 
+Springer ISBN: 3-540-20854-2 2004. 
+
+2. T. Nipkow, L. Paulson, M. Wenzel. Isabelle/HOL, A Proof Asistant for Higher-Order Logic. 
+LNCS 2283. Springer, Version actualizada disponible en 
+http://isabelle.in.tum.de/dist/Isabelle/doc/tutorial.pdf 2002. 
+
+3. L. Wos, R. Overbeek, E. Lusk, J. Boyle, Automated Rasoning, Introduction and 
+Applications, Second Edition. ISBN 0-07-911251-X.  Mcgraw-Hill 1992. 
+
+4. L. Wos, G. Pieper, A Fascinating Country in the World of Computing: Your Guide to 
+Automated Reasoning. World Scientific Publishing. 2000. ISBN: 998-02-3910-6 
+
+ 
+Bibliografia complementaria: 
+1. J. Harris, Handbook of Practical Logic and Automated Reasoning, Cambridge University 
+
+Press ISBN-13 978-0-511-50865-3 (ebook), ISBN-13 987-0-521-89957-4 (hardback) 2009. 
+2. A. Robinson, A. Voronkov, editores, Handbook of Automated Reasoning, Elsevier/MIT 
+
+Press 2001. 
+3. F. Miranda Perea, Fundamentos Logicos del Programa de Razonamiento Automatico 
+
+OTTER, Tesis de Maestria en Ciencias. Facultad de Ciencias UNAM 1999. 
+
+http://isabelle.in.tum.de/dist/Isabelle/doc/tutorial.pdf
+
+
+288 
+ 
+
+4. M. Possega, Interactive Theorem Proving, Fakultat Informatik. Institut fur Theoretische 
+Informatik. TU. Dresden. 2010. Disponible en http://wwwtcs.inf.tu-dresden.de/~posegga/itp-
+h12.ps Script 2009/10. 
+
+ 
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (   ) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (   ) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia (   ) 
+Proyectos de programacion (   ) 
+Proyecto final (   ) 
+Seminario (   ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en Computacion. Es conveniente que posea un posgrado en la disciplina. Con 
+experiencia docente. 
+ 
+  
+
+

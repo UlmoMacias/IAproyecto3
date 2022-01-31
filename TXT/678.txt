@@ -1,0 +1,238 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+282 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Pruebas de Software y Administracion de la Configuracion 
+
+Clave:  
+ 
+
+Semestre: 
+7-8 
+
+Eje tematico: 
+Ingenieria de Software 
+
+No. Creditos:  
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Ingenieria de Software 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Comprender, explicar y transmitir la importancia de las pruebas de software bajo una 
+administracion de la configuracion adecuada, proporcionando los elementos necesarios 
+apoyados en tecnicas y herramientas que permitan asegurar el control de versionado y niveles 
+de calidad del software requeridos. 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 1.5 2 
+II Administracion de la configuracion 12 16 
+III Pruebas de software 21 28 
+IV Administracion de la configuracion y las pruebas de software 3 4 
+V Herramientas para pruebas de software 10.5 14 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Importancia de la administracion de la configuracion y realizacion de pruebas como 
+
+aspectos de la calidad en los productos Ubicacion de la administracion de la 
+
+
+
+283 
+ 
+
+configuracion y realizacion de pruebas dentro del ciclo de desarrollo. 
+I.2 Ubicacion de la administracion de la configuracion y realizacion de pruebas dentro 
+
+del ciclo de desarrollo. 
+I.3 Beneficios. 
+II Administracion de la configuracion 
+II.1 Conceptos basicos.  
+
+ Definicion y objetivos de la administracion de la configuracion. 
+ Psicologia de la administracion de la configuracion. 
+ Importancia y aportacion de la administracion de la configuracion. 
+ Linea base. 
+
+II.2 Proceso de la administracion de la configuracion. 
+II.3 Administracion de la configuracion en el ciclo de vida de desarrollo de software. 
+II.4 Proceso de control de cambios. 
+II.5 Administracion de la configuracion en el modelo de procesos CMMI. 
+II.6 Auditoria de la administracion de la configuracion. 
+III Pruebas de software 
+III.1 Conceptos basicos. 
+
+ Psicologia de las pruebas. 
+ Error, defecto y falla. 
+ Como identificar si es o no un defecto. 
+ Importancia y costo de las pruebas. 
+ Principios de las pruebas. 
+
+III.2 Calidad de los productos de software (ISO 25010). 
+III.3 Pruebas en el ciclo de vida de desarrollo del software. 
+III.4 Proceso general de las pruebas (IEEE 829). 
+III.5 Pruebas de software en los modelos de procesos.  
+
+ CMMI Verificacion y validacion. 
+ Pruebas en MoProSoft. 
+
+III.6 Evaluacion del proceso de pruebas (TMM y TPI). 
+III.7 Inicio y termino de las pruebas. 
+III.8 Revisiones tecnicas. 
+III.9 Tipos de pruebas (caracteristicas, seleccion de las pruebas acorde a las 
+
+necesidades).  
+ Pruebas de caja blanca. 
+ Pruebas de caja negra. 
+ Pruebas de regresion. 
+ Pruebas de usabilidad. 
+ Pruebas no funcionales. 
+ Pruebas de aceptacion. 
+
+III.10 Tecnicas de pruebas.  
+ Caja blanca. 
+
+
+
+284 
+ 
+
+ Caja negra. 
+III.11 Pruebas de usabilidad.  
+
+ Usuario y cliente. 
+ Identificacion de elementos de usabilidad. 
+ Estandarizacion en los elementos de la pantalla. 
+ Accesibilidad. 
+
+III.12 Pruebas no funcionales. 
+ Diseno de las pruebas. 
+ Monitoreo e interpretacion de los resultados. 
+
+IV Administracion de la configuracion y las pruebas de software 
+IV.1 En el ciclo de vida de desarrollo de software. 
+IV.2 Proceso de la administracion de la configuracion y pruebas de software. 
+V Herramientas para pruebas de software 
+V.1 Administracion de la configuracion. 
+V.2 Pruebas de software.  
+
+ Generacion de datos. 
+ Pruebas de regresion. 
+ Pruebas no funcionales. 
+
+ 
+Bibliografia basica: 
+1. Glenford J. Myers. The Art of Software Testing. John Wiley y Sons, Inc., Segunda edicion 
+
+2004. 
+2. SWEBOK Guide to the Software Engeenering Body of Knowledge, A project of the IEEE 
+
+COmptuer Society Professional Practices Committee, capitulo 5 y 7. 
+3. ISO/IEJ JTC1/SC7 N4522, 2010-01-04, Software and Systems Engineering. IEEE Std 829-
+
+1998. 
+4. C/S2ESC - Software & Systems Engineering Standards Committee, 829 - IEEE Standard 
+
+for Software and System and Test Documentation, IEEE Computer Society, 2008. 
+5. Specialist Group in Software Testing (BCS SIGIST), BS7925, Standard for Software 
+
+Component Testing, British Computer Society, 2003. 
+6. Koomen, T., Pol., M; Test Process Improvement: A step by step guide to structured testing, 
+
+Pearson Education Limited, 1999. 
+7. TMM Testing Maturity Model, U.S., Air force magazine Crosstalk, 1996. 
+8. CMMI, Capability Maturity Model Integration for Development, V.1.2, 2006. 
+Bibliografia complementaria: 
+1. Banford, Robert y William J. Deibler; Software Configuration Management. Technology 
+
+Report, STSC, 1994. 
+2. Estublier Jacky (Ed.) System Configuration Management. Springer 1999. 
+3. Kenareh, Mansour. Creating an Adaptable Software Configuration Management (SCM) 
+
+Infraestructure. Alltel, SEPG 2002. 
+
+
+
+285 
+ 
+
+4. Leon Alexis. A Guide to Software Configuration Management. Artech House, 2000. 
+5. Joseph Defeo and J.M. Juran. Juran's Quality Handbook. McGraw-Hill. 2010. 
+6. Roger S. Pressman. Software engeneering: A practitioner's approach. 7Th edition. McGraw-
+
+Hill. 2009 
+7. Marnie L. Hutcheson. Software Testing Fundamentals, Methods and Metrics. Wiley 
+
+Publishing, Inc. 2003. 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (   ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (   ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (   ) 
+Exposicion de seminarios por los alumnos (   ) 
+Participacion en clase (   ) 
+Asistencia (   ) 
+Proyectos de programacion (   ) 
+Proyecto final (   ) 
+Seminario (   ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico: Egresado preferentemente de la Licenciatura en Ciencias de la 
+Computacion o Matematico con especialidad en computacion con amplia experiencia de 
+programacion. Es conveniente que posea un posgrado en la disciplina. Con experiencia 
+docente. 
+ 
+  
+
+

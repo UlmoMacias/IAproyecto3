@@ -1,0 +1,175 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+90 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Computacion Distribuida 
+
+Clave:  
+ 
+
+Semestre:  
+5 
+
+Eje tematico: 
+Integracion Teoria-Practica 
+
+No. Creditos:   
+10 
+
+Caracter: Obligatoria Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion obligatoria antecedente: Estructuras de Datos  
+ 
+Asignatura con seriacion obligatoria subsecuente: Criptografia y Seguridad; Computacion 
+Concurrente 
+ 
+Asignatura con seriacion indicativa antecedente: Organizacion y Arquitectura de 
+Computadoras 
+ 
+Asignatura con seriacion indicativa subsecuente: Sistemas Operativos 
+Objetivo general:  
+Conocer la estructura y analisis de redes sociales y tecnologicas que en anos recientes se han 
+desarrollado enormemente y han cambiado inclusive la manera de interactuar de las personas, 
+la manera en como se organizan y comercian. 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Redes complejas y el Web 3 4 
+II Algoritmos distribuidos 5 6 
+III Propiedades de mundos pequenos en redes 6 8 
+IV Busqueda descentralizada en redes peer to peer 7 10 
+V Comportamiento de cascada en redes 9 12 
+VI Modelos economicos para comportamiento en redes 9 12 
+VII Temas selectos de redes  y algoritmos distribuidos 9 12 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+
+
+91 
+ 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Redes complejas y el Web 
+I.1 Historia del World Wide Web. 
+I.2 Estructura grafica del Web. 
+II Algoritmos distribuidos 
+II.1 Protocolos en linea (bit alternante). 
+II.2 Difusion de informacion en una red. 
+II.3 Algoritmos distribuidos en graficas. 
+III Propiedades de mundos pequenos en redes 
+III.1 El fenomeno de los mundos pequenos. 
+III.2 Seis grados de separacion. 
+III.3 Busqueda descentralizada. 
+IV Busqueda descentralizada en redes peer to peer 
+IV.1 Esquemas de redes peer-to-peer. 
+IV.2 Busqueda de datos en redes peer-to-peer. 
+V Comportamiento de cascada en redes 
+V.1 Comportamiento de cascada en redes. 
+V.2 Difusion de informacion en redes. 
+V.3 Algoritmos de epidemia en redes. 
+VI Modelos economicos para comportamiento en redes 
+VI.1 Fundamentos de teoria de juegos. 
+VI.2 Equilibrio de Nash. 
+VI.3 Juegos de coordinacion y estrategias. 
+VI.4 Teoria de juegos evolucionaria. 
+VI.5 Modelado de trafico en redes utilizando teoria de juegos. 
+VII Temas selectos de redes y algoritmos distribuidos 
+VII.1 Analisis de ligas para busquedas en el Web. 
+VII.2 Analisis de espectro para redes. 
+VII.3 Agregacion de calificacion de paginas (ranking). 
+VII.4 Comunidades y cumulos en redes. 
+VII.5 Problemas en bases de datos distribuidas. 
+VII.6 Problemas en sistemas operativos distribuidos. 
+
+Bibliografia basica: 
+1. David Easley y Jon Keinberg, Networks, Crowds, and Markets: Reasoning about a Highly 
+
+Connected World. Cambridge University Press, 2010. En linea: 
+http://www.cs.cornell.edu/home/kleinber/networks-book/ 
+
+2. Hagit Attiya y Jennifer Welch, Distributed Computing: Fundamentals, Simulations, and 
+Advanced Topics. (Wiley Series on Parallel and Distributed Computing) by Hagit Attiya and 
+Jennifer Welch, 2004. 
+
+
+
+92 
+ 
+
+Bibliografia complementaria: 
+1. Nancy Lynch, Distributed Algorithms. Morgan Kaufman Pub, 1996. 
+2. Gerard Tel, Introduction to Distributed Algorithms. Cambridge University Press, 2nd Edition, 
+
+2001. 
+3. Acerca del Web: 
+
+a. V. Bush, As We May Think. Atlantic Monthly, July 1945. 
+b.  World Wide Web Consortium, A Little History of the World Wide Web, 1945-1995. 
+c.  A. Broder, R. Kumar, F. Maghoul, P. Raghavan, S. Rajagopalan, R. Stata, A. Tomkins, 
+
+J. Wiener, Graph structure in the web. 9th International World Wide Web Conference, 
+May 2000. 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (  ) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (  ) 
+Seminarios (  ) 
+Lecturas obligatorias (  ) 
+Trabajo de investigacion (  ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (  ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (  ) 
+Trabajos y tareas fuera del aula (X) 
+Exposicion de seminarios por los alumnos (  ) 
+Participacion en clase (X) 
+Asistencia (  ) 
+Seminario (  ) 
+ 
+Otras: Practicas de laboratorio. Proyectos de 
+programacion. 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o Matematico con 
+especialidad en Computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+ 
+ 
+  
+
+

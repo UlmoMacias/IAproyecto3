@@ -1,0 +1,194 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+299 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Recuperacion y Busqueda de Informacion en Textos 
+
+Clave:  
+ 
+
+Semestre: 
+6-8 
+
+Eje tematico: 
+Inteligencia Artificial 
+
+No. Creditos:  
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Automatas y Lenguajes Formales; 
+Modelado y Programacion, Probabilidad I  
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Conocer y aplicar  las teorias y algoritmos de los sistemas de recuperacion de informacion en 
+textos. Dar a conocer la metodologia del diseno y evaluacion de sistemas de recuperacion de 
+informacion.  
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 3 4 
+II Recuperacion Booleana 3 4 
+
+III Vocabulario de terminos y listas de destinos o 
+declaraciones 6 8 
+
+IV Diccionarios y la recuperacion tolerante 6 8 
+V Construccion de indices 6 8 
+VI Compresion de indices 3 4 
+
+VII Puntaje, peso de los terminos y el modelo de 
+espacio vectorial 6 8 
+
+VIII Calculo de puntajes en un sistema de RI 6 8 
+IX Evaluacion en RI 3 4 
+
+X Retroalimentacion de relevancia y expansion de la 
+pregunta 6 8 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+
+
+300 
+ 
+
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 ?Que es la recuperacion de informacion? 
+I.2 Introduccion a los problemas en la RI. 
+I.3 Explosion de la informacion. 
+II Recuperacion Booleana 
+II.1 Ejemplo de recuperacion de informacion. 
+II.2 Indice invertido simple. 
+II.3 Procesamiento de preguntas Booleanas. 
+II.4 Comparacion contra un modelo de clasificacion. 
+III Vocabulario de terminos y listas de destinos o declaraciones 
+III.1 Conversion de Documentos. 
+III.2 Determinacion del vocabulario de terminos. 
+III.3 Extension de las listas de destinos o declaraciones. 
+III.4 Frases como preguntas. 
+IV Diccionarios y la recuperacion tolerante 
+IV.1 Estructuras de busqueda. 
+IV.2 Preguntas con comodines. 
+IV.3 Correccion de ortografia. 
+IV.4 Correccion fonetica. 
+V Construccion de indices 
+V.1 Indexamiento basado en clasificacion de terminos - documentos por bloques. 
+V.2 Un solo paso en memoria. 
+V.3 Indexamiento distribuido. 
+V.4 Indexamiento dinamico. 
+VI Compresion de indices 
+VI.1 Propiedades estadisticas de los terminos. 
+VI.2 Estimacion del numero de terminos. 
+VI.3 Compresion del diccionario. 
+VI.4 Compresion de las listas de destinos o declaraciones. 
+VII Puntaje, peso de los terminos y el modelo de espacio vectorial 
+VII.1 Indices parametricos y de zona. 
+VII.2 Frecuencia de los terminos y ponderacion. 
+VII.3 Modelo de espacio vectorial para puntaje. 
+VII.4 Variantes de las funciones tf e idf 
+VIII Calculo de puntajes en un sistema de RI 
+VIII.1 Puntaje y clasificacion eficiente. 
+VIII.2 Componentes de un sistema de RI. 
+VIII.3 Interaccion del modelo de espacio vectorial y operadores en preguntas. 
+IX Evaluacion en RI 
+
+
+
+301 
+ 
+
+IX.1 Evaluacion de un sistema de RI. 
+IX.2 Colecciones de prueba. 
+IX.3 Evaluacion de conjuntos recuperados sin clasificacion. 
+IX.4 Evaluacion de resultados clasificados. 
+IX.5 Valoracion de la relevancia. 
+IX.6 Snippets de resultado. 
+X Retroalimentacion de relevancia y expansion de la pregunta 
+X.1 Retroalimentacion de relevancia y seudo-retroalimentacion de relevancia. 
+X.2 Metodos globales para reformulacion de la pregunta. 
+ 
+
+Bibliografia basica: 
+1. Baeza-Yates and Ribeiro, Modern Information Retrieval, Addison Wesley, 1999 (Z667 B34) 
+2. Christopher D. Manning, Prabhakar Raghavan and Hinrich Schutze, Introduction to 
+
+Information Retrieval, Cambridge University Press. 2008. 
+3. Gerard Salton. Automatic text processing: The transformation, analysis and retrieval of 
+
+information by computer. Reading, Massachusetts: Addison-wesley, 1989. 
+Bibliografia complementaria: 
+1. Ian H. Witten, Alistair Moffat and Timothy C. Bell. Managing Gigabytes: Compressing and 
+
+Indexing Documents and Images, 2nd Edition (Morgan Kaufmann Series in Multimedia 
+Information and Systems) Morgan Kaufmann Publishers, 1999. 
+
+2. Karen Sparck Jones and Peter Willett. Readings in Information Retrieval San Francisco: 
+Morgan Kaufmann, 1997. 
+
+3. William B. Frakes and Ricardo Baeza-Yates. Information retrieval: data structures y & 
+algorithms Englewood Cliffs, N.J.: Prentice Hall, 1992. 
+
+ 
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (   ) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (   ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+
+Metodos de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (   ) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (   ) 
+Exposicion de seminarios por los alumnos (   ) 
+Participacion en clase (X) 
+Asistencia (   ) 
+Proyectos de programacion (X) 
+Proyecto final (   ) 
+Seminario (   ) 
+Otras: _____________________________ 
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+
+

@@ -1,0 +1,176 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+136 
+ 
+
+ 
+
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Administracion de Empresas de Software 
+
+Clave:  
+ 
+
+Semestre: 
+7-8 
+
+Eje tematico: 
+Ingenieria de Software 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+8 128 2 6 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Ingenieria de Software 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Conocer sobre la administracion de empresas de software que les permita obtener los 
+elementos indispensables para constituir y organizar una empresa de desarrollo de software en 
+Mexico, que cumpla con la legislacion y los mejores estandares de calidad. 
+ 
+
+Indice tematico 
+
+Unidad Temas  
+Horas 
+
+Teoricas Practicas 
+I Introduccion 1.5 2 
+II Requisitos y tramites para constituir una empresa 3 4 
+III Proteccion de propiedad intelectual 3 4 
+IV Codigo de etica 1.5 2 
+
+V Modelo de procesos de la norma NMX-I-059-
+NYCE-2005 (MoProSoft) 9 12 
+
+VI Administracion de una empresa de software 6 8 
+VII Administracion de un proyecto 9 12 
+
+VIII Proceso de desarrollo y mantenimiento de 
+software 15 20 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+
+
+137 
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 La industria de software en Mexico. 
+I.2 Modelos, normas y estandares para la industria de software. 
+II Requisitos y tramites para constituir una empresa 
+II.1 Tipos de empresas. 
+II.2 Acta constitutiva y sus elementos. 
+III Proteccion de propiedad intelectual 
+III.1 La ley Federal de Derecho de Autor. Instituto de Derechos de Autor. 
+IV Codigo de etica 
+IV.1 Estructura de una empresa tipica de software: direccion, gerencia, operacion. 
+V Modelo de procesos de la norma NMX-I-059-NYCE-2005 (MoProSoft) 
+V.1 Gestion del negocio: planeacion estrategica. Gestion  y mejora de procesos: 
+
+modelos de procesos de referencia (MoPrGestion de recursos: recursos humanos, 
+bienes y servicios e infraestructura, conocimiento de la organizacion. 
+
+V.2 Gestion de recursos: recursos humanos, bienes y servicios e infraestructura, 
+conocimiento de la organizacion. 
+
+VI Administracion de una empresa de software 
+VI.1 Planeacion y seguimiento de un proyecto. 
+VI.2 Control de cambios a requerimientos. 
+VI.3 Control de riesgos. 
+VI.4 Entrega y cierre. 
+VII Administracion de un proyecto 
+VII.1 Fases de desarrollo y sus productos. 
+VII.2 Actividades de verificacion, validacion y pruebas. 
+VIII Proceso de desarrollo y mantenimiento de software 
+Bibliografia basica: 
+1. NMX-I-059-NYCE-2005 Tecnologia de Informacion-Software-Modelos de procesos y 
+
+evaluacion para desarrollo y mantenimiento de software. Parte 01 a 04, 2005. 
+2. Ley Federal de Derechos de Autor. 
+3. Bott. F, Coleman. A, Eaton J y Rowland D. Profesional Issues in Software Engineering, 
+
+Taylor y Francis, Tercera Edicion, 2001.  
+4. Software Engineering Code of Ethics and Professional Practice, IEEE-CS/ACM Joint Task 
+
+on Software Engineering Ethics and Professional Practice, 1998.  
+5. Paginas de varias instituciones gubernamentales para requisitos, tramites, legislacion y 
+
+datos sobre la industria de software en Mexico. 
+Bibliografia complementaria: 
+1. PMI Standards Committee, A guide to the Project Management Body of Knowledge 
+
+(PMBOK), Project Management Institute.  
+2. Oktaba. H, y Piattini. M, Software Process Improvement for Small and Medium Enterprises. 
+
+Information Science Reference, 2008. 
+
+
+
+138 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios ( ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion ( ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos ( ) 
+Participacion en clase ( ) 
+Asistencia ( ) 
+Proyectos de programacion ( ) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+ 
+  
+
+

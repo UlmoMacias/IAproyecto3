@@ -1,0 +1,210 @@
+
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+
+Facultad de Ciencias 
+
+Programa de la asignatura 
+
+ 
+
+Denominacion de la asignatura:  
+Matematicas para Ciencias Aplicadas I 
+
+Clave:  
+1118 
+
+Semestre:  
+1 
+
+Eje tematico: 
+Fundamentos Matematicos 
+
+No. Creditos:   
+12 
+
+Caracter: Obligatoria Horas 
+Horas por 
+semana 
+
+Total de 
+Horas  
+
+Tipo: Teorica 
+Teoria: Practica: 
+
+6 96 6 0 
+Modalidad: Curso Duracion del programa: Semestral 
+
+ 
+ 
+Asignatura con seriacion obligatoria antecedente: Ninguna 
+ 
+Asignatura con seriacion obligatoria subsecuente: Analisis de Algoritmos 
+ 
+Asignatura con seriacion indicativa antecedente: Ninguna 
+ 
+Asignatura con seriacion indicativa subsecuente: Matematicas para Ciencias Aplicadas II; 
+Probabilidad I 
+
+Objetivo general:  
+
+Comprender los conceptos basicos del calculo diferencial e integral en una variable y tener 
+capacidad de aplicarlos en la solucion de problemas relacionados con tasas de cambio, 
+optimizacion, area y volumenes. 
+
+Adquirir la habilidad para entender y formular modelos sencillos de fenomenos o procesos de 
+las ciencias naturales. 
+
+Iniciar su aprendizaje de metodos de calculo numerico. 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  
+Horas 
+
+Teoricas Practicas 
+I Funciones graficas 18 0 
+II Derivada de funciones reales de una variable real 18 0 
+III Integral de funciones reales de una variable real 18 0 
+IV Calculo de las derivadas 18 0 
+
+
+
+ 
+
+- 7 - 
+ 
+
+V Metodos de integracion 12 0 
+VI Series 12 0 
+
+Total de horas: 96 0 
+Suma total de horas: 96 
+
+ 
+Contenido tematico 
+
+Unidad Tema 
+I Funciones graficas 
+I.1 Funciones. Ejemplos: densidad, presion, velocidad, etc. 
+I.2 Coordenadas. Distancia y angulo. 
+I.3 Representacion grafica de funciones. Ecuacion de una recta. Proporcionalidad. 
+I.4 Conicas: elipse, hiperbola, parabola. 
+I.5 Polinomios y sus graficas. 
+I.6 Funcion inversa. Grafica de una funcion y su inversa. 
+I.7 Composicion de funciones. Transformacion de graficas de funciones. 
+I.8 Curvas y su representacion parametrica. 
+II Derivada de funciones reales de una variable real 
+II.1 Razon de cambio promedio. 
+II.2 Limites. 
+
+II.3 Razon de cambio en la naturaleza. Movimiento, velocidad de reaccion, capacidad 
+calorifica de un cuerpo, dilatacion de un cuerpo por calentamiento, difusion, etc. 
+
+II.4 Tangente a una curva. Conicas. 
+II.5 Derivada. Calculo de la derivada de algunas funciones simples. 
+II.6 Propiedades de la derivada. 
+II.7 Crecimiento y decrecimiento de una funcion. Maximos y minimos. 
+
+II.8 Derivadas de orden superior. Aceleracion. Convexidad y concavidad de una curva. 
+Puntos de inflexion. 
+
+III Integral de funciones reales de una variable real 
+
+III.1 Distancia recorrida a partir de la velocidad instantanea. Area de la region limitada 
+por una curva. 
+
+III.2 Integral definida. 
+III.3 Relacion entre la integral y la derivada. Teorema fundamental del calculo. 
+III.4 Integral indefinida. 
+III.5 Propiedades de la integral. 
+III.6 Ejemplos y aplicaciones. Trabajo. Distribuciones de Probabilidad. 
+IV Calculo de las derivadas 
+
+IV.1 Diferencial, Aproximacion por medio de la derivada. Cero de funciones. Metodo de 
+Newton. 
+
+IV.2 Regla de la cadena. Derivada de la funcion inversa. 
+IV.3 Curvas parametrizadas c(t)=(x(t),y(t)). Derivadas de y respecto a x. 
+IV.4 Polinomios. Raices de polinomios. Metodos numericos. 
+IV.5 Funcion exponencial. El numero e. Logaritmos. 
+IV.6 Funciones trigonometricas y sus inversas. 
+IV.7 Derivacion implicita. 
+
+
+
+ 
+
+- 8 - 
+ 
+
+V Metodos de integracion 
+V.1 Integracion por partes. Integracion por substitucion. 
+V.2 Cambio de variable. 
+V.3 Metodos numericos. 
+VI Series 
+VI.1 Polinomio de Taylor. 
+VI.2 Calculo de valores de una funcion con ayuda de las series. 
+ 
+
+Bibliografia basica: 
+
+1. Cruse, A. B., Granberg, M., Lectures on Freshman Calculus, Addison-Wesley, Boston, 
+1971. 
+
+2. Edwards, C. H., Penney, D. E., Calculo diferencial e integral, Prentice-Hall 
+Hispanoamericana, Mexico, 1997. 
+
+3. Stewart, J., Single Variable Calculus,   Brooks/Cole Publishing, Boston, 1999. 
+
+Bibliografia complementaria: 
+
+1. Gutierrez Sanchez, J. L., Sanchez Garduno, F.,  Matematicas para las ciencias naturales,   
+Aportaciones Matematicas, Mexico, 1998. 
+
+2. Kline, M., Calculus, an Intuitive and Physical Approach, Dover Publications, New York, 
+1998. 
+
+3. Swokowski E. W., Calculus with Analytic Geometry, Prindle, Weber and Schmidt 
+Incorporated, Boston, 1975. 
+
+4. Zeldovich, Y., Yaglom, I., Matematicas superiores para fisicos y tecnicos principiantes,   
+Editorial MIR, Moscu, 1982. 
+
+Sugerencias didacticas: 
+
+Exposicion oral ( X ) 
+Exposicion audiovisual ( X ) 
+Ejercicios dentro de clase ( X ) 
+Ejercicios fuera del aula (    ) 
+Seminarios (    ) 
+Lecturas obligatorias ( X ) 
+Trabajo de investigacion (    ) 
+Practicas de taller o laboratorio (    ) 
+Practicas de campo (    ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+
+Examenes parciales ( X) 
+Examen final escrito ( X) 
+Trabajos y tareas fuera del aula (X) 
+Exposicion de seminarios por los alumnos (   ) 
+Participacion en clase ( X) 
+Asistencia ( X) 
+Seminario (   ) 
+ 
+Otras: Proyectos de programacion 
+  
+
+Perfil profesiografico: Matematico, fisico actuario o licenciado en ciencias de la computacion, 
+especialista en el area de la asignatura a juicio del comite de asignacion de cursos. Con 
+experiencia docente. 
+
+

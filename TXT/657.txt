@@ -1,0 +1,308 @@
+A DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+
+Algoritmos Paralelos 
+
+Clave:  
+
+ 0657 
+
+Semestre: 
+
+6-8 
+
+Eje tematico: 
+
+Algoritmos 
+
+No. Creditos:   
+
+10 
+
+Caracter: Optativa Horas 
+Horas por 
+semana 
+
+Total de 
+Horas  
+
+Tipo: Teorico-Practica 
+Teoria: Practica: 
+
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+
+ 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Analisis de Algoritmos 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+
+Objetivos generales:  
+
+Conocer y establecer conceptos de la Complejidad y Analisis de Algoritmos Paralelos.  Introducir 
+diferentes modelos de computo paralelo y establecer conceptos basicos sobre el area.  
+Comprender y explicar las diferentes tecnicas sobre el Diseno y Justificacion de Algoritmos 
+Paralelos.  
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  
+Horas 
+
+Teoricas Practicas 
+I Introduccion 3 4 
+II Conceptos basicos 6 8 
+III Tecnicas basicas 6 8 
+IV Listas y arboles 6 8 
+V Busquedas y ordenamientos 6 8 
+VI Teoria de graficas 6 8 
+VII Geometria computacional 3 4 
+VIII Cadenas 6 8 
+IX Metodos numericos 3 4 
+X Algoritmos aleatorios 3 4 
+
+Total de horas: 48 64 
+
+Suma total de horas: 112 
+
+  
+
+
+
+Contenido tematico 
+
+Unidad Tema 
+
+I Introduccion 
+II. Conceptos basicos 
+
+II.1 Procesamiento paralelo. 
+
+II.2 Modelos de computo paralelos. 
+
+II.3 Desempeno computacional de algoritmos paralelos. 
+
+II.4 Paradigma trabajo-tiempo. 
+
+II.5 Notacion de optimalidad. 
+
+II.6 Complejidad de la comunicacion. 
+
+III Tecnicas basicas 
+III.1 Arboles balanceados. 
+
+III.2 Tecnica Pointer Jumping. 
+
+III.3 Divide y venceras. 
+
+III.4 Particionamiento (Partitioning) 
+
+III.5 Tecnica de Pipelining 
+
+III.6 Aceleramiento en cascada 
+
+III.7 Tecnica Symmetry Breaking 
+
+IV Listas y arboles 
+IV.1 Tecnica List Ranking. 
+
+IV.2 Tecnica de Euler. 
+
+IV.3 Contraccion de arboles. 
+
+IV.4 Antecesor comun mas cercano. 
+
+V Busquedas y ordenamientos 
+V.1 Busquedas. 
+
+V.2 Intercalados (Merging). 
+
+V.3 Ordenamiento. 
+
+V.4 Ordenamiento en redes (Sorting Network). 
+
+V.5 Problema de seleccion. 
+
+V.6 Cotas Minimas. 
+
+VI Teoria de graficas 
+VI.1 Componentes conexas. 
+
+VI.2 Arboles generadores de peso minimo. 
+
+VI.3 Componentes bi-conexas. 
+
+VI.4 Descomposicion por orejas. 
+
+VI.5 Graficas dirigidas. 
+
+VII Geometria computacional 
+VII.1 Envolvente convexa (revisado). 
+
+VII.2 Interseccion de conjuntos convexos. 
+
+VII.3 Traslape de planos (Plane Sweeping). 
+
+VII.4 Problemas de visibilidad. 
+
+VII.5 Dominancia (DominanceCounting). 
+
+VIII Cadenas 
+
+
+
+VIII.1 Introduccion. 
+
+VIII.2 Apareamientos. 
+
+VIII.3 Analisis de texto. 
+
+VIII.4 Analisis de patrones. 
+
+VIII.5 Arboles de sufijos. 
+
+VIII.6 Aplicaciones para arboles de sufijos. 
+
+IX Metodos numericos 
+IX.1 Recurrencia lineal. 
+
+IX.2 Sistemas triangulares lineales. 
+
+IX.3 La transformada de Fourier discreta. 
+
+IX.4 Multiplicacion polinomial. 
+
+IX.5 Matrices Toeplitz. 
+
+IX.6 Division polinomial. 
+
+IX.7 Evaluacion de polinomios. 
+
+IX.8 Matrices densas. 
+
+X Algoritmos aleatorios 
+X.1 Medidas de desempeno 
+
+X.2 Conjunto independiente fraccional 
+
+X.3 Localizacion de un punto en una subdivision planar triangulada 
+
+X.4 Apareamiento de patrones 
+
+X.5 Verificacion de identidades polinomiales 
+
+X.6 Ordenamiento 
+
+X.7 Apareamiento maximo 
+
+ 
+
+Bibliografia basica: 
+
+1. Casanova, H., Legrand, A., Robert, Y. Parallel Algorithms, (Chapman and Hall/CRC 
+Numerical Analy and Scient Comp. Series) CRC Press, 2008. 
+
+2. Grama, A. Karypis, G., Kumar, V. Gupta, A., Introduction to Parallel Computing, 2nd ed., 
+Addison Wesley, 2003.   
+
+3. Leighton, F. T., Introduction to Parallel Algorithms and Architectures, xth ed., Editorial, 2006. 
+
+4. Leopold, C., Parallel and Distributed Computing: A Survey of Models, Paradigms and 
+Approaches, Wiley Series on Parallel and Distributed Computing, John Wiley y Son Inc. 2001.  
+
+5. Roosta, S.H., EfParallel Processing and Parallel Algorithms: Theory and Computation, 
+Springer, 2000. 
+
+Bibliografia complementaria: 
+
+1. Correa, R., de Castro, I., Fiallos, M., Gomez L.F. (Editors), Models for Parallel and 
+Distributed Computation: Theory, Algorithmic Techniques and Applications (Applied 
+Optimization), Kluwer Academic Pu., 2002. 
+
+2. Gibbons, A., Rytter, W., Efficient Parallel Algorithms, Cambridge University Press, 1990.  
+
+3. JaJa, J., An Introduction to Parallel Algorithms, Addison-Wesley, 1992.  
+
+
+
+4. Leighton, F. T., Introduction to Parallel Algorithms and Architectures: Arrays, Trees, 
+Hypercubes, Morgan Kaufmann Publishers, 1992.   
+
+5. Mohcine, J., Contassot-Vivier, S. Couturir, R., Parallel Iterative Algorithms: From Sequential 
+to Grid Computing, Chapman and Hall/CRC Numerical Analysis and Scientific Computation 
+Series, 2007. 
+
+Sugerencias didacticas: 
+
+Exposicion oral (X) 
+
+Exposicion audiovisual (X) 
+
+Ejercicios dentro de clase ( ) 
+
+Ejercicios fuera del aula ( ) 
+
+Seminarios ( ) 
+
+Lecturas obligatorias (X) 
+
+Trabajo de investigacion (X) 
+
+Practicas de taller o laboratorio (X) 
+
+Practicas de campo (X) 
+
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+
+Examenes parciales (X) 
+
+Examen final escrito (X) 
+
+Trabajos y tareas fuera del aula (X) 
+
+Practicas de laboratorio ( ) 
+
+Exposicion de seminarios por los alumnos (X) 
+
+Participacion en clase (X) 
+
+Asistencia ( ) 
+
+Proyectos de programacion ( ) 
+
+Proyecto final ( ) 
+
+Seminario ( ) 
+
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+ 
+
+ 
+
+

@@ -1,0 +1,216 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+21 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Introduccion a las Ciencias de la Computacion 
+
+Clave:  
+ 
+
+Semestre:  
+1 
+
+Eje tematico: 
+Programacion 
+
+No. Creditos:   
+12 
+
+Caracter: Obligatoria Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+9 144 3 6 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+Asignatura con seriacion obligatoria antecedente: Ninguna 
+ 
+Asignatura con seriacion obligatoria subsecuente: Organizacion y Arquitectura de 
+Computadoras 
+ 
+Asignatura con seriacion indicativa antecedente: Ninguna 
+ 
+Asignatura con seriacion indicativa subsecuente: Estructuras de Datos 
+Objetivo general:  
+Desmitificar a la computadora y proveer a los estudiantes los conocimientos y mecanismos 
+para poder explotar la tecnologia disponible. 
+ 
+
+Indice tematico 
+
+Unidad Temas  
+Horas 
+
+Teoricas Practicas 
+I Conceptos generales de computacion 9 18 
+II Vista panoramica de la programacion orientada a objetos 6 12 
+III Objetos, estados y servicios 6 12 
+IV Datos estructurados 9 18 
+V Herencia 6 12 
+VI Administracion de memoria durante ejecucion 3 6 
+VII Manejo de errores en ejecucion (excepciones) 3 6 
+VIII Entrada y salida estructurada 3 6 
+IX Hilos de ejecucion y multiproceso (threads) 3 6 
+
+Total de horas: 48 96 
+Suma total de horas: 144 
+
+ 
+
+
+
+22 
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Conceptos generales de computacion 
+I.1 Historia de la computacion. 
+I.2 Arquitectura de Von-Neumann. 
+I.3 Arquitecturas modernas con multiprocesadores. 
+I.4 Sistema binario y cambios de base. 
+I.5 Representacion digital de la informacion. 
+I.6 Principios de lenguajes de programacion. 
+I.7 Ambientes de desarrollo de la programacion. 
+II Vista panoramica de la programacion orientada a objetos 
+II.1 Definiciones. 
+II.2 Diseno orientado a objetos (tarjetas de responsabilidades). 
+II.3 Organizacion general de un programa en un lenguaje orientado a objetos. 
+
+II.4 Entrada y salida: metodos y parametros/argumentos; archivos de entrada y salida 
+simples. 
+
+II.5 Uso de bibliotecas. 
+III Objetos, estados y servicios 
+III.1 Variables locales y atributos. Niveles de visibilidad. 
+III.2 Expresiones y cadenas. 
+III.3 Variables y referencias. 
+
+III.4 Distintos tipos de metodos: constructores, de acceso, de actualizacion, de 
+implementacion y auxiliares. 
+
+IV Datos estructurados 
+IV.1 Interfaces. 
+IV.2 Objetos y referencias. 
+IV.3 Listas simples. 
+IV.4 Ciclos y condicionales. 
+IV.5 Arreglos. 
+IV.6 Funciones y recursion. 
+V Herencia 
+V.1 Extension de clases. 
+V.2 Aspectos principales de la herencia. 
+V.3 Polimorfismo. 
+V.4 Clases abstractas. 
+V.5 Uso de interfaces. 
+VI Administracion de memoria durante ejecucion 
+VI.1 La memoria durante la ejecucion de aplicaciones. 
+VI.2 El heap y la recoleccion de basura. 
+VI.3 La pila de ejecucion y los registros de activacion por proceso. 
+VI.4 Implementacion de la recursividad. 
+VII Manejo de errores en ejecucion (excepciones) 
+VII.1 Tipos de errores (ejecucion, entrada y salida o del usuario). 
+
+
+
+23 
+ 
+
+VII.2 Definicion de errores aprovechando la herencia. 
+VII.3 Deteccion y manejo de errores de ejecucion. 
+VII.4 Recomendaciones generales. 
+VIII Entrada y salida estructurada 
+VIII.1 Conceptos generales. 
+VIII.2 Mecanismos para el uso de archivos de disco. 
+
+VIII.3 Manejo de archivos: De texto (bytes y caracteres); de registros; de objetos; de 
+acceso directo: binario. 
+
+IX Hilos de ejecucion y multiproceso (threads) 
+IX.1 Conceptos generales. 
+IX.2 Mecanismos del lenguaje para hilos de ejecucion. 
+IX.3 Sincronizacion de hilos de ejecucion. 
+IX.4 Terminacion de ejecucion. 
+IX.5 Depuracion en hilos de ejecucion. 
+ 
+ 
+ 
+ 
+
+Bibliografia basica: 
+1. Viso E. y Pelaez C., Introduccion a las Ciencias de la Computacion con Java. Las Prensas 
+
+de Ciencias, ISBN--978-970-32-4268-9, 2007. 
+2.  Lopez Gaona Amparo, Introduccion al desarrollo de programas con Java. Las prensas de 
+
+Ciencias, Segunda edicion, 2011. 
+3. Pelaez C. y Viso, E., Introduccion a las Ciencias de la Computacion con Java (Manual de 
+
+practicas). Las Prensas de Ciencias, ISBN-978-970-32-5416-3, 2007. 
+Bibliografia complementaria: 
+1. Pagina de Java en la web: http://java.sun.com/javase/6/docs/api/  Definiciones de clases 
+
+para Java.  
+2.  Ken Arnold, James Gosling and David Holmes, Java(TM) Programming Language, The 
+
+(4th Edition), Addison-Wesley, Pearson Education, 2005. 
+3. Joshua Bloch, Effective Java (2nd Edition), Pearson Education, Inc., 2008. 
+4. Jose Galaviz Casas, Elogio de la pereza, Las prensas de Ciencias, 2004. 
+5.  Sun Corporation, The source for Java technology, Web page. 
+6.  Elliote Rusty Harols, Java I/O, Second Edition, O'Reilly Media Inc., 2006. 
+  
+
+
+
+24 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral ( X ) 
+Exposicion audiovisual (    ) 
+Ejercicios dentro de clase ( X ) 
+Ejercicios fuera del aula ( X ) 
+Seminarios (    ) 
+Lecturas obligatorias (    ) 
+Trabajo de investigacion (    ) 
+Practicas de taller o laboratorio ( X ) 
+Practicas de campo (    ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales ( X ) 
+Examen final escrito (    ) 
+Trabajos y tareas fuera del aula ( X ) 
+Exposicion de seminarios por los alumnos (    ) 
+Participacion en clase ( X ) 
+Asistencia ( X ) 
+Seminario (    ) 
+ 
+Otras: Practicas de laboratorio. Proyectos de 
+programacion. Proyecto final. 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o Matematico con 
+especialidad en Computacion. Es conveniente que posea estudios de posgrado en el campo de 
+conocimiento. Con experiencia docente. 
+ 
+ 
+  
+
+

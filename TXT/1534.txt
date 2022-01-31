@@ -1,0 +1,206 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+93 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+
+Facultad de Ciencias 
+
+Programa de la asignatura 
+
+ 
+
+Denominacion de la asignatura:  
+Fundamentos de Bases de Datos 
+
+Clave:  
+ 
+
+Semestre:  
+5 
+
+Eje tematico: 
+Ingenieria de Software 
+
+No. Creditos:   
+10 
+
+Caracter: Obligatoria Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 7 112 3 4 
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion obligatoria antecedente: Algebra Superior II; Estructuras de Datos 
+ 
+Asignatura con seriacion obligatoria subsecuente: Ninguna 
+ 
+Asignatura con seriacion indicativa antecedente: Modelado y Programacion 
+ 
+Asignatura con seriacion indicativa subsecuente: Ingenieria de Software 
+ 
+
+Objetivos generales:  
+Conocer y dominar los principales conceptos subyacentes al campo de diseno, construccion y 
+explotacion eficiente de bases de datos relacionales.  
+Desarrollar un modelo de datos para describir los datos de una aplicacion. 
+Aplicar las tecnicas de normalizacion a los datos para tener un diseno efciente de la base de 
+datos. 
+Construir una base de datos relacional a partir del diseno logico de la misma.  
+Accesar los datos en una base de datos relacional usando el lenguaje para definicion y 
+consulta de datos SQL. 
+  
+
+
+
+94 
+ 
+
+Indice tematico 
+
+Unidad Temas  
+Horas 
+
+Teoricas Practicas 
+I Introduccion 3 4 
+II Modelos de datos 3 4 
+
+III Modelado de bases de datos usando el modelo 
+entidad/relacion 6 8 
+
+IV Modelo Relacional 6 8 
+V Diseno de bases de datos 9 12 
+VI Lenguaje de consulta SQL 12 16 
+VII Vistas 3 4 
+VIII Integridad 3 4 
+IX Procesamiento de transacciones 3 4 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+ 
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Desarrollo historico de los sistemas manejadores de bases de datos. 
+I.2 Conceptos basicos de las bases de datos. 
+I.3 Arquitectura de tres niveles (fisico, conceptual y externo). 
+II Modelos de datos 
+II.1 Modelo orientado a objetos. 
+II.2 Modelo relacional. 
+II.3 Modelo de datos semiestructurados. 
+III Modelado de bases de datos usando el modelo entidad/relacion 
+III.1 Elementos del modelo E/R. 
+III.2 Convensiones y aspectos de diseno. 
+III.3 Especificacion de restricciones. 
+IV Modelo Relacional 
+IV.1 Estructura de los datos. 
+IV.2 Mapeo del esquema conceptual al esquema relacional. 
+IV.3 Algebra relacional. 
+IV.4 Calculo relacional. 
+IV.5 Reglas de Codd. 
+V Diseno de bases de datos 
+V.1 Dependencias Funcionales. 
+V.2 Formas normales (1NF, 2NF, 3NF, BCNF). 
+V.3 Dependencias Multivaluadas. 
+V.4 Cuarta forma normal (4NF). 
+
+
+
+95 
+ 
+
+VI Lenguaje de consulta SQL 
+VI.1 Estructura. 
+VI.2 Consultas. 
+VI.3 Subconsultas. 
+VI.4 Actualizaciones. 
+VI.5 Definicion de esquemas. 
+VI.6 Optimizacion. 
+VII Vistas 
+VII.1 Declaracion. 
+VII.2 Consulta. 
+VII.3 Actualizacion. 
+VIII Integridad 
+VIII.1 Integridad de Entidad. 
+VIII.2 Integridad de Dominio. 
+VIII.3 Integridad de Referencial. 
+VIII.4 Integridad del Usuario. 
+IX Procesamiento de transacciones 
+IX.1 Concepto, problemas. 
+IX.2 Propiedades de una transaccion. 
+IX.3 Control de concurrencia. 
+IX.4 Manejo de transacciones en SQL. 
+ 
+ 
+
+Bibliografia basica: 
+1. Elmasri and Navathe. Fundamentals of Database Systems. Addison-Wesley. Cuarta 
+
+Edicion. 2006. 
+2. Silberschatz A., Kort H. y Sudarshan S. Fundamentos de BD. McGraw Hill. Quinta edicion. 
+
+2006. 
+3. Ullman J.D. and Widom J. A First Course in Data Base System. Prentice Hall. Tercera 
+
+edicion. 2008. 
+Bibliografia complementaria: 
+1. Hamilton G., Cattell R., and Fisher M. JDBC Database access with Java. Addison-Wesley. 
+
+Segunda Edicion. 2002. 
+2. Harrington J. Relational Database Design and Implementation. Tercera edicion. Morgan 
+
+Kaufmann. 2009. 
+3. Kline K., Kline D., and Hunt B. SQL in a nutshell. O'Reilly. 2008. 
+  
+
+
+
+96 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (  ) 
+Lecturas obligatorias (  ) 
+Trabajo de investigacion (  ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (  ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Exposicion de seminarios por los alumnos (  ) 
+Participacion en clase (  ) 
+Asistencia (  ) 
+Seminario (  ) 
+ 
+Otras: Practicas de laboratorio. Desarrollo de una 
+aplicacion. 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o Matematico con 
+especialidad en Computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+  
+
+

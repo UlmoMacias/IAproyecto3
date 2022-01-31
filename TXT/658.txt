@@ -1,0 +1,178 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+159 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Almacenes y Mineria de Datos 
+
+Clave:  
+  
+
+Semestre: 
+7-8 
+
+Eje tematico: 
+Bases de Datos y Manejo de la Informacion 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Sistemas Manejadores de Bases de 
+Datos 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Conocer los conceptos generales de la tecnologia de almacenes de datos y el minado de 
+datos.  
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Almacenes de Datos 9 12 
+II Pre-procesamiento de datos 9 12 
+
+III Computacion de Cubos de datos Data cubes) y  
+generalizaciones de datos 6 8 
+
+IV Minado de Patrones Frecuentes, Asociaciones, y 
+Correlaciones 6 8 
+
+V Modelos de clasificacion y prediccion 9 12 
+VI Analisis de agrupamiento 9 12 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Almacenes de Datos 
+I.1 Introduccion. 
+
+
+
+160 
+ 
+
+I.2 Un modelo de datos multidimensional. 
+I.3 Arquitectura de un almacen de datos. 
+I.4 Implementacion de un almacen de datos. 
+I.5 Relacion entre los almacenes de datos y la mineria de datos. 
+II Pre-procesamiento de datos 
+II.1 Introduccion. 
+II.2 El pre-procesamiento de datos. 
+II.3 Resumen descriptivo de datos. 
+II.4 Limpieza de datos. 
+II.5 Integracion y transformacion de datos. 
+II.6 Reduccion de datos. 
+II.7 Generacion de jerarquias. 
+III Computacion de Cubos de datos (Data cubes) y generalizaciones de datos 
+III.1 Calculo eficiente de cubos de datos. 
+III.2 Exploracion y descubrimiento de informacion en bases de datos 
+
+multidimensionales. 
+III.3 Construccion y explotacion de cubos 
+IV Minado de Patrones Frecuentes, Asociaciones, y Correlaciones 
+IV.1 Conceptos basicos. 
+IV.2 Minado eficiente y escalable de conjuntos de elementos frecuentes. 
+IV.3 Minando varios tipos de reglas de asociacion. 
+IV.4 Del minado de reglas de asociacion al analisis de correlaciones. 
+V Modelos de clasificacion y prediccion 
+V.1 Aprendizaje supervisado. 
+V.2 Arboles de decision. 
+V.3 Clasificador Bayesiano. 
+V.5 Clasificacion basada en reglas. 
+V.5 Redes neuronales. 
+V.6 Otros metodos de clasificacion. 
+VI Analisis de agrupamiento 
+VI.1 Introduccion. 
+VI.2 Tipos de Datos. 
+VI.3 Categorizacion de metodos de agrupamiento. 
+VI.4 ``Agrupando'' datos de alta dimensionalidad. 
+VI.5 Analisis de valores atipicos (Outliers) o informacion ruidosa. 
+VI.6 Metodos Jerarquicos. 
+VI.7 Metodos basados en densidad. 
+VI.8 Modelos basados en metodos de agrupamiento. 
+
+Bibliografia basica: 
+1. Jiawei-Han and Micheline Kamber, ed. Data Mining: Concepts and Techniques, 2ed, 
+
+Morgan Kaufman, 2006.  
+2. Witten, Ian H., Frank, Eibe, Data Mining: Practical Machine Learning Tools and Techniques, 
+
+Second Edition, Morgan Kaufman, 2005. 
+
+
+
+161 
+ 
+
+Bibliografia complementaria: 
+1. Nisbet, R; Elder IV, J., Handbook of Statistical Analysis and Data Mining Applications, 
+
+Elsevier, Academic Press, 2009. 
+2. Hastie, T.; Tibshirani, R$.; Friedman, J.; The Elements of Statistical Learning, Data Mining, 
+
+Inference, and Prediction, Springer, 2009. 
+3. Articulos escogidos de ACM SIGMOD y similares. 
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula ( ) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion ( ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito ( ) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos ( ) 
+Participacion en clase (X) 
+Asistencia ( ) 
+Proyectos de programacion (X) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+ 
+  
+
+

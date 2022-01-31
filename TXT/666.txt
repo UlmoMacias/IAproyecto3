@@ -1,0 +1,174 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+190 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Diseno y Programacion de Videojuegos 
+
+Clave:  
+  
+
+Semestre: 
+8 
+
+Eje tematico: 
+Imagenes y Ambientes Virtuales 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Animacion por Computadora;  Inteligencia 
+Artificial 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Conocer la tecnologia y la programacion relacionadas con  el desarrollo de proyectos en 
+videojuegos. Los estudiantes gradualmente disenaran y desarrollaran un juego y obtendran la  
+experiencia en la programacion de videojuegos.   
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Fundamentos 6 8 
+II Diseno de  juegos 15 20 
+
+III Fundamentos para la programacion de 
+videojuegos 21 28 
+
+IV Plataformas e integracion 6 8 
+Total de horas: 48 64 
+
+Suma total de horas: 112 
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Fundamentos 
+I.1 Introduccion. 
+I.2 Estructura de los juegos. 
+I.3 Integrando elementos formales. 
+
+
+
+191 
+ 
+
+I.4 Integrando elementos dramaticos. 
+I.5 Integrando sistemas dinamicos. 
+II Diseno de juegos 
+II.1 Conceptualizacion. 
+II.2 Prototipos. 
+II.3 Caracteristicas y accesibilidad. 
+II.4 Controles, interfaces e interaccion. 
+II.5 Integracion. Formacion de equipos. 
+II.6 Playtesting. 
+II.7 Funcionalidad, completez y balance. 
+III Fundamentos para la programacion de videojuegos 
+III.1 Modelado de escenas. 
+III.2 Optimizacion de escenas y BSP. 
+III.3 Navegacion y manejo de camara. 
+III.4 Rendering.  Shaders. 
+III.5 Introduccion a la incorporacion de fisica en videojuegos. Colisiones. 
+III.6 Animacion. 
+III.7 Modelado y animacion de figuras articuladas. 
+III.8 Modelado de personajes. 
+III.9 Introduccion al comportamiento de los personajes. 
+III.10 Temas avanzados. 
+IV Plataformas e integracion 
+IV.1 Plataformas generales. 
+IV.2 Programacion de videojuegos  con XNA  para PC y XBOX. 
+IV.3 Proyecto en XNA. 
+ 
+
+Bibliografia basica: 
+1. Stephen Cawood, Pat McGee, XNA Game Studio Creators Guide, 2a Ed., Mc Graw-Hill, 
+
+2009.  
+2. Alexandre Lobao, Bruno Envangelista, Jose Antonio Leal de Farias, Beginning XNA 3.0 
+
+Game Programming: From Novice to Professional, Apress 2009.  
+3. Jesse Schell,The Art of Game Design, Morgan Kaufmann, 2008.  
+4. Fullerton, Tracy; Swain, Christopher; Hoffman, Steven, Game Design Workshop: Designing, 
+
+Prototyping and Playtesting Games, Editorial CMP Books, 2a Ed., 2008.  
+5. Watt, Allan; Policarpo, Fabio, 3D Games: Animation and Advanced Real-time Rendering, 
+
+Addison Wesley, 2003. 
+Bibliografia complementaria: 
+1. Adams, Ernest; Rollings, Andrew, Game Design and Development: Fundamentals of Game 
+
+Design, Pearson, Prentice Hall, 2007.  
+2. Aaron Reed, Learning XNA 3.0: XNA 3.0 Game Development to the PC, Xbox 360 and 
+
+Zune, O'Reilly, 2008.  
+
+
+
+192 
+ 
+
+3. Bourg, David, Physics for Game Developers, O'Reilly, 2002.  
+4. Capin, Pandzic, Magnenat-Thalmann, Thalmann, Avatars in Networked Virtual 
+
+Environments, Wiley, 1999.  
+5. Nitschke, Benjamin, XNA Game Programming: For Xbox 360 and Windows, Wrox, 2007. 
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia (X) 
+Proyectos de programacion ( ) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+ 
+  
+
+

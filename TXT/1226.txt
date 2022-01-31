@@ -1,0 +1,201 @@
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Matematicas para Ciencias Aplicadas II 
+
+Clave:  
+1216 
+
+Semestre:  
+2 
+
+Eje tematico: 
+Fundamentos Matematicos  
+
+No. Creditos:   
+12 
+
+Caracter: Obligatoria Horas 
+Horas por 
+semana 
+
+Total de 
+Horas  
+
+Tipo: Teorica 
+Teoria: Practica: 
+
+6 96 6 0 
+Modalidad: Curso Duracion del programa: Semestral 
+
+ 
+ 
+
+ 
+Asignaturas con seriacion obligatoria antecedente: Ninguna 
+ 
+Asignaturas con seriacion obligatoria subsecuente: Ninguna 
+ 
+Asignatura con seriacion indicativa antecedente: Matematicas para Ciencias Aplicadas I 
+ 
+Asignatura con seriacion indicativa subsecuente: Matematicas para Ciencias Aplicadas III 
+ 
+ 
+
+Objetivos generales: 
+
+Aqduirir la comprension intuitiva sobre la geometria en varias dimensiones. Resolver y plantear 
+problemas lineales en varias dimensiones. 
+
+Utilizar el concepto de integral para el calculo de solidos de revolucion. Comprender los 
+conceptos basicos relacionados con curvas y su geometria y su relacion con conceptos fisicos 
+de trayectorias. 
+
+Conocer los conceptos relacionados con funciones reales de varias variables (campos 
+escalares) y su diferenciabilidad; asi como de su interpretacion en distintos campos de la 
+Fisica. Comprender y saber utilizar las tecnicas del calculo en la solucion de problemas de 
+optimizacion y de optimizacion restringida. 
+ 
+  
+
+
+
+ 
+
+- 24 - 
+ 
+
+Indice tematico 
+
+Unidad Temas  
+Horas 
+
+Teoricas Practicas 
+I Espacio Euclidiano de dimension n 30 0 
+II Solidos de revolucion 12 0 
+III Curvas 14 0 
+IV Campos escalares 22 0 
+V Maximos y minimos 18 0 
+
+Total de horas: 96 0 
+Suma total de horas: 96 
+
+ 
+Contenido tematico 
+
+Unidad Tema 
+I Espacio Euclidiano de dimension n 
+I.1 Suma de vectores. Producto por escalares. 
+I.2 Producto interno. Distancia. 
+I.3 Producto cruz. Triple producto escalar. 
+I.4 Area de paralelogramos y volumen de paralelepipedos. 
+I.5 Transformacion lineal y matrices. 
+I.6 Vector propio. Forma canonica de Jordan en 2 y 3 dimensiones. 
+I.7 Ecuaciones Lineales. 
+II Solidos de revolucion 
+II.1 Volumenes de solidos. 
+II.2 Area de superficies de revolucion. 
+II.3 Coordenadas polares. Area y Longitud en coordenadas polares. 
+III Curvas 
+III.1 Trayectoria y velocidad. 
+III.2 Longitud de arco. 
+III.3 Geometria de curvas en el espacio. 
+IV Campos escalares 
+
+IV.1 Funciones reales de varias variables. Representacion grafica de funciones reales 
+(graficas y conjuntos de nivel). 
+
+IV.2 Limite y derivada. 
+IV.3 Propiedades de la derivada. 
+IV.4 Gradiente y derivada direccional. 
+V Maximos y minimos 
+V.1 Aproximacion polinomial. 
+V.2 Puntos criticos de funciones reales. 
+V.3 Maximos y minimos. 
+V.4 Maximos y minimos con restricciones. 
+ 
+
+
+
+ 
+
+- 25 - 
+ 
+
+Bibliografia basica: 
+
+1. Davis, H., Zinder, A. D., Analisis vectorial, McGraw Hill, Mexico, 1992.  
+
+2. Lovric, M., Vector Calculus, Addison Wesley PL, Ontario, 1997. 
+
+3. Stewart J., Multivariable Calculus, Concepts and Contexts, Brooks/Cole Publishing, Boston, 
+1998. 
+
+4. Thomas, G. B., Finney, M. D., Calculo de varias variables, Pearson Educacion, Mexico, 
+1999. 
+
+Bibliografia complementaria: 
+
+1. Gutierrez Sanchez, J. L., Sanchez Garduno, F., Matematicas para las ciencias naturales, 
+Aportaciones Matematicas, Mexico, 1998. 
+
+2. Kline, M., Calculus, an Intuitive and Physical Approach, Dover Publications, New York, 
+1998. 
+
+3. Marsden, J., Tromba A. J., Calculo vectorial, Addison-Wesley Iberoamericana, Argentina, 
+1991. 
+
+4. Schey, H. M., DIV, GRAD, CURL and All That, Norton Company, New York, 1973. 
+
+5. Swokowski E. W., Calculus with Analytic Geometry, Prindle, Weber and Schmidt 
+Incorporated, Boston, 1975. 
+
+ 
+
+Sugerencias didacticas: 
+
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (  ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (  ) 
+Practicas de taller o laboratorio (  ) 
+Practicas de campo (  ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Exposicion de seminarios por los alumnos (  ) 
+Participacion en clase (X) 
+Asistencia (X) 
+Seminario (  ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+
+Matematico, Fisico Actuario o Licenciado en Ciencias de la Computacion, especialista en el 
+area de la asignatura a juicio del comite de asignacion de cursos. Con experiencia docente. 
+
+ 
+ 
+
+ 
+
+

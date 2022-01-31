@@ -1,0 +1,184 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+302 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Redes Neuronales 
+
+Clave:  
+ 
+
+Semestre: 
+6-8 
+
+Eje tematico: 
+Bio-Informatica 
+
+No. Creditos:  
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+ 
+Asignatura con seriacion indicativa antecedente: Algebra Lineal I; Estructuras de Datos; 
+Matematicas para las Ciencias de la Tierra III 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivos generales:  
+Conocer y comprender la situacion de las redes neuronales artificiales, representantes 
+importantes de la corriente conexionista de la inteligencia artificial. 
+Conocer los procesos del sistema nervioso central y de sus componentes, las neuronas, que 
+han servido como inspiracion para estos algoritmos. 
+Presentar con el rigor matematico necesario, una variada seleccion de tipos de redes 
+neuronales. 
+Explicar aplicaciones de cada tema a diversas areas del conocimiento. 
+Conocer y aplicar las tecnicas y reglas de dedo, utilizadas en la implementacion de redes 
+neuronales para propositos tanto comerciales como de investigacion. 
+Conocer y explicar las herramientas matematicas que hasta hoy se han utilizado para la 
+construccion de la teoria de las redes neuronales artificiales, con la finalidad de comprender los 
+problemas abiertos que existen en dicha area.  
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion: Dos caminos hacia las redes 
+
+neuronales 3 4 
+
+II Modelos matematicos del sistema nervioso central 3 4 
+
+
+
+303 
+ 
+
+III Aprendizaje, clasificacion y reconocimiento de patrones 6 8 
+IV El modelo de Hopfield 9 12 
+V El Perceptron multicapa 9 12 
+VI Aproximacion de funciones 6 8 
+VII El mapeo auto organizado 9 12 
+VIII Maquinas de soporte vectorial 3 4 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Introduccion: Dos caminos hacia las redes neuronales 
+I.1 La ruta coneccionista a la inteligencia artificial. 
+I.2 La ruta de los sistemas dinamicos. 
+II Modelos matematicos del sistema nervioso central 
+II.1 Neurodinamica basica. 
+II.2 Los modelos de ecuaciones diferenciales. 
+II.3 Los modelos de mapeos discretos. 
+III Aprendizaje, clasificacion y reconocimiento de patrones 
+III.1 El Perceptron simple. 
+III.2 Separabilidad lineal. 
+III.3 Regla de actualizacion de pesos. 
+III.4 Limitaciones. 
+IV El modelo de Hopfield 
+IV.1 Memorias asociativas. 
+IV.2 Cuencas de atraccion. 
+IV.3 Paisaje de energia. 
+IV.4 Limitaciones. 
+IV.5 La maquina de Boltzmann. 
+IV.6 Aplicaciones. 
+V El Perceptron multicapa 
+V.1 El problema de XOR revisado. 
+V.2 Separabilidad lineal por pedazos. 
+V.3 Algoritmo de retropropagacion. 
+V.4 Entrenamiento por algoritmos geneticos. 
+V.5 Preprocesamiento de datos. 
+V.6 Aplicaciones 
+VI Aproximacion de funciones 
+VI.1 Redes Neuronales de funciones de base radial. 
+VI.2 Redes Neuronales de regresion generalizada. 
+VI.3 El modelo de Siegelmann y el hipercomputo. 
+VI.4 Aplicaciones. 
+
+
+
+304 
+ 
+
+VII El mapeo auto organizado 
+VII.1 Mapeos que preservan la topologia. 
+VII.2 El algoritmo de Kohonen. 
+VII.3 Comportamiento del algoritmo en el tiempo. 
+VII.4 Clustering. 
+VII.5 Modificaciones al algoritmo. 
+VII.6 Aplicaciones. 
+VIII Maquinas de soporte vectorial 
+VIII.1 El truco del Kernel y la dimension Vapnik-Chervonenkis. 
+VIII.2 Mineria de datos con maquinas de soporte vectorial. 
+ 
+
+Bibliografia basica: 
+1. Beale, R., Jackson, R. Neural Computing: an Introduction, Institute of Physics Publishing, 
+
+1990. 
+2. Haykin, S. Neural Networks and Learning Machines, Prentice Hall, 2008. 
+3. Hertz, J.A., Palmer, R.G., Krogh, A. Introduction to the Theory of Neural Computation, 
+
+Addison Wesley, 1991. 
+Bibliografia complementaria: 
+1. Bishop, Ch.M. Neural Networks for Pattern Recognition, Oxford University Press, 1996. 
+2. Kohonen, T. Self-Organizing Maps, Springer-Verlag, 2000. 
+3. Hamel, L. Knowledge Discovery with Support Vector Machines, John Wiley, 2009. 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (   ) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (   ) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia (   ) 
+Proyectos de programacion (X) 
+Proyecto final (   ) 
+Seminario (   ) 
+ 
+Otras: _____________________________  
+
+Perfil profesiografico: Matematico, fisico, actuario o Licenciado en Ciencias de la Computacion, 
+especialista en el area de la asignatura a juicio del comite de asignacion de cursos. Con 
+experiencia docente. 
+
+

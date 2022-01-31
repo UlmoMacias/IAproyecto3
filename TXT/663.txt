@@ -1,0 +1,184 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+181 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Computacion Cuantica II 
+
+Clave:  
+  
+
+Semestre: 
+7-8 
+
+Eje tematico: 
+Ciencias Computacionales 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+ 
+Asignatura con seriacion indicativa antecedente: Computacion Cuantica I 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general: 
+Conocer y aplicar las herramientas del algebra lineal necesarias para describir los postulados 
+de la mecanica cuantica  para sistemas de mas de una particula (multipartitos). 
+Conocer los espacios de Hilbert de n2 dimensiones, cada una de  ellas finita. 
+Conocer el funcionamiento de los algoritmos cuanticos que  existen en la actualidad, asi como 
+su poder de computo. 
+Hacer uso de software de calculo simbolico para poder implementar pequenos algoritmos 
+cuanticos en una computadora no-cuantica. 
+Conocer y aplicar la notacion de Dirac para describir procesos cuanticos de mas de una 
+particula. 
+Conocer los fundamentos de la Teoria de la Informacion Cuantica. 
+ 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Informacion cuantica 7.5 10 
+II Sistemas multipartitos 12 16 
+III Limitantes de la simulacion clasica de sistemas cuanticos 12 16 
+
+
+
+182 
+ 
+
+IV Simulacion de algoritmos cuanticos en una computadora clasica 10.5 14 
+V Hipercomputo 6 8 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Informacion cuantica 
+I.1 Entrelazamiento. 
+I.2 Algoritmo de teleportacion. 
+I.3 Reversibilidad. 
+II Sistemas multipartitos 
+II.1 Producto tensorial. 
+II.2 Cuarto postulado de la mecanica cuantica. 
+II.3 Operador de densidad reducido. 
+II.4 Entanglement, Estados de Bell y el PER. 
+II.5 Factorizacion tensorial. 
+II.6 Separabilidad. 
+II.7 Experimento Stern-Gerlach. 
+II.8 Medidas de cuantificacion de entanglement. 
+II.9 Compuertas generadoras de entanglement. 
+II.10 Entropia cuantica. 
+III Limitantes de la simulacion clasica de sistemas cuanticos 
+III.1 Limitante de Feynman 
+III.2 Programacion clasica de algoritmos cuanticos 
+III.3 Maquinas virtuales cuanticas. 
+III.4 Lenguajes de programacion cuanticos. 
+III.5 Calculo simbolico para computacion cuantica. 
+III.6 Generacion de los tres componentes de la computacion cuantica. 
+III.7 Entanglement. 
+III.8 Generacion de estados puros y mixtos en computadora clasica. 
+III.9 Generacion de estados entangled en computadora clasica. 
+IV Simulacion de algoritmos cuanticos en una computadora clasica 
+IV.1 Algoritmos de correccion de errores. 
+IV.2 Algoritmo de Shor. 
+IV.3 Algoritmo de Grover. 
+IV.4 Algoritmo de Teleportacion. 
+V Hipercomputo 
+V.1 Breve repaso de Teoria de la complejidad. 
+V.2 Sistema RSA y su importancia para la seguridad. 
+V.3 Algoritmo de Shor. 
+
+
+
+183 
+ 
+
+Bibliografia basica: 
+1. Bengtsson, Ingemar. Zyczkowsky, Karol, Geometry of Quantum States, Cambridge 
+
+University Press. USA, 2008.  
+2. Peres, Asher, Quantum Theory: Concepts and Methods, Kluwer Academic Publishers. 
+
+USA, 1995.  
+3. Nielsen, Michael A. y Chuang, Isaac, Quantum Computation and Quantum Information, 
+
+Cambridge University Press. USA, 2003.  
+4. Kaye, Phillip; LaFlamme, Raymond, An Introduction to Quantum Computing, Oxford 
+
+University Press. USA, 2007.  
+5. Hirvensalo, Mika, Quantum Computing, Springer. USA, 2004. 
+Bibliografia complementaria: 
+1. Preskill, John, Notas para curso de computacion cuantica, Caltech, USA, 2004. 
+
+http://www.theory.caltech.edu/people/preskill/ph229/\#lecture   
+2. Chen, Goong; Brylinski, Ranee, editors, Mathematics of Quantum Computation, Chapman 
+
+and Hall, USA, 2004.   
+3. Samuel J. Lomonaco, Jr. y Howard E. Brandt,  editores, Quantum Computation and 
+
+Quantum Information,  AMS Contemporary Mathematics, Vol. 305, American Mathematical 
+Society, Providence, RI(2002). 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula ( ) 
+Seminarios ( ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion ( ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito ( ) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos ( ) 
+Participacion en clase (X) 
+Asistencia ( ) 
+Proyectos de programacion ( ) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en Computacion. Es conveniente que posea un posgrado en la disciplina.Con 
+experiencia docente. 
+ 
+  
+
+

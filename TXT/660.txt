@@ -1,0 +1,175 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+172 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Arquitectura y Diseno de Software 
+
+Clave:  
+  
+
+Semestre: 
+7-8 
+
+Eje tematico: 
+Ingenieria de Software 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Ingenieria de Software 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Tener una vision amplia, completa y humana del software, como un producto tanto del 
+conocimiento como de la intuicion del disenador de software. 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 3 3 
+II Arquitectura de Software 11 14 
+III Diseno de Software 11 15 
+IV Modelos de representacion 11 15 
+V Atributos de calidad del software 7 10 
+VI El ciclo de produccion en arquitectura de software 5 7 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Definiciones practicas de software, arquitectura y diseno. 
+I.2 Relacion entre arquitectura y diseno. 
+II Arquitectura de Software 
+II.1 Diseno de software. 
+
+
+
+173 
+ 
+
+II.2 Tecnologia de software. 
+II.3 Teoria e historia. 
+II.4 Actividades de un arquitecto de software. 
+III Diseno de Software 
+III.1 Conceptos de diseno (alcance, agregacion, particion y certificacion). 
+III.2 Una metodologia arquitectonica para el diseno de software. 
+III.3 Progresion. 
+III.4 Heuristicas de diseno. 
+III.5 Patrones de software. 
+III.6 Lenguajes de descripcion de arquitecturas. 
+IV Modelos de representacion 
+IV.1 Modelos de objetivo. 
+IV.2 Modelos de forma. 
+IV.3 Modelos de funcion. 
+IV.4 Modelos de desempeno. 
+IV.5 Modelos de datos. 
+IV.6 Modelos administrativos. 
+V Atributos de calidad del software 
+V.1 Concepto de calidad de software. 
+V.2 Tiempo de vida Vs. Tiempo de ejecucion. 
+V.3 Atributos funcionales y no funcionales de software. 
+V.4 Evaluacion de atributos. 
+V.5 Principios basicos y tareas esenciales. 
+VI El ciclo de produccion en arquitectura de software 
+VI.1 Interesados en la produccion de software. 
+VI.2 El ciclo de produccion. 
+VI.3 Desarrollo de software basado en la arquitectura. 
+ 
+
+Bibliografia basica: 
+1. James O. Coplien, Gertud Bjornvig, Learn Architecture for Agile Software Development, 
+
+John Wiley and sons. 2010.  
+2. R.N. Taylor, N. Medvidovic, E.M. Dashofy, Software Architecture: foundations, theory and 
+
+practice, John Wiley and sons, 2009.  
+3. Buschmann, F., Meunier, R., Rohnert, H., Sommerland, P., and Stal, M., Pattern-Oriented 
+
+Software Architecture. A System of Patterns, John Wiley and sons, 1996.  
+4. Gamma, E., Helm, R., Johnson, R., and Vlissides, J., Design Patterns: Elements of 
+
+Reusable Object-Oriented Systems, Addison-Wesley, 1994.  
+5. Bass, L., Clements, P., and Kazman, R., Software Architecture in Practice, Addison-Wesley, 
+
+1998.  
+6. Bennet, D., Designing Hard Software. The Essential Tasks, Manning Publication Co, 1997.  
+7. Rechtin, E. and Maier M., The Art of Systems Architecting, CRC Press, 1997. 
+
+
+
+174 
+ 
+
+Bibliografia complementaria: 
+1. Salt, J.E. and Rothery, R., Design for Electrical and Computer Engineers, John Wiley and 
+
+Sons, 2002.   
+2. T. Winograd (ed), Bringing Design to Software, Addison-Wesley, 1996.  
+3. Articulos en Ciencias de la Computacion relacionados con Diseno de Software. 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios ( ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion ( ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos ( ) 
+Participacion en clase ( ) 
+Asistencia ( ) 
+Proyectos de programacion ( ) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+ 
+  
+
+

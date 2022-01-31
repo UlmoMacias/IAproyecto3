@@ -1,0 +1,215 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+278 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Protocolos de Enrutamiento 
+
+Clave:  
+ 
+
+Semestre: 
+8 
+
+Eje tematico: 
+Organizacion de Sistemas de Computo 
+
+No. Creditos:  
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Redes de Computadoras  
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivos generales:  
+Comprender los principios esenciales y los algoritmos en que estan basados los principales 
+protocolos de enrutamiento. Comprender el impacto que los diferentes parametros de control 
+tienen sobre el desempeno de los protocolos. Obtener para apicar las herramientas de analisis 
+que  permitan distinguir las ventajas y desventajas de los protocolos de enrutamiento en 
+funcion del contexto. 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  
+Horas 
+
+Teoricas Practicas 
+I Introduccion al enrutamiento y repaso de redes 4.5 6 
+II ARP, IP, ICMP 6 8 
+III Generalidades de enrutamiento dinamico 1.5 2 
+IV Protocolos por vector de distancia 3 4 
+V RIP 4.5 6 
+VI Protocolos de estado de enlace 3 4 
+VII OSPF 6 8 
+VIII EIGRP 6 8 
+IX BGP 6 8 
+X Enrutamiento en difusion limitada (multicast) 3 4 
+XI Protocolos de enrutamiento en redes moviles 4.5 6 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+
+
+279 
+ 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Introduccion al enrutamiento y repaso de redes 
+I.1 Conmutacion de paquetes. 
+I.2 Redes e interconexion de redes. 
+I.3 Direccionamiento. 
+I.4 Enrutamiento. 
+I.5 Enrutamiento estatico. 
+I.6 Tabla de enrutamiento. 
+I.7 Arquitecturas de red: OSI, TCP/IP. 
+I.8 Ethernet. 
+II ARP, IP, ICMP 
+II.1 Datagrama de IP. 
+II.2 Direccionamiento en IP. 
+II.3 ARP. 
+II.4 NAT. 
+II.5 Enrutamiento en IP. 
+II.6 ICMP. 
+III Generalidades de enrutamiento dinamico 
+III.1 Descubrimiento de la topologia. 
+III.2 Clasificacion de protocolos de enrutamiento. 
+III.3 Metricas. 
+IV Protocolos por vector de distancia 
+IV.1 Repaso del algoritmo de Dijkstra. 
+IV.2 Algoritmo de Bellman-Ford. 
+IV.3 Conteo al infinito. 
+V RIP 
+V.1 Un poco de UDP. 
+V.2 RIPv1. 
+V.3 Horizonte partido. 
+V.4 VLSM y CIDR. 
+V.5 RIPv2. 
+V.6 RIPng. 
+VI Protocolos de estado de enlace 
+VI.1 Principios de funcionamiento. 
+VI.2 Detalles de la tabla de enrutamiento. 
+VI.3 Vecinos. 
+VI.4 Acceso a redes adyacentes. 
+VI.5 Ventajas y desventajas sobre protocolos de vector-distancia. 
+VII OSPF 
+VII.1 Historia de OSPF. 
+
+
+
+280 
+ 
+
+VII.2 Mensajes OSPF. 
+VII.3 Metrica. 
+VII.4 Protocolo de saludo. 
+VIII EIGRP 
+VIII.1 Algoritmo de difusion de actualizacion (Difussing Update Algorithm). 
+VIII.2 Mensajes y formatos. 
+VIII.3 Metricas. 
+VIII.4 Sucesor y sucesor factible. 
+IX BGP 
+IX.1 Un poco de TCP. 
+IX.2 EGP. 
+IX.3 Descripcion general de BGP. 
+IX.4 Estados del protocolo y transiciones. 
+IX.5 Sincronizacion y agregacion. 
+IX.6 Mensajes. 
+IX.7 Desempeno. 
+IX.8 IBGP y EBGP. 
+X Enrutamiento en difusion limitada (multicast) 
+X.1 Problemas de enrutamiento con difusion limitada. 
+X.2 IGMP. 
+X.3 DVMRP. 
+X.4 MOSPF. 
+XI Protocolos de enrutamiento en redes moviles 
+XI.1 Problematica de enrutamiento en redes de configuracion cambiante. 
+XI.2 Protocolos pro-activos. 
+XI.3 Protocolos reactivos. 
+XI.4 Protocolos orientados al flujo. 
+XI.5 Protocolos jerarquicos. 
+ 
+
+Bibliografia basica: 
+1. Grazian, Rick y Allan Johnson, Conceptos y Protocolos de Enrutamiento, CISCO 
+
+Networking Academy, 2008. 
+2. Comer, Douglas E., Internetworking with TCP/IP Volume 1: Principles Protocols, and 
+
+Architecture, 5a Ed., Prentice Hall, 2006. 
+Bibliografia complementaria: 
+1. Stallings, William, Data and Computer Communications, 9a Ed., Pearson-Prentice Hall, 
+
+2010. 
+2. Parziale, Lydia et al., TCP/IP Tutorial and Technical Overview, IBM redbooks, 
+
+http://www.redbooks.ibm.com/abstracts/gg243376.html?Open 2006. 
+
+http://www.redbooks.ibm.com/abstracts/gg243376.html?Open
+
+
+281 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (   ) 
+Lecturas obligatorias (   ) 
+Trabajo de investigacion (   ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (   ) 
+Exposicion de seminarios por los alumnos (   ) 
+Participacion en clase (   ) 
+Asistencia (   ) 
+Proyectos de programacion (   ) 
+Proyecto final (   ) 
+Seminario (   ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o Matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+ 
+  
+
+

@@ -1,0 +1,170 @@
+enciatura en Ciencias de la Computacion
+
+Facultad de Ciencias
+
+Programa de la asignatura
+
+Denominacion de la asignatura:
+Robotica Movil
+
+Clave: Semestre: Eje tematico: No. Creditos:
+5-8 Imagenes y Ambientes Virtuales e Inteligencia Artificial 10
+
+Horas
+
+Teoria: Practica:
+4 2 6 96
+
+Objetivos generales:
+
+Estudiar la implementacion de los algoritmos estudiados en plataformas roboticas virtuales y fisicas.
+
+Conocer los eventos academicos internacionales relevantes e impulsar la participacion en ellos.
+
+Indice tematico
+
+Unidad Temas
+Horas
+
+Teoricas Practicas
+I Introduccion: Robots, robotica y robotica movil 2 1
+II Arquitecturas: Hardware y software 8 4
+III Mapas 3 2
+IV Navegacion 10 6
+V Interfaz humano-robot 16 8
+VI Representacion interna del mundo 8 4
+VII Lenguaje natural 4 2
+VIII Planeacion 12 6
+
+Total de horas: 63 33
+Suma total de horas: 96
+
+Contenido tematico
+Unidad Tema
+I Introduccion: Robots, robotica y robotica movil
+
+Caracter: Optativa
+Horas por 
+semana
+
+Total de 
+horas
+
+Tipo: Teorico-Practica
+
+Modalidad: Curso Duracion del programa: Semestral
+
+Asignatura con seriacion indictiva antecedente: Matematicas Discretas, Estructuras de Datos,  
+Modelado y Programacion, Probabilidad I, Organizacion y Arquitectura de Computadoras.
+
+Asignatura con seriacion indictiva subsecuente: Ninguna
+
+Conocer el campo de desarrollo de la robotica movil y las principales aportaciones que puede realizar un 
+cientifico de la computacion.
+
+Aplicar algoritmos en graficas a problemas de navegacion robotica.  Motivar el estudio de algoritmos y su 
+analisis riguroso mediante su aplicacion al campo de la robotica.
+
+Utilizar tecnicas de representacion del conocimiento de Inteligencia Artificial para que el robot pueda 
+planear sus acciones.
+
+Estudiar tecnicas de interaccion entre robots y humanos en ambientes cotidianos (hogar, hospitales, 
+museos, etc.)
+
+
+
+I.1 ?Que es un robot?
+I.2 Componentes basicos de un robot
+I.3 Tipos de arquitecturas
+II Arquitecturas: Hardware y software
+I.1 Sensores y actuadores
+I.2 Introduccion al control de manipuladores
+I.3 Arquitectura de software para robots
+I.4 Ambientes de programacion para robots moviles: Sistema operativo para robots (ROS)
+I.5 Uso de simuladores y control de robots fisicos
+III Mapas
+III.1 Descomposicion del espacio en celdas
+III.2 Mapas geometricos
+III.3 Representacion de los obstaculos
+III.4 Cuantizacion vectorial
+III.5 Diagramas de voronoi
+III.6 Mapas topologicos
+III.7 Mapas probabilisticos
+IV Navegacion
+IV.1
+
+IV.2 Modelado de sensores, filtros de Kalman
+IV.3 Aprendizaje de modelos dinamicos con redes neuronales
+IV.4 Navegacion como recorrido en una grafica (robotica clasica)
+IV.5 Navegacion reactiva con campos potenciales (robotica reactiva)
+IV.6 Navegacion usando Cadenas de Markov Ocultas (HMM)
+IV.7 Localizacion y creacion de mapas simultaneamente (SLAM)
+V Interfaz humano-robot
+V.1 Introduccion a vision por computadora para robots
+V.2 Introduccion a reconocimiento de voz
+VI. Representacion interna del mundo
+VI.1 Base de conocimiento
+
+VI.2 Representacion procedimental
+VI.3 Estructuras de ranura y relleno: Dependencia conceptual, marcos y guiones
+VII. Introduccion al procesamiento de lenguaje natural
+VII.1 Procesamiento sintactico
+VII.2 Analisis semantico
+VII.3 Incorporacion de conocimiento a partir del lenguaje
+VIII. Planeacion
+VIII.1 Planeacion clasica: busqueda en el espacio de estados
+VIII.2 Graficas de planeacion
+VIII.3 Planeacion con ordenes parciales
+VIII.4 Planeacion jerarquica
+VIII.5 Planeacion bajo incertidumbre
+
+Bibliografia basica:
+1. Siegwart, Nourbakhsh, Scaramuzza, Introduction to Autonomous Mobile Robots, 2ed. MIT Press, 2011.
+2. Davies, Computer and Machine Vision, Theory, Algorithms, Practicalities, 4ed. Academic Press, 2012.
+
+3. Ghallab, Nau, Traverso, Automated Planning, Theory and Practice, Morgan Kaufmann Publishers, 2004.
+
+Bibliografia complementaria:
+
+Ecuaciones de movimiento:  espacio de configuraciones, grados de libertad, posiciones, 
+orientaciones y trayectorias
+
+4. Rich, Knight, Nair, Artificial Intelligence, 3ed. McGrawHill, 2009.
+
+
+
+Sugerencias didacticas: Metodos de evaluacion:
+
+Exposicion oral (X) Examenes parciales (X)
+Exposicion audiovisual (X) Examen final escrito ()
+Ejercicios dentro de clase (X) Trabajos y tareas fuera del aula (X)
+
+Ejercicios fuera del aula (X) Practicas de laboratorio ()
+Seminarios () Exposicion de seminarios por los alumnos     (X)
+Lecturas obligatorias (X) Participacion en clase ()
+Trabajo de investigacion (X) Asistencia ()
+Practicas de taller o laboratorio () Proyectos de programacion (X)
+Practicas de campo () Proyecto final (X)
+
+Seminario
+Otras: _____________________________________Otras: _____________________________________
+
+1. Choset, Lynch, Kantor, Burgard, Kavraki, Thrun, Principles of Robot Motion, Theory, Algorithms, and 
+Implementations, MIT Press, 2005.
+2. Lytinen, Conceptual Dependency and its Decendants, Computers Math. Applic. Vol. 23, No. 2-5, pp. 51-
+73, 1992.
+
+Perfil profesiografico: Egresado preferentemente de la Licenciatura en Ciencias de la Computacion con 
+especialidad en robotica movil inteligente, o egresado de Ingenieria en Computacion o afin, con posgrado 
+en Ciencias de la Computacion en el area correspondiente.  Es conveniente que posea un posgrado en la 
+disciplina.  Con experiencia docente.
+
+
+
+No. Creditos:
+
+
+
+
+	Hoja1
+

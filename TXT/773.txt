@@ -1,0 +1,175 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+296 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Reconocimiento de Patrones y Aprendizaje Automatizado 
+
+Clave:  
+ 
+
+Semestre: 
+7-8 
+
+Eje tematico: 
+Inteligencia Artificial 
+
+No. Creditos:  
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Inteligencia Artificial  
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivos generales:  
+Conocer y aplicar una vision general de las diferentes tecnicas utilizadas para clasificar objetos 
+representados en la computadora, extraer y seleccionar sus caracteristicas. 
+Comprender los fundamentos de las tecnicas supervisadas y no supervisadas para el 
+reconocimiento de patrones y para el aprendizaje automatico. 
+Poseer los elementos necesarios para comprender y elaborar aplicaciones simples del 
+reconocimiento de patrones y aprendizaje automatico. 
+Conocer las limitaciones inherentes a las tecnicas presentadas.  
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 3 4 
+II Aprendizaje supervisado y teoria del aprendizaje 7.5 10 
+III Teoria de decisiones bayesiana 6 8 
+IV Metodos parametricos 7.5 10 
+V Clasificadores lineales 6 8 
+VI Clasificadores no-lineales 6 8 
+
+VII Agrupamiento (Clustering) y aprendizaje no-
+supervisado 6 8 
+
+VIII Aplicaciones 6 8 
+Total de horas: 48 64 
+
+Suma total de horas: 112 
+
+
+
+297 
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Aprendizaje, patrones. 
+I.2 Clasificacion, regresion. 
+I.3 Aprendizaje supervisado y no-supervisado. 
+II Aprendizaje supervisado y teoria del aprendizaje 
+II.1 Aprendizaje y error. 
+II.2 Riesgo empirico. 
+II.3 Riesgo estructural. 
+II.4 Generalizacion, entrenamiento y sobre-entrenamiento. 
+II.5 Complejidad y dimensionalidad. 
+II.6 Dimension de Vapnik-Chervonenkis. 
+II.7 Ruido. 
+III Teoria de decisiones bayesiana 
+III.1 Funcion discriminante. 
+III.2 Clasificadores bayesianos. 
+III.3 Medida de error. 
+III.4 Extraccion de caracteristicas. 
+IV Metodos parametricos 
+IV.1 Principio de maxima verosimilutud y estimacion bayesiana. 
+IV.2 Sesgo y varianza. 
+IV.3 Estimador bayesiano. 
+IV.4 Clasificacion parametrica. 
+IV.5 Regresion. 
+IV.6 Estimacion de parametros con datos multivariados. 
+V Clasificadores lineales 
+V.1 Funciones discriminantes lineales. 
+V.2 El perceptron. 
+V.3 Minimos cuadrados 
+V.4 Maquinas de soporte vectorial. 
+VI Clasificadores no-lineales 
+VI.1 Redes de perceptrones multicapas. 
+VI.2 Algoritmo de retropropagacion y variaciones. 
+VI.3 Funcion de costo y tamano de la red. 
+VI.4 Funciones de base radial. 
+VI.5 Maquinas de soporte vectorial. 
+VI.6 Combinacion de clasificadores. 
+VII Agrupamiento (Clustering) y aprendizaje no-supervisado 
+VII.1 Agrupamientos basados en distancia y probabilidad. 
+VII.2 Agrupamientos jerarquicos. 
+VII.3 Agrupamiento probabilistico. 
+
+
+
+298 
+ 
+
+VII.4 Agrupamiento difuso. 
+VIII Aplicaciones 
+VIII.1 Casos de estudio. 
+ 
+
+Bibliografia basica: 
+1. Alpaydin, Ethem, Introduction to Machine Learning, 2a Ed., The MIT Press, 2010. 
+2. Bishop, Christopher M., Pattern Recognition and Machine Learning, Springer, 2007. 
+3. Duda, R. O., P. E. Hart y D. Stork, Pattern Classification, 2a Ed., Wiley, 2001. 
+Bibliografia complementaria: 
+1. Mitchell, Tom M., Machine Learning, McGraw-Hill, 1997. 
+2. Haykin, Simon, Neural Networks, 2a Ed., Prentice Hall, 1999. 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (   ) 
+Lecturas obligatorias (   ) 
+Trabajo de investigacion (   ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (   ) 
+Exposicion de seminarios por los alumnos (   ) 
+Participacion en clase (   ) 
+Asistencia (   ) 
+Proyectos de programacion (   ) 
+Proyecto final (   ) 
+Seminario (   ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+  
+
+

@@ -1,0 +1,179 @@
+
+CLAVE: 2041 
+
+AREA: FILOSOFIA E HISTORIA DE LA FISICA 
+
+CARACTER: OPTATIVO 
+
+CREDITOS: 6 
+
+MODALIDAD: CURSO 
+
+HRS. TEORICAS: 3 
+
+HRS. PRACTICAS: 
+
+ 
+
+SERIACION INDICATIVA ANTECEDENTE: Filosofia de la Fisica I 
+
+ 
+
+ 
+
+Objetivos: Este curso tiene como objetivo estudiar de una manera critica algunos de los 
+
+modelos clasicos mas importantes de la filosofia contemporanea de la ciencia con el fin de 
+
+identificar su relevancia para la filosofia de la fisica contemporanea y sus metodos. Este 
+
+curso permitira, por una parte, ubicar las concepciones y los enfoque sobre el metodo 
+
+cientifico que mayor repercusion han tenido en la filosofia contemporanea de la fisica. 
+
+ 
+
+Temario: 
+
+ 
+
+I. Popper y la crisis del verificacionismo 
+
+ 
+
+Los problemas del verificacionismo 
+
+"La logica de la investigacion cientifica" 
+
+El modelo falsacionista 
+
+El problema de la base empirica 
+
+ 
+
+II. Kuhn y la revolucion cientifica 
+
+ 
+
+"La estructura de las revoluciones cientificas" 
+
+La formacion y la naturaleza de la ciencia normal 
+
+El concepto de paradigma 
+
+Las revoluciones cientificas 
+
+El problema de la inconmesurabilidad de los paradigmas 
+
+ 
+
+III. El falsacionismo de Lakatos 
+
+ 
+
+Falsacionismo ingenuo vs falsacionismo sofisticado 
+
+La estructura de los programas de investigacion cientifica 
+
+La metodologia de los programas e investigacion cientifica 
+
+ 
+
+IV. El pluralismo de Feyerabend 
+
+ 
+
+El "tratado contra el metodo" 
+
+El pluralismo metodologico 
+
+El mito de la ciencia 
+
+
+
+ 
+
+ 
+
+Bibliografia basica: 
+
+ 
+
+P. Feyerabend, Tratado contra el metodo, Rei, Mexico, 1981 
+
+ 
+
+T. Kuhn, Conmensurabilidad, comparabilidad y comunicabilidad en "?Que son las 
+
+revoluciones cientificas? y otros ensayos, Piados, Barcelona, 1994 
+
+ 
+
+I. Lakatos, La metodologia de los programas de investigacion cientifica, Alianza Editorial, 
+
+Madrid, 1978 
+
+ 
+
+J. Losee, Introduccion historica a la filosofia de la ciencia, Alianza Editorial, Madrid, 1991 
+
+ 
+
+L. Olive y A. R. Perez Ransanz, Filosofia de la ciencia. Teoria y observacion, Siglo XXI, 
+
+Mexico, 1989 
+
+ 
+
+Bibliografia complementaria: 
+
+ 
+
+R. Perez Ransanz, Racionalidad y cambio cientifico, A. Velasco (comp.), Piados-UNAM, 
+
+Mexico, 1997 
+
+ 
+
+A. Perez Ransanz en Alta tension: historia, filosofia y sociologia de la ciencia. Ensayos en 
+
+memoria de Thomas S. Kuhn, Piados, Barcelona, 1998 
+
+ 
+
+A. Perez Ransanz, Kuhn y el cambio cientifico, FCE, Mexico, 1999 
+
+ 
+
+K. Popper, La logica de la investigacion cientifica, Rei, Mexico, 1991 
+
+ 
+
+K. Popper, Conjeturas y refutaciones. El desarrollo del conocimiento cientifico, Piados, 
+
+Barcelona, 1994 
+
+ 
+
+ 
+
+ 
+
+Sugerencias didacticas 
+
+Exposicion del temario por el profesor frente al pizarron 
+
+ 
+
+Sugerencias de evaluacion 
+
+Mediante tareas, trabajos de investigacion y examenes 
+
+ 
+
+Perfil profesiografico 
+
+Fisico especialista en historia y filosofia de la fisica 
+ 
+
+

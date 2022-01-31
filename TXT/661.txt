@@ -1,0 +1,174 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+175 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Bases de Datos Semiestructurados 
+
+Clave:  
+  
+
+Semestre: 
+7-8 
+
+Eje tematico: 
+Bases de Datos y Manejo de la Informacion 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Sistemas Manejadores de Bases de Datos 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Comprender a trabajar con datos semiestructurados, representados como documentos XML, 
+utilizando bases de datos ya sean relacionales o bien, dedicadas al manejo exclusivo de XML.  
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 3 4 
+II Representacion de datos en XML 6 8 
+III Herramientas para validacion de documentos XML 6 8 
+IV Almacenamiento y recuperacion de datos de una base de datos relacional 6 8 
+V Lenguajes de consulta y manipulacion 12 16 
+VI Sistemas 6 8 
+VII Tecnicas de bases de datos aplicadas a XML 9 12 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+II Representacion de datos en XML 
+
+
+
+176 
+ 
+
+II.1 Sintaxis: elementos, atributos, contenido, entidades, CDATA, comentarios. 
+II.2 DTDs. 
+II.3 Esquemas de XML. 
+III Herramientas para validacion de documentos XML 
+II.1 DOM. 
+II.2 SAX. 
+IV Almacenamiento y recuperacion de datos de una base de datos relacional 
+IV.1 Mapeo de estructuras XML a BDR. 
+IV.2 Migracion de BD a XML con DTD's y con esquemas. 
+V Lenguajes de consulta y manipulacion 
+V.1 XPath. 
+V.2 XSLT. 
+V.3 XQuery. 
+V.4 SQL/XML. 
+VI Sistemas 
+V.1 Nativos.  
+
+ eXist. 
+ XIndice. 
+
+VI.2 Comerciales. 
+ Oracle. 
+ SQLServer. 
+
+VI.3 De distribucion gratuita. 
+ Postgres. 
+ mySQL. 
+
+VII Tecnicas de bases de datos aplicadas a XML 
+VII.1 Restricciones de integridad. 
+VII.2 Normalizacion. 
+VII.3 Actualizacion. 
+VII.4 Vistas. 
+VII.5 Indexamiento. 
+VII.6 Optimizacion de consultas. 
+ 
+
+Bibliografia basica: 
+1. Akmal B. Chaudhri, Awais Rashid, and Roberto Zicari. XML Data Management: Native XML 
+
+and XML-Enabled Database Systems XML Data Management: Native XML and XML-
+Enabled Database Systems, Addison-Wesley 2003.  
+
+2. Graves, Mark, Designing XML Databases, Prentice Hall. 2002.  
+3. Maruyama, Hiroshi and Tamura, Kent and Uramoto, Naohiko. XML and Java. Developing 
+
+Web Applications. Second Edition. Addison-Wesley. 2002.   
+4. Powell, Gavin. Beginning XML Databases. Wrox Press Ltd. 2007. 
+5. Williams, Kevin et al., Professional XML Databases, Wrox Press Ltd. 2001.    
+
+
+
+177 
+ 
+
+6. W3C homepage, www.w3.org 
+
+Bibliografia complementaria: 
+1. Articulos escogidos de ACM SIGMOD y similares. 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios ( ) 
+Lecturas obligatorias ( ) 
+Trabajo de investigacion ( ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales ( ) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia ( ) 
+Proyectos de programacion ( ) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+ 
+  
+
+http://www.w3.org/
+

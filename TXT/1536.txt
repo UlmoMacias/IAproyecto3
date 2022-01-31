@@ -1,0 +1,191 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+84 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+
+Facultad de Ciencias 
+
+Programa de la asignatura 
+
+ 
+
+Denominacion de la asignatura:  
+Lenguajes de Programacion 
+
+Clave:  
+ 
+
+Semestre:  
+5 
+
+Eje tematico: 
+Integracion Teoria-Practica 
+
+No. Creditos:   
+10 
+
+Caracter: Obligatoria Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 7 112 3 4 
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+Asignatura con seriacion obligatoria antecedente: Algebra Superior II; Graficas y Juegos; 
+Estructuras de Datos 
+ 
+Asignatura con seriacion obligatoria subsecuente: Ninguna 
+ 
+Asignatura con seriacion indicativa antecedente: Automatas y Lenguajes Formales; Logica 
+Computacional 
+ 
+Asignatura con seriacion indicativa subsecuente: Compiladores 
+ 
+
+Objetivo general:  
+Conocer y aplicar los principios y componentes en el diseno de los lenguajes de programacion 
+y contara con las herramientas basicas para analizar formalmente diversas de sus 
+caracteristicas. 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 3 4 
+II Fundamentos 9 12 
+III Paradigma funcional 12 16 
+IV Paradigma imperativo 12 16 
+V Paradigma orientado a objetos 12 16 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+
+
+85 
+ 
+
+Contenido tematico 
+Unidad  Tema 
+I Introduccion 
+I.1 Historia de los lenguajes de programacion. 
+
+I.2 Breve discusion de los paradigmas clasicos (imperativo, orientado a objetos, 
+funcional, logico). 
+
+I.3 Programacion en pequena y gran escala. 
+II Fundamentos 
+
+II.1 Herramientas matematicas: definiciones inductivas; induccion estructural; reglas de 
+inferencia; sistemas de transicion. 
+
+II.2 Sintaxis: niveles de sintaxis (concreta y abstracta); manejo de variables (ligado y 
+alcance); analisis sintactico (parsing). 
+
+II.3 Semantica: estilos de semantica (denotacional, operacional, axiomatica); semantica 
+estatica y dinamica; sistemas de tipos. 
+
+II.4 Expresiones aritmeticas y booleanas; expresiones let. 
+III Paradigma funcional 
+III.1 Funciones anonimas, abstraccion lambda y aplicacion de funciones. 
+III.2 Orden y estrategias de evaluacion; evaluacion ansiosa (eager) y perezosa (lazy). 
+III.3 Tipos funcion (calculo lambda con tipos simples). 
+III.4 Estilos de tipado: tipado dinamico vs. tipado estatico. 
+III.5 Recursion: funciones con nombre, puntos fijos, definiciones con letrec o fix. 
+III.6 Tipos de datos finitos e infinitos: registros (productos), variantes (sumas), tipos 
+
+recursivos. 
+III.7 Polimorfismo. 
+IV Paradigma imperativo 
+IV.1 Maquinas abstractas. 
+IV.2 Procedimientos y bloques de programa. 
+IV.3 El enunciado de asignacion. 
+IV.4 Registros de activacion; manejo de memoria; recoleccion de basura. 
+
+IV.5 Mecanismos de paso de parametros (por valor, por nombre, por referencia, por 
+necesidad). 
+
+IV.6 Estructuras de control simples; iteradores. 
+IV.7 Manejo de excepciones. 
+IV.8 Continuaciones. 
+V Paradigma orientado a objetos 
+
+V.1 Fundamentos: representaciones multiples, encapsulamiento, subtipado, herencia, 
+recursion abierta. 
+
+V.2 Polimorfismo de subtipos. 
+V.3 Modelado y representacion de objetos. 
+V.4 Despacho dinamico y reemplazo de metodos (overriding). 
+V.5 Formalismos: Java Peso Pluma (Featherweight Java), SOOL. 
+ 
+
+
+
+86 
+ 
+
+Bibliografia basica: 
+1. Mitchell J., Concepts in Programming Languages. Cambridge University Press 2003. 
+2. Pierce B.C., Types and Programming Languages. MIT Press 2002. 
+Bibliografia complementaria: 
+1. Harper R., Practical Foundations for Programming Languages. Working draft, 2010. 
+
+Recuperado el dia 11 de febrero de 2010 de la pagina 
+http://www.cs.cmu.edu/~rwh/plbook/book.pdf 
+
+2. Mitchell J., Foundations for Programming Languages. MIT Press 1996. 
+3. Friedman D. P., Wand M., Essentials of Programming Languages. 3rd edition. MIT Press, 
+
+2008. 
+4. Krishnamurthi S., Programming Languages Application and Interpretation; Version 
+
+26.04.2007. Disponible en linea en 
+http://www.cs.brown.edu/~sk/Publications/Books/ProgLangs/ 
+
+ 
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (  ) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (  ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (  ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (  ) 
+ 
+Otras: Se sugiere complementar la teoria 
+con practicas de laboratorio orientadas 
+hacia la implementacion incremental de 
+un interprete para un prototipo sencillo de 
+lenguaje de programacion utilizando para 
+tal proposito un lenguaje funcional. 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (  ) 
+Trabajos y tareas fuera del aula (X) 
+Exposicion de seminarios por los alumnos (  ) 
+Participacion en clase (X) 
+Asistencia (  ) 
+Seminario (  ) 
+ 
+Otras: Practicas de laboratorio en un lenguaje 
+funcional. 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o Matematico con 
+especialidad en Computacion. Es conveniente que posea un posgrado en la disciplina. Con 
+experiencia docente. 
+  
+
+

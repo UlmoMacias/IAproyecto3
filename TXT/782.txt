@@ -1,0 +1,196 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+305 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Riesgo Tecnologico 
+
+Clave:  
+ 
+
+Semestre: 
+7-8 
+
+Eje tematico: 
+Ingenieria de Software 
+
+No. Creditos:  
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Ingenieria de Software; Probabilidad I 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivos generales:  
+Identificar, transferir, y/o mitigar los posibles riesgos tecnologicos asociados en el desarrollo de 
+sistemas de software. 
+Conocer los diferentes modelos de riesgo tecnologico para estimar la probabilidad de exito o no 
+de algun proyecto de desarrollo de software. 
+Comprender y usar las estimaciones de riesgo como una herramienta formal de apoyo en el 
+area de ingenieria de software.  
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 3 4 
+II Tecnologias de la Informacion 6 8 
+III Riesgo tecnologico 9 12 
+IV Modelos de riesgo tecnologico 12 16 
+
+V Estimacion de la probabilidad de ocurrencia del 
+riesgo 6 8 
+
+VI Controles asociados al riesgo tecnologico 6 8 
+VII Innovacion y transferencia tecnologica 6 8 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+ 
+
+
+
+306 
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Importancia del riesgo en las TICs. 
+I.2 Panorama de aplicaciones del riesgo en el desarrollo de proyectos de software. 
+II Tecnologias de la Informacion 
+II.1 Introduccion y antecedentes. 
+II.2 Definicion de Tecnologias de la Informacion. 
+II.3 Identificacion de elementos relacionados con las TI. 
+II.4 Clasificacion de sistemas de informacion. 
+II.5 Evolucion de sistemas de informacion. 
+II.6 Roles criticos para la administracion de la tecnologia. 
+II.7 Clasificacion de roles. 
+II.8 Gestion de proyectos relacionados con tecnologia. 
+III Riesgo tecnologico 
+III.1 Definicion y conceptos relacionados al riesgo. 
+III.2 Identificacion y medicion del riesgo tecnologico. 
+III.3 Tipificacion del riesgo. 
+III.4 Etapas de analisis de riesgos. 
+III.5 Factores asociados al riesgo tecnologico. 
+IV Modelos de riesgo tecnologico 
+IV.1 Introduccion y antecedentes. 
+IV.2 Administracion de riesgos asociados a la tecnologia y humanos. 
+IV.3 Modelos de riesgo aplicados a tecnologias de informacion. 
+IV.4 Percepcion del riesgo, y niveles de aceptacion del riesgo. 
+V Estimacion de la probabilidad de ocurrencia del riesgo 
+V.1 Metodos cuantitativos, semi-cuantitativos y cualitativos. 
+V.2 Indices de riesgo. 
+V.3 Criterios de aceptacion del riesgo tecnologico. 
+VI Controles asociados al riesgo tecnologico 
+VI.1 Controles del riesgo. 
+VI.2 Herramientas para el control del riesgo. 
+VI.3 Limitacion y vigilancia asociadas al riesgo. 
+VII Innovacion y transferencia tecnologica 
+VII.1 Proceso de innovacion y transferencia tecnologica. 
+VII.2 Componentes de la innovacion y transferencia tecnologica. 
+VII.3 Riesgos asociados a los procesos de innovacion y transferencia tecnologica. 
+VII.4 Canales y mecanismos, practicas y formas de transferencia tecnologica. 
+VII.5 Fundamentos de la propiedad intelectual, proteccion de derechos de autor, 
+
+patentes y normas. 
+ 
+
+
+
+307 
+ 
+
+Bibliografia basica: 
+1. Van Vliet, Hans. Software Engineering: Principles and Practice. Wiley, 2008. 
+2. Murch, RIchard. Project Management: Best Practices for IT Professionals. Prentice-Hall, 
+
+2001. 
+3. Kouns, Jane; Minoli, Daniel. Information Technology Risk Management in Enterprise 
+
+Environments: A Review of Industry Practice and a Practical Guide to Risk Management 
+Tems. Wiley-Interscience, 2010. 
+
+4. Harvard Business Review (Editor) Luecke. Harvard Bussiness Essentials: Managing 
+Projects Large and Small: The Fundamentals Skills to Deliver on Cost and Time. Harvard 
+Business School Press. 2004. 
+
+5. Peltier, Thomas R. Information Security Risk Analysis. CRC Press Taylor Francis Group, 
+2010. 
+
+Bibliografia complementaria: 
+1. Hall, M. Elaine. Managing Risk: Methods for Software Systems Development. Addison-
+
+Wesley Professional, 1998. 
+2. Gorrod, Martin. Risk Management Systems: Technology Trends (Finance and Capital 
+
+Markets). Palgrave MacMillan. 2004. 
+3. Barklye, Bruce. Project Risk Management (Project Management). McGraw-Hill Professional, 
+
+2004. 
+4. Cunningham, Robin J., Herzog, Thomas N. y London Richard L. Models for Quantifying 
+
+Risk. ACTEX Publications, Inc., 2006. 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (   ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (   ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+ 
+ 
+
+Metodos de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (   ) 
+Exposicion de seminarios por los alumnos (   ) 
+Participacion en clase (   ) 
+Asistencia (   ) 
+Proyectos de programacion (   ) 
+Proyecto final (   ) 
+Seminario (   ) 
+ 
+Otras: _____________________________ 
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+ 
+
+

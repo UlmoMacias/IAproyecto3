@@ -1,0 +1,163 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+162 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura: 
+Analisis de Algoritmos II 
+
+Clave:  
+0801 
+
+Semestre: 
+6-8 
+
+Eje tematico: 
+Algoritmos 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teoric-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Analisis de Algoritmos  
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivos generales:  
+Conocer y aplicar las tecnicas de analisis y diseno de algoritmos. Conocer algoritmos de 
+aproximacion y algoritmos aleatorios. 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Algoritmos voraces 8000 12 
+II Divide y venceras 8 10 
+III Programacion dinamica 11 14 
+IV Analisis amortizado 6 8 
+V Algoritmos de aproximacion 8 10 
+VI Algoritmos aleatorios 7 10 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Algoritmos voraces 
+I.1 Estrategia; calendarizacion de intervalos; cacheo optimo \emph{off-line}; algoritmo 
+
+de Dijkstra; arbol generador minimo; Estrategia. 
+II Divide y venceras 
+II.1 Estrategia. 
+
+
+
+163 
+ 
+
+II.2 Mergesort. 
+II.3 Conteo de inversiones en una permutacion. 
+II.4 La pareja de puntos mas cercanos. 
+II.5 Convoluciones y FFT. 
+III Programacion dinamica 
+III.1 Estrategia. 
+III.2 Calendarizacion de intervalos con pesos. 
+III.3 Cadena poligonal de minimos cuadrados. 
+III.4 Estructura secundaria de RNA. 
+III.5 Alineacion de cadenas. 
+III.6 Multiplicacion de matrices. 
+III.7 Distancias entre todas las parejas de vertices. 
+IV Analisis amortizado 
+IV.1 Analisis global. 
+IV.2 Metodo contable. 
+IV.3 Metodo del potencial. 
+V Algoritmos de aproximacion 
+V.1 Algoritmos voraces como algoritmos de aproximacion. 
+V.2 Cubierta de conjuntos (set cover). 
+V.3 Cubierta de vertices (vertex cover). 
+V.4 El problema del viajero. 
+VI Algoritmos aleatorios 
+VI.1 Probabilidad basica. 
+VI.2 Solucion a conflictos de acceso. 
+VI.3 Corte minimo; busqueda de mediana y quicksort. 
+VI.4 Pareja de puntos mas cercana. 
+VI.5 Cacheo aleatorio. 
+VI.6 Balanceo de carga. 
+ 
+ 
+
+Bibliografia basica: 
+1. Jon Kleinberg y Eva Tard, Algorithm design, Addison Wesley, 2005. 
+2. Thomas H. Cormen, Charles E. Leiserson, Ronald. L. Rivest y Clifford Stein, Introduction to 
+
+algorithms, MIT press, Third Edition, 2009. 
+ 
+
+Bibliografia complementaria: 
+1. Steven S. Skiena, The Algorithm Design Manual, Springer, 2nd Edition, 2008.   
+2. Sanjoy Dasgupta, Christos Papadimitriou y Umesh Vazirani, Algorithms, McGraw-Hill, 2006. 
+ 
+
+
+
+164 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios ( ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion ( ) 
+Practicas de taller o laboratorio ( ) 
+Practicas de campo (  ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos ( ) 
+Participacion en clase ( ) 
+Asistencia ( ) 
+Proyectos de programacion ( ) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en Computacion. Es conveniente que posea un posgrado en la disciplina. Con 
+experiencia docente 
+ 
+  
+
+

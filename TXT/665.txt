@@ -1,0 +1,167 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+187 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Diseno de Interfaces de Usuario 
+
+Clave:  
+  
+
+Semestre: 
+7-8 
+
+Eje tematico: 
+Ingenieria de Software 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Ingenieria de Software 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Conocer para desarrollar interfaces de sistemas computacionales  que sean utiles para los 
+usuarios. 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 3 4 
+II Principios y guias de diseno 6 8 
+III Como escribir interfaces para la web 9 12 
+IV Usabilidad 9 12 
+V Diseno centrado en el usuario 12 16 
+VI Tendencias en IHC 3 4 
+VII Evaluacion de interfaces 6 8 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+  
+
+
+
+188 
+ 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Principios de IHC. 
+I.2 Gupias al disenar IHC. 
+II Principios y guias de diseno 
+II.1 Caracteristicas de las interfaces web. 
+II.2 Aplicacion de los principios al disenar interfaces web. 
+III Como escribir interfaces para la web 
+III.1 Aspectos humanos que impactan el desarrollo de interfaces. 
+III.2 Aspectos tecnologicos. 
+III.3 Impacto del diseno de interfaces en el contexto de los sistemas computacionales. 
+IV Usabilidad 
+IV.1 Conocer la tarea del usuario. 
+IV.2 Modelar la tarea del usuario. 
+IV.3 Disenar interfaces centradas en el usuario. 
+V Diseno centrado en el usuario 
+V.1 Tecnicas para evaluar interfaces. 
+V.2 Diseno de la evaluacion de la interfaz. 
+V.3 Realizacion de la evaluacion de la interfaz. 
+VI Tendencias en IHC 
+VII Evaluacion de interfaces 
+ 
+
+Bibliografia basica: 
+1. Ben Shneiderman, Catherine Plaisant, Maxine Cohen y Steven Jacobs, Designing the User 
+
+Interface: Strategies for Effective Human-Computer Interaction, 5a Ed., Addison-Wesley. 
+2009.  
+
+2. Jenifer Tidwell., Designing interfaces:  Patterns for effective interaction design, 2a Ed., 
+O'Reilly, 2010.  
+
+3. Jeffrey Rubin y Dana Chisnell, Handbook of Usability Testing: How to Plan, Design, and 
+Conduct Effective Tests, 2a Ed., Wiley 2008.  
+
+4. Steve Krug, Don't Make Me Think: A common sense approach to Web Usability, 2a Ed., 
+New Riders, 2006.  
+
+5. Sanjaya Mishra y Ramesh C. Sharma, Different Learning Styles Interactive Multimedia on 
+Education and Training, Idea group Publising. 2005. 
+
+Bibliografia complementaria: 
+1. Pete Bickford, Interface design: the art of developing easy-to-use software, AP Professional, 
+
+1997. 
+2. Steve Krug, Don't Make Me Think: A common sense approach to Web Usability, 2a Ed., 
+
+New Riders, 2006.  
+ 
+
+
+
+189 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios ( ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion ( ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos ( ) 
+Participacion en clase ( ) 
+Asistencia ( ) 
+Proyectos de programacion ( ) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente.  
+ 
+  
+
+

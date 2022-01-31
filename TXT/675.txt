@@ -1,0 +1,189 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+260 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Programacion de Dispositivos Moviles 
+
+Clave:  
+ 
+
+Semestre: 
+6-8 
+
+Eje tematico: 
+Imagenes y Ambientes Virtuales 
+
+No. Creditos:  
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+Asignatura con seriacion indicativa antecedente: Modelado y Programacion 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivos generales:  
+Aprender a desarrollar aplicaciones bajo la plataforma JAVA en dispositivos moviles, telefonos 
+celulares y equipos PDA (Personal Digital Assistant, palms).  
+Comprender la plataforma Java en la cual se desarrolla las aplicaciones, J2ME, Java 2 
+Plataform Micro Edition de SUN Microsystems. El tipo de aplicaciones que se pretende 
+desarrollar estan basadas en el perfil MIDP version 2.0, el cual es una especificacion de Java 
+ampliamente utilizada en los telefonos celulares y dispositivos moviles para desarrollar 
+aplicaciones (MIDlets). 
+Comprender y utilizar el ambiente J2ME Wireless Toolkit tambien de SUN Microsystems, el 
+cual permite crear aplicaciones bajo la configuracion MIDP, ademas de compilar y ejecutar las 
+aplicaciones en un emulador de un dispositivo movil. 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 7 9 
+II Programacion 11 16 
+III MIDlets Graficos e interfaz de usuario 7 9 
+IV Almacenamiento Persistente de Datos 3 4 
+V Programacion de Medios 6 8 
+VI Conexion a Redes 7 9 
+VII Publicacion y comercializacion 7 9 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+
+
+261 
+ 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Dispositivos Moviles. 
+I.2 Clasificacion y aplicaciones de los dispositivos moviles. 
+I.3 Configuraciones y Perfiles. 
+II Programacion 
+II.1 La API de MIDP 2.0. 
+II.2 EL Ciclo de vida de una aplicacion MIDP. 
+II.3 Compilacion y los archivos manifiesto (.jar) y descriptor (.jad). 
+II.4 La estructura basica de un MIDlet. 
+II.5 El Ciclo de vida de un MIDlet. 
+II.6 El J2ME Wireless Toolkit. 
+III MIDlets Graficos e interfaz de usuario 
+III.1 La API de alto nivel para Interfaz de usuario. 
+III.2 Programacion de formularios. String Item, Image Item, DateField, TextField, Choice 
+
+Group, Gauge, Alert, List. 
+III.3 La API de bajo nivel para Interfaz de usuario. 
+III.4 Programacion de graficos. 
+III.5 Programacion de Threads y Task-Scheduler. 
+III.6 Programacion del teclado. 
+IV Almacenamiento Persistente de Datos 
+IV.1 Programacion de Record Store. 
+V Programacion de Medios 
+V.1 Reproduccion de sonido y video. Mobile Media API (MMAPI). 
+V.2 Graficos y animacion en 3 dimensiones. Mobile 3D Graphics API (M3DGAPI). 
+VI Conexion a Redes 
+VI.1 Datagram Connection. 
+VI.2 Socket Connection. 
+VI.3 Stream Connection. 
+VI.4 Http Connection. 
+VII Publicacion y comercializacion 
+VII.1 Proteger el codigo fuente. 
+VII.2 Comercializar las aplicaciones. 
+ 
+
+Bibliografia basica: 
+1. Kim Topley, The Mobile Information Device Profile and MIDlets, Part 1,   O'Reilly.   First.  
+
+Series: In a Nutshell. ISBN: 0-596-00253-X. 480 pgs. Edition March 2002. 
+2.  Michael Juntao Yuan, Enterprise J2ME: Developing Mobile Java Applications Prentice Hall. 
+
+ISBN: 0131405306. Paperback, 448 pgs. Oct. 24th 2003. 
+
+
+
+262 
+ 
+
+3. Martin J. Wells, J2ME Game Programming, Thomson course Technology Series Editor 
+Andre Lamothe, CEO XTREME Games LLC. ISBN: 1-59200-118-1. Softcover 800 pgs. 
+March 22, 2004. 
+
+4. Michael Morrison, Beginning Mobile Phone Game Programming. First Edition, Sams 
+Publishing. ISBN: 0672326655. Paperback, 528 pgs. Nov 22, 2004. 
+
+5. David Fox, Roman Verhovsek, Micro Java(TM) Game Development Paperback, 2002. 
+6. James Keogh, J2ME: The Complete Reference, Mc Graw Hill Osborne. ISBN: 0072227109. 
+
+Paperback, 2003. 
+7. Qusay Mahmoud, Learning Wireless Java,  O'Reilly.  ISBN:  0-596-00243-2. Paperback, 264 
+
+pgs. First Edition January 2002. 
+Bibliografia complementaria: 
+1. John W. Muchow, Core J2ME Technology and MIDP Sun Microsystems Press y Prentice 
+
+Hall ISBN: 0-130669113 .737 pgs. December 2001.  
+2. C Bala Kumar, Paul Kline, Tim Thompson, Bluetooth Application Programming with the 
+
+Java APIs, Morgan Kaufmann Series in Networking. Paperback, 2003. 
+3. Sing Li y Jonathan Knudsen, Wireless Java: Developing with J2ME. Second Edition, 
+
+Apress, Inc. ISBN: 1590594797. Paperback. April, 2005. 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (   ) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia (   ) 
+Proyectos de programacion (   ) 
+Proyecto final (   ) 
+Seminario (   ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o Matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente.  
+ 
+  
+
+

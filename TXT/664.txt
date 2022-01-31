@@ -1,0 +1,171 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+184 
+ 
+
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Computo Evolutivo 
+
+Clave:  
+  
+
+Semestre: 
+6-8 
+
+Eje tematico: 
+Bio-Informatica 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+Asignatura con seriacion indicativa antecedente: Matematicas para las Ciencias de la 
+Tierra IV; Probabilidad I; Estructuras de Datos 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Formar estudiantes con bases solidas, tanto teoricas como practicas, en el computo evolutivo.   
+Proporcionar a los alumnos bases teoricas para participar en investigacion en al area de 
+computo evolutivo. 
+Mostrar el potencial de los algoritmos geneticos como modelos de genetica de poblaciones, 
+incluyendo sus limitaciones, para integrar a los alumnos en el estudio de problemas biologicos. 
+Dar un panorama de las aplicaciones del computo evolutivo como herramienta de optimizacion. 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 3 4 
+II Conceptos basicos de procesos estocasticos 3 4 
+III Heuristicas de optimizacion 6 8 
+IV Algoritmos Geneticos 12 16 
+V Formalizacion 9 12 
+VI Programacion Genetica 6 8 
+VII Embriogenia Artificial 9 12 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+
+
+185 
+ 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Teoria de la evolucion por seleccion natural. 
+I.2 Teorias contemporaneas de especiacion. 
+II Conceptos basicos de procesos estocasticos 
+II.1 Procesos de Markov y su representacion. 
+II.2 Propiedades de las matrices de Markov. 
+III Heuristicas de optimizacion 
+III.1 Descenso por el gradiente. 
+III.2 Recocido simulado. 
+III.3 Busqueda tabu. 
+IV Algoritmos Geneticos 
+IV.1 Funcion y paisajes de adecuacion. 
+IV.2 Seleccion. 
+IV.3 Mutacion. 
+IV.4 Recombinacion. 
+IV.5 Aplicaciones. 
+V Formalizacion 
+V.1 Expresion matematica de los operadores. 
+V.2 Matriz de recombinacion. 
+V.3 Esquemas. 
+V.4 El Teorema del esquema de Holland. 
+V.5 Aptitud efectiva. 
+VI Programacion Genetica 
+VI.1 La recombinacion en la programacion genetica. 
+VI.2 Estrategias evolutivas. 
+VI.3 Aplicaciones. 
+VII Embriogenia Artificial 
+VII.1 Sistemas Gramaticales. 
+VII.2 Sistemas de Quimica Celular. 
+ 
+
+Bibliografia basica: 
+1. Banzhaf W., Genetic Progamming - an introduction, Morgan Kaufmann Publishers, 1998. 
+2. Holland, J., Adaptation in Natural and Artificial Systems, The MIT Press, 1992. 
+3. Koza, J., Genetic Programming, The MIT Press, 1992. 
+4. Stanley,  K.,  Miikkulainen  R.,  "A  Taxonomy  for  Artificial  Embryogeny",  Artificial Life, No. 297 
+
+pp.93-130 MIT Press Journals, 2003. 
+ 
+ 
+
+
+
+186 
+ 
+
+Bibliografia complementaria: 
+1. Goldberg G., Genetic Algorithms in Search, Optimisation and Machine Learning, Addison-
+
+Wesley, 1989. 
+2. Bentley  P.,  "Fractal  Proteins",  Genetic Programming and Evolvable Machines Journal, No. 5 
+
+pp.71-101 Kluwer Academic Publishers, 2004. 
+3. Yao, X., Evolutionary Computation: Theory and Applications, World Scientific Publishing 
+
+Co., 1999. 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual ( ) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion ( ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito ( ) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia ( ) 
+Proyectos de programacion (X) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Matematico, fisico, actuario o Licenciado en Ciencias de la Computacion, especialista en el 
+area de la asignatura a juicio del comite de asignacion de cursos. Con experiencia docente. 
+ 
+  
+
+

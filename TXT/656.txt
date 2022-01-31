@@ -1,0 +1,215 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+151 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Algoritmos de Apareamiento de Cadenas 
+
+Clave:  
+  
+
+Semestre: 
+6-8 
+
+Eje tematico: 
+Algoritmos 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Automatas y Lenguajes Formales; Analisis 
+de Algoritmos  
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Conocer y revisar algoritmos enfocados al proceso de cadenas de caracteres y  arboles, que 
+son importantes en diversas disciplinas como la mineria de datos, bioinformatica, proceso de  
+lenguajes formales y naturales, correccion de ortografia, y muchas  otras aplicaciones 
+importantes. 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Herramientas para el apareamiento de cadenas 6 8 
+II Automatas para apareamiento 6 8 
+III Busqueda de cadenas con ventana deslizante 6 8 
+IV Arreglos de sufijos 6 8 
+V Estructuras para indices 6 8 
+VI Indices 3 4 
+VII Alineamientos 4.5 6 
+VIII Patrones aproximados 6 8 
+IX Periodos locales 4.5 6 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+  
+
+
+
+152 
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Herramientas para el apareamiento de cadenas 
+I.1 Cadenas y automatas. 
+I.2 Conceptos de combinatoria. 
+I.3 Algoritmos y complejidad. 
+I.4 Implementacion de automatas. 
+I.5 Tecnicas basicas de apareamiento de cadenas. 
+I.6 Fronteras y tablas de prefijos. 
+II Automatas para apareamiento 
+II.1 El \textit{trie} de un diccionario. 
+II.2 Busqueda de varias cadenas simultaneamente. 
+II.3 Implementacion con funcion de fracaso. 
+II.4 Implementacion con sucesor por omision. 
+II.5 Localizacion de una cadena. 
+II.6 Localizacion de una cadena y funcion de fracaso. 
+II.7 Localizacion de una cadena y de sucesor por omision. 
+III Busqueda de cadenas con ventana deslizante 
+III.1 Busquedas sin memoria. 
+III.2 Tiempo de busqueda. 
+III.3 Construccion de la tabla de sufijos buena. 
+III.4 Automata para el mejor factor. 
+III.5 Busqueda con una memoria. 
+III.6 Busqueda con varias memorias. 
+III.7 Busqueda en diccionario. 
+IV Arreglos de sufijos 
+IV.1 Busqueda de una lista de cadenas. 
+IV.2 Busqueda con el prefijo comun mayor. 
+IV.3 Preproceso de la lista. 
+IV.4 Ordenamiento de  sufijos. 
+IV.5 Ordenamiento de sufijos con alfabetos de enteros acotados. 
+IV.6 Prefijos comunes de los sufijos. 
+V Estructuras para indices 
+V.1 Tries de sufijos. 
+V.2 Arboles de sufijos. 
+V.3 Contextos para factores. 
+V.4 Automata de sufijos. 
+V.5 Automata de sufijos compacto. 
+VI Indices 
+VI.1 Implementacion de indices. 
+VI.2 Operaciones basicas. 
+VI.3 Transductor de posiciones. 
+VI.4 Repeticiones. 
+
+
+
+153 
+ 
+
+VI.5 Cadenas prohibidas. 
+VI.6 Motor de busqueda. 
+VI.7 Busqueda de rotaciones. 
+VII Alineamientos 
+VII.1 Comparacion de cadenas. 
+VII.2 Alineamiento optimo. 
+VII.3 Sub-secuencia comun mayor. 
+VII.4 Alineamientos con huecos. 
+VII.5 Alineamiento local. 
+VII.6 Heuristicas para alineamiento local. 
+VIII Patrones aproximados 
+VIII.1 Apareamiento aproximado con comodines. 
+VIII.2 Apareamiento aproximado con diferencias. 
+VIII.3 Apareamiento aproximado con discordancias. 
+VIII.4 Apareamiento aproximado para patrones pequenos. 
+VIII.5 Heuristica para apareamiento aproximado con diferencias. 
+IX Periodos locales 
+IX.1 Factores de particionamiento. 
+IX.2 Deteccion de potencias. 
+IX.3 Deteccion de cuadrados. 
+IX.4 Ordenamiento de sufijos. 
+ 
+
+Bibliografia basica: 
+1. Crochemore, Hancart y Lecro, Algorithms on Strings, Cambridge University Press, 
+
+traduccion al ingles, 2007. 
+2. Gusfield, Algorithms on Strings, Trees, and Sequences, Cambridge University Press, 
+
+decima impresion 2007. 
+3. Smyth, Computing Patterns in Strings, Addison-Wesley Longman, Reading Ma, 2003.  
+Bibliografia complementaria: 
+4. Apostolico y Galil, editores, Pattern Matching Algorithms, Oxford University Press, 1997.  
+5. Atallah, Editor, Algorithms and Theory of Computation Handbook, CRC Press, 1999.  
+6. Charras y Lecroq, Handbook of Exact Matching Algorithms, King's College London 
+
+Publications, 2004.  
+7. Crochemore y Rytter, Jewels of Stringology, World Scientific Press, Singapore, 2002.  
+8. Navarro y Raffinot, Flexible Pattern Matching in Strings -- Practical Online Search 
+
+Algorithms for Texts and Biological Sequences, Cambridge University Press, Cambridge, 
+UK, 2002.  
+
+9. Smyth, Computing Patterns in Strings, Addison-Wesley Longman, Reading Ma, 2003.  
+10. Stephen, String Searching Algorithms, World Scientific Press, Singapore, 1994.  
+11. Ademas de multiples articulos sobre el tema. 
+ 
+
+
+
+154 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula ( ) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion ( ) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito ( ) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos ( ) 
+Participacion en clase (X) 
+Asistencia ( ) 
+Proyectos de programacion (X) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+ 
+  
+
+

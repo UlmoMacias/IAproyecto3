@@ -1,0 +1,331 @@
+A DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+
+Estructuras de Datos 
+
+Clave:  
+
+1222 
+
+Semestre:  
+
+2 
+
+Eje tematico: 
+
+Programacion 
+
+No. Creditos:   
+
+12 
+
+Caracter: Obligatoria Horas 
+Horas por 
+semana 
+
+Total de 
+Horas  
+
+Tipo: Teorico-Practica 
+Teoria: Practica: 
+
+9 144 3 6 
+
+Modalidad: Curso Duracion del programa: Semestral 
+
+ 
+ 
+
+ 
+
+ 
+Asignatura con seriacion obligatoria antecedente: Ninguna 
+ 
+Asignatura con seriacion obligatoria subsecuente:  Analisis de Algoritmos,Fundamentos de 
+Bases de Datos; Computacion Distribuida; Lenguajes de Programacion 
+ 
+Asignatura con seriacion indicativa antecedente: Estructuras Discretas; Introduccion a 
+Ciencias de la Computacion 
+ 
+Asignatura con seriacion indicativa subsecuente: Modelado y programacion;Automatas y 
+Lenguajes Formales; Analisis de Algoritmos 
+
+Objetivos generales:  
+
+Comprender el papel fundamental que cumple la abstraccion de datos en la elaboracion de 
+modelos correctos y completos para resolver problemas por medio de la computadora. 
+
+Conocer el panorama de las estructuras de datos mas usuales, sus caracteristicas y las 
+diferentes maneras de instrumentarlas en un lenguaje de programacion orientado a objetos.  
+
+Analizar la complejidad en tiempo y espacio de algoritmos elementales. 
+
+Conocer y aplicar los algoritmos mas comunes de busqueda y ordenamiento. 
+
+Conocer los elementos de criterio elementales para elaborar programas correctos y eficientes en 
+funcion del contexto. 
+
+ 
+
+  
+
+
+
+Indice tematico 
+
+Unidad Temas  
+Horas 
+
+Teoricas Practicas 
+I Tipos de datos abstractos 4 9 
+II Elementos de complejidad algoritmica 3 6 
+III Elementos de correccion de algoritmos 2 3 
+IV Arreglos 1 3 
+V Recursion 4 8 
+VI Listas 3 6 
+VII Pilas 3 6 
+VIII Colas 3 6 
+IX Arboles 2 4 
+X Arboles binarios 3 6 
+XI Arboles binarios de busqueda 3 6 
+XII Arboles de busqueda balanceados 3 6 
+XIII Funciones y tablas de dispersion (hash) 3 6 
+XIV Heaps 2 3 
+XV Algoritmos de ordenamiento 3 6 
+XVI Algoritmos en graficas 6 12 
+
+Total de horas: 48 96 
+
+Suma total de horas: 144 
+
+ 
+
+Contenido tematico 
+
+Unidad Tema 
+
+I Tipos de datos abstractos 
+
+I.1 Definicion, especificacion e instrumentacion de tipos de dato abstractos (TDAs). 
+
+I.2 Conceptos de clase, objeto y estructura de datos y su relacion con TDA. 
+
+I.3 Encapsulacion, acoplamiento y cohesion. 
+
+II Elementos de complejidad algoritmica 
+
+II.1 Analisis asintotico, notacion O(). 
+
+II.2 Recurrencias. 
+
+II.3 Ejemplos de calculo de complejidad. 
+
+III Elementos de correccion de algoritmos 
+
+III.1 Pruebas basadas en invariantes. 
+
+III.2 Pruebas basadas en las propiedades de un TDA. 
+
+IV Arreglos 
+
+IV.1 Instrumentacion de arreglos: polinomios de direccionamiento vectores de Iliffe. 
+
+IV.2 Arreglos empacados. 
+
+V Recursion 
+
+V.1 Estrategia divide y venceras, solucion de problemas mediante recursion. 
+
+V.2 Busqueda con retroceso minimo ({backtrack). 
+
+VI Listas 
+
+VI.1 TDA Lista, definicion, alternativas de instrumentacion. 
+
+VI.2 Insercion, remocion y recuperacion de elementos en una Lista. 
+
+
+
+VI.3 Variantes de lista: ligadura doble, circular, etc. 
+
+VI.4 Complejidad de operaciones, iterador. 
+
+VI.5 Aplicaciones. 
+
+VII Pilas 
+
+VII.1 TDA Pila, definicion, alternativas de instrumentacion. 
+
+VII.2 Insercion, remocion y recuperacion de elementos en una Pila. 
+
+VII.3 Aplicaciones. 
+
+VIII Colas 
+
+VIII.1 TDA Cola, definicion, alternativas de instrumentacion. 
+
+VIII.2 Insercion, remocion y recuperacion de elementos en una Cola. 
+
+VIII.3 Aplicaciones. 
+
+IX Arboles 
+
+IX.1 Concepto de Arbol, conceptos relacionados, TDA, instrumentacion y aplicaciones. 
+
+X Arboles binarios 
+
+X.1 Conceptos y cotas relacionadas con arboles binarios, TDA. 
+
+X.2 Instrumentaciones de arboles binarios. 
+
+X.3 Recorridos. 
+
+X.4 Aplicaciones. 
+
+XI Arboles binarios de busqueda 
+
+XI.1 Definicion, propiedades y TDA. 
+
+XI.2 Algoritmos de insercion, remocion y recuperacion de elementos, complejidad. 
+
+XI.3 Aplicaciones. 
+
+XII Arboles de busqueda balanceados 
+
+XII.1 Motivacion, definicion, propiedades y TDA. 
+
+XII.2 Arboles AVL, arboles rojinegros, definicion, propiedades y TDA. 
+
+XII.3 
+Algoritmos de insercion, remocion y recuperacion de elementos conservando el 
+balanceo. 
+
+XII.4 Analisis de complejidad. 
+
+XII.5 Aplicaciones. 
+
+XIII Funciones y tablas de dispersion (hash) 
+
+XIII.1 Motivacion, diseno de funciones de dispersion. 
+
+XIII.2 Colisiones y su manejo. 
+
+XIV Heaps 
+
+XIV.1 Definicion, propiedades y TDA. 
+
+XIV.2 Algoritmos de insercion, remocion y recuperacion de elementos. 
+
+XIV.3 Analisis de complejidad. 
+
+XIV.4 Aplicaciones. 
+
+XV Algoritmos de ordenamiento 
+
+XV.1 Metodos elementales de complejidad cuadratica: insercion, seleccion, burbuja. 
+
+XV.2 Metodos eficientes: Shellsort, Heapsort, Quicksort y Mergesort. 
+
+XV.3 Analisis de complejidad. 
+
+XVI Algoritmos en graficas 
+
+XVI.1 Representacion de graficas, complejidad de espacio. 
+
+
+
+XVI.2 Recorridos elementales: en amplitud (BFS) y a profundidad (DFS). 
+
+XVI.3 Rutas mas cortas: algoritmo de Dijkstra y Floyd. 
+
+XVI.4 Arbol generador de peso minimo, algoritmos de Prim y Kruskal. 
+
+ 
+
+Bibliografia basica: 
+
+1. Carrano, Frank M. y Janet J. Prichard, Data Abstraction and Problem Solving with Java, 2a 
+ed., Addison Wesley, 2005. 
+
+2. Goldman Sally y Kenneth J. Goldman, A Practical Guide to Data Structures and Algorithms 
+Using Java, Chapman & Hall - CRC Press, 2007. 
+
+3. Skiena, Steven S., The Algorithm Design Manual, 2a ed. Springer, 2008. 
+
+Bibliografia complementaria: 
+
+1. Brass, Peter, Advanced Data Structures, Cambridge University Press, 2008. 
+
+2. Cormen, Thomas H., Charles E. Leiserson, Ronald R. Rivest y Clifford Stein, Introduction to 
+Algorithms, 3a ed. MIT Press, 2009. 
+
+3. Gamma, Erich, Richard Helm, Ralph Johnson y John M. Vlissides, Design Patterns: 
+Elements of Reusable Object-Oriented Software, Addison-Wesley Professional, 1994. 
+
+4. Preiss, Bruno R., Data Structures and Algorithms with Object-Oriented Design Patterns in 
+Java, Wiley, 1999. 
+
+ 
+
+Sugerencias didacticas: 
+
+Exposicion oral (X) 
+
+Exposicion audiovisual (X) 
+
+Ejercicios dentro de clase (X) 
+
+Ejercicios fuera del aula (X) 
+
+Seminarios (  ) 
+
+Lecturas obligatorias (  ) 
+
+Trabajo de investigacion (  ) 
+
+Practicas de taller o laboratorio (X) 
+
+Practicas de campo (  ) 
+
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+
+Examenes parciales (X) 
+
+Examen final escrito (X) 
+
+Trabajos y tareas fuera del aula (X) 
+
+Exposicion de seminarios por los alumnos (  ) 
+
+Participacion en clase (  ) 
+
+Asistencia (  ) 
+
+Seminario (  ) 
+
+ 
+Otras: Practicas de laboratorio. Proyecto final de 
+programacion. 
+  
+
+Perfil profesiografico:  
+
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o Matematico con 
+especialidad en Computacion con amplia experiencia de programacion. Es conveniente que 
+posea estudios de posgrado en la disciplina. Con experiencia docente. 
+
+ 
+
+

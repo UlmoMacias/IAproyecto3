@@ -1,0 +1,235 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+289 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Realidad Virtual 
+
+Clave:  
+ 
+
+Semestre: 
+7-8 
+
+Eje tematico: 
+Imagenes y Ambientes Virtuales 
+
+No. Creditos:  
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico--Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+ 
+Asignatura con seriacion indicativa antecedente: Graficacion por Computadora 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivos generales:  
+Comprender ampliamente la disciplina de la realidad virtual, incluyendo hardware, software, 
+percepcion humana, y una amplia gama de aplicaciones.  
+Comprender  los principios fundamentales y los problemas de diseno que participan en la 
+construccion de un sistema de realidad virtual y sus aplicaciones.  
+Adquirir experiencia practica mediante el desarrollo de software de realidad virtual que utiliza 
+una plataforma de realidad virtual existente. 
+Mejorar su capacidad de comunicacion por escrito y presentar un trabajo de investigacion. 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 3 4 
+II Vision humana 3 4 
+III Dispositivos de despliegue de imagen 3 4 
+IV Vision estereopar 3D 3 4 
+V Introduccion al software de realidad virtual 6 8 
+VI Ambientes virtuales compartidos 3 4 
+VII Rastreo de posicion y postura 3 4 
+
+VIII Modelado y animacion de la obtencion de objetos 
+en un ambiente virtual 6 8 
+
+
+
+290 
+ 
+
+IX Dispositivos hapticos 3 4 
+X Realidad aumentada 3 4 
+XI Interaccion y navegacion en ambientes virtuales 6 8 
+XII Sistema auditivo humano y sonido en RV 3 4 
+XIII Aplicaciones de la realidad virtual 3 4 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Introduccion. 
+I.2 Eficiencia del desempeno humano en ambientes virtuales. 
+I.3 Diseno de ambientes virtuales relacionados con las limitaciones sensoriales 
+
+humanas. 
+I.4 Aspectos de interaccion multimodal. 
+I.5 Diseno de metaforas en ambientes virtuales. 
+I.6 Salud y seguridad en ambientes virtuales. 
+I.7 Impacto social de la realidad virtual. 
+I.8 Inmersion en ambientes virtuales. 
+I.9 Tareas y presencia en ambientes virtuales. 
+II Vision humana 
+II.1 Sistema visual humano. 
+III Dispositivos de despliegue de imagen 
+III.1 Cascos y lentes. 
+III.2 Pantallas y domos. 
+III.3 Instalaciones CAVE. 
+III.4 Mesas interactivas. 
+IV Vision estereopar 3D 
+IV.1 Introduccion. 
+IV.2 Percepcion de la profundidad humana y estereoscopia. 
+IV.3 Estereo y disparidad binocular. 
+IV.4 Implementado estereoscopia usando paralaje. 
+IV.5 Autoestereoscopia. 
+V Introduccion al software de realidad virtual 
+V.1 Introduccion. 
+V.2 Programacion de ambientes virtuales. 
+V.3 Programando modelos. 
+V.4 Manejo de modelos. Scenegraphs. 
+V.5 Simulacion y animacion. 
+VI Ambientes virtuales compartidos 
+VI.1 Programando para distribuir ambientes virtuales. 
+VII Rastreo de posicion y postura 
+
+
+
+291 
+ 
+
+VII.1 Rastreo de posicion tridimensional. 
+VII.2 Rastreo mecanico. 
+VII.3 Rastreo magnetico. 
+VII.4 Rastreo optico. 
+VII.5 Guantes. 
+VII.6 Integracion en sistemas de realidad virtual. 
+VIII Modelado y animacion de la obtencion de objetos en un ambiente virtual 
+VIII.1 Incorporacion de humanos virtuales. 
+VIII.2 Incorporacion de tareas. 
+VIII.3 Planeacion de movimiento. 
+VIII.4 Sensores y comportamientos. 
+IX Dispositivos hapticos 
+IX.1 Arquitectura para retroalimentacion haptica. 
+IX.2 Dispositivos hapticos. 
+IX.3 Arquitectura para rendering haptico. 
+IX.4 Calculando las fuerzas de respuesta del haptico. 
+X Realidad aumentada 
+X.1 Fundamentos de la realidad aumentada. 
+X.2 Programacion para ambientes aumentados. 
+XI Interaccion y navegacion en ambientes virtuales 
+XI.1 Tecnicas de interaccion en ambientes virtuales. 
+XI.2 Seleccion. 
+XI.3 Manejo. 
+XI.4 Menus. 
+XI.5 Interaccion multimodal. 
+XII Sistema auditivo humano y sonido en RV 
+XII.1 Sistema auditivo humano. 
+XII.2 Sistema de despliegue de audio (sonido 3D). 
+XIII Aplicaciones de la realidad virtual 
+XIII.1 Aplicaciones medicas. 
+XIII.2 Educacion, arte y entretenimiento. 
+XIII.3 Manufactura. 
+XIII.4 Visualizacion. 
+XIII.5 Exploracion de petroleo. 
+ 
+
+Bibliografia basica: 
+1. Bowman, D., Kruijff, E. and LaViola, J., 3D User Interfaces: Theory and Practice. Addison-
+
+Wesley Professional, 2004. 
+
+2. Burdea, G. and Coiffet, P., Virtual Reality Technology. John Wiley and Sons, Inc. 2003. 
+3. Gutierrez, M., Vexo, F. and Thalmann, D., Stepping into Virtual Reality. Springer Verlag, 
+
+2008. 
+
+
+
+292 
+ 
+
+4. Kim. G. J., Designing Virtual Reality Systems: The Structured Approach. Springer, 2005. 
+5. Schroeder, R., Axelsson, A.S., Avatars at Work and Play: Collaboration and Interaction in 
+
+Shared Virtual Environments (Computer Supported Cooperative Work) Springer, 2010. 
+Bibliografia complementaria: 
+1. Bimber, O. and Raskar, R., Spatial Augmented Reality: Merging Real and Virtual Worlds. 
+
+A.K. Peters, 2005. 
+2. Craig, A., Sherman, W. and Will, J., Developing Virtual Reality Applications: Foundations of 
+
+Effective Design. Morgan Kaufmann, 2009. 
+3. Hainich, R., The End of Hardware, 3rd Edition: Augmented Reality and Beyond. Book Surge 
+
+Publishing, 2009. 
+4. Sherman, W. and Craig, A., Understanding Virtual Reality Interface, Applications and 
+
+Design. Morgan Kaufman Publishers, 2003. 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (   ) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia (X) 
+Proyectos de programacion (X) 
+Proyecto final (   ) 
+Seminario (   ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+ 
+  
+
+

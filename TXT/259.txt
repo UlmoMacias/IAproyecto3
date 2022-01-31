@@ -1,0 +1,204 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+202 
+ 
+
+ 
+ 
+
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+Licenciatura en Ciencias de la Computacion 
+
+Facultad de Ciencias 
+Programa de la asignatura 
+
+ 
+Denominacion de la asignatura:  
+
+Geometria Computacional 
+Clave:  
+0259 
+
+Semestre: 
+6-8 
+
+Eje tematico: 
+Algoritmos 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+ 
+Asignatura con seriacion indicativa antecedente: . Analisis de Algoritmos 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Adquirir los conocimientos necesarios en el area de la geometria computacional, para disenar 
+algoritmos eficientes que resuelvan problemas computacionales que  requieran soluciones 
+geometricas.   
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 3 4 
+II Cierre convexo de un conjunto de puntos 3 4 
+III Intersecciones entre segmentos de rectas 3 4 
+IV Triangulacion de poligonos y visibilidad 6 8 
+V Programacion lineal 6 8 
+VI Busqueda de rangos ortogonales 3 4 
+VII Localizacion de puntos 6 8 
+VIII Diagramas de Voronoi 3 4 
+IX Arreglos de lineas y dualidad 9 12 
+X Proximidad 3 4 
+XI Algunas estructuras de datos geometricas 3 4 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+
+
+203 
+ 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Definiciones generales. 
+I.2 Repaso de estructuras de datos. 
+I.3 Preliminares geometricos. 
+II Cierre convexo de un conjunto de puntos 
+II.1 Cota minima. 
+II.2 Algoritmo de Graham. 
+II.3 Algoritmo de Jarvis. 
+II.4 Algoritmos usando divide y venceras. 
+II.5 Algoritmos dinamicos. 
+II.6 Extensiones y variantes. 
+III Intersecciones entre segmentos de rectas 
+III.1 Deteccion. 
+III.2 Algoritmos. 
+III.3 Lista doblemente conexa de aristas. 
+III.4 Calculando el traslape de dos subdivisiones. 
+III.5 Barrido topologico. 
+III.6 Ordenando pendientes en O(n2). 
+IV Triangulacion de poligonos y visibilidad 
+IV.1 Vigilancia y triangulaciones. 
+IV.2 Dividiendo un poligono en piezas monotonas. 
+IV.3 Triangulando un poligono monotono. 
+IV.4 Calcular la grafica de visibilidad. 
+V Programacion lineal 
+V.1 La geometria de amoldado. 
+V.2 Interseccion de semiplanos. 
+V.3 Circulo contenedor de radio minimo. 
+V.4 Programacion lineal incremental. 
+V.5 Programacion lineal aleatoria. 
+V.6 Programacion lineal en dimensiones superiores. 
+VI Busqueda de rangos ortogonales 
+VI.1 Busqueda en una dimension 
+VI.2 Arboles Kd. 
+VI.3 Arboles de rangos. 
+VII Localizacion de puntos 
+VII.1 Localizacion de un punto en una subdivision plana. 
+VII.2 Metodo de bandas. 
+VII.3 Metodo de cadena. 
+VII.4 Metodo trapezoidal. 
+VII.5 Algoritmo incremental aleatorio. 
+
+
+
+204 
+ 
+
+VIII Diagramas de Voronoi 
+VIII.1 Definicion y propiedades basicas. 
+VIII.2 Construyendo el diagrama de Voronoi. 
+VIII.3 Cota minima. 
+VIII.4 Diagramas de Voronoi de orden superior. 
+VIII.5 Aplicaciones. 
+IX Arreglos de lineas y dualidad 
+IX.1 Arreglos de lineas. 
+IX.2 Dualidad. 
+IX.3 Triangulacion de Delaunay. 
+X Proximidad 
+X.1 Par de puntos mas cercanos y mas lejanos. 
+X.2 Arboles generadores minimos euclidianos. 
+X.3 El problema del agente viajero euclidiano. 
+XI Algunas estructuras de datos geometricas 
+XI.1 Arboles de intervalos. 
+XI.2 Arboles de prioridades y busqueda. 
+XI.3 Arboles de segmentos. 
+ 
+ 
+
+Bibliografia basica: 
+1. M. de Berg, M. van Kreveld, M. Overmars, O. Schwarzkopf. Computational Geometry, 
+
+Algorithms and Applications, 3a Ed., Springer Verlag, Berlin, 2008.  
+2. F. P. Preparata and M. I. Shamos. Computational Geometry: An Introduction, Springer-
+
+Verlag, New York, NY, 1985. 
+Bibliografia complementaria: 
+1. J. R. Sack, J. Urrutia. Handbook of Computational Geometry, Elsevier Science B.V., 2000. 
+2. Joseph O'Rourke. Computational Geometry in C, 2a Ed., Cambridge University Press, 
+
+1998.  
+3. J. E. Goodman and J. O'Rourke. Handbook of Discrete and Computational Geometry, 2a 
+
+Ed., CRC Press LLC, Boca Raton, FL; 2004. 
+
+
+
+205 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual ( ) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio ( ) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia ( ) 
+Proyectos de programacion ( ) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+ 
+  
+
+

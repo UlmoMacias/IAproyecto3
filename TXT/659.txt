@@ -1,0 +1,204 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+168 
+ 
+
+ 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Animacion por Computadora 
+
+Clave:  
+  
+
+Semestre: 
+7-8 
+
+Eje tematico: 
+Imagenes y Ambientes Virtuales 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Graficacion por Computadora 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivos generales:  
+Entender y usar algoritmos de interpolacion de movimiento de objetos, cinematica inversa y 
+adelantada. Familiarizarse con los principios basicos de la animacion basada en la fisica, 
+minimizacion de energia y animacion basada en constricciones. Conocer algoritmos para 
+modelar y animar fenomenos naturales como plantas, fluidos, nubes y fuego. Conocer las 
+fuentes bibliograficas sobre el tema de animacion por computadora y los eventos academicos 
+internacionales relevantes. 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 3 4 
+II Espacios y transformaciones 3 4 
+III Modelado poligonal 3 4 
+IV Animacion de figuras articuladas 3 4 
+V Captura de movimiento 3 4 
+VI Modelado de piel 3 4 
+VII Animacion facial 3 4 
+VIII Interpolacion y tecnicas basicas 3 4 
+IX Modelado de comportamientos 6 8 
+
+
+
+169 
+ 
+
+X Fluidos: liquidos y gases 6 8 
+XI Animacion con base en la fisica 6 8 
+XII Temas avanzados 6 8 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 Antecedentes. 
+I.2 Produccion de una animacion. 
+I.3 Animacion por cuadro y en tiempo real. 
+I.4 Breve historia de la animacion por computadora. 
+II Espacios y transformaciones 
+II.1 Pipeline grafico. 
+II.2 Coordenadas homogeneas y matrices de transformacion. 
+II.3 Composicion de transformaciones. 
+II.4 Representacion de orientaciones. 
+III Modelado poligonal 
+III.1 Antecedentes. 
+III.2 Nurbs. 
+IV Animacion de figuras articuladas 
+IV.1 Representacion de la figura humana virtual. 
+IV.2 Esqueletos. 
+IV.3 Modelado jerarquico. 
+IV.4 Cinematica directa. 
+IV.5 Cinematica inversa. 
+V Captura de movimiento 
+V.1 Tecnologias para la captura de movimiento. 
+V.2 Tecnicas para la captura de movimiento. 
+VI Modelado de piel 
+VI.1 Piel. 
+VI.2 Blending y maquinas de estado. 
+VII Animacion facial 
+VII.1 Anatomia. 
+VII.2 Sistema de Codificacion de Acciones Faciales (FACS). 
+VII.3 Modelado facial. 
+VII.4 Animacion facial. 
+VII.5 Morphing e interpolacion en 3D. 
+VII.6 Sincronizacion de voz y habla. 
+VIII Interpolacion y tecnicas basicas 
+VIII.1 Interpolacion. 
+VIII.2 Control de movimiento a lo largo de una curva. 
+
+
+
+170 
+ 
+
+VIII.3 Interpolacion de rotaciones representada por cuaterniones. 
+VIII.4 Seguimiento sobre trayectorias. 
+VIII.5 Sistemas con Key-Frames. 
+IX Modelado de comportamientos 
+IX.1 Agregando comportamiento. 
+IX.2 Expresiones y gestos. 
+IX.3 Simulacion de multitudes. 
+X Fluidos: liquidos y gases 
+X.1 Modelado de agua, nubes y fuego. 
+XI Animacion con base en la fisica 
+XI.1 Fundamentos de fisica. 
+XI.2 Resortes. 
+XI.3 Sistemas de particulas. 
+XI.4 Simulacion de cuerpos rigidos. 
+XII Temas avanzados 
+XII.1 Modelado de tela. 
+XII.2 Modelado de cabello. 
+ 
+
+Bibliografia basica: 
+1. Parent, Rick, Computer Animation: Algorithms and Techniques, 2ed. Elsevier Science y   
+
+Technology Books, 2008.  
+2. Watt, Alan and Policarpo, Fabio, 3D Games: Animation and Advanced Real Time 
+
+Rendering, Addison- Wesley, 1999.  
+3. Parke, Frederic I. and Waters, Keith, Computer Facial Animation, A.K. Peters, 2008. 
+Bibliografia complementaria: 
+1. Articulos de SIGGRAPH de la ACM. 
+2. Watt, Alan and Policarpo, Fabio, 3D Games: Animation and Advanced Real Time 
+
+Rendering, Addison- Wesley, 1999.  
+ 
+  
+
+
+
+171 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios ( ) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (X) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos ( ) 
+Participacion en clase (X) 
+Asistencia (X) 
+Proyectos de programacion (X) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+
+Perfil profesiografico: Egresado preferentemente de la Licenciatura en Ciencias de la 
+Computacion o matematico con especialidad en computacion con amplia experiencia de 
+programacion. Es conveniente que posea un posgrado en la disciplina. Con experiencia 
+docente. 
+ 
+  
+
+

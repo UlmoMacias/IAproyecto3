@@ -1,0 +1,169 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+199 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura: 
+Genomica Computacional 
+
+Clave:  
+  
+
+Semestre: 
+6-8 
+
+Eje tematico: 
+Bio-Informatica 
+
+No. Creditos:   
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+Asignatura con seriacion indicativa antecedente: Probabilidad I 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivo general:  
+Formar a estudiantes con conocimientos basicos de genomica  computacional para que esten 
+en condiciones de integrarse a un grupo de trabajo en el area. 
+Presentar los fundamentos matematicos detras de los algoritmos bioinformaticos mas utilizados 
+en el area de genomica, filogenia y transcriptomica.  
+Familiarizar a los estudiantes con el uso de dichos algoritmos.  
+Fomentar la critica, modificacion y creacion de nuevas herramientras de computo para la 
+biologia, para lo cual una comprension de los fundamentos biologicos es indispensable. 
+Dar una breve revision de algunos algoritmos inspirados en procesos biologicos.  
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Estructura y funcion de los acidos nucleicos 6 8 
+II Estructura y funcion de las proteinas 3 4 
+
+III Alineacion y busqueda de patrones en secuencias 
+moleculares 9 12 
+
+IV Firmas genomicas 6 8 
+V Biologia evolutiva computacional 9 12 
+VI Analisis de expresion genica 6 8 
+VII Computo bioinspirado 9 12 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+
+
+200 
+ 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Estructura y funcion de los acidos nucleicos 
+I.1 DNA. Duplicacion y transcripcion. Estructura primaria. Doble helice, nucleosoma y 
+
+supercoiling. 
+I.2 RNA. Traduccion y codigo genetico. Problemas computacionales asociados a la 
+
+estructura secundaria. 
+II Estructura y funcion de las proteinas 
+II.1 El problema del plegamiento. 
+II.2 Interaccion proteina-proteina. 
+III Alineacion y busqueda de patrones en secuencias moleculares 
+III.1 Enzimas de restriccion. 
+III.2 Algoritmos de alineacion. 
+IV Firmas genomicas 
+IV.1 Firmas estructurales. 
+IV.2 El juego del caos. 
+V Biologia evolutiva computacional 
+V.1 Comparacion entre genomas. 
+V.2 Filogenias. 
+VI Analisis de expresion genica 
+VI.1 Microarreglos. 
+VII Computo bioinspirado 
+VII.1 Computo evolutivo. 
+VII.2 Computo neuronal. 
+VII.3 Computo con enjambres. 
+VII.4 Computo con DNA. 
+
+Bibliografia basica: 
+1. Hui Liu B., Shi L.M., Statistical Genomics and Bioinformatics, Taylor and Francis Inc., 2010.  
+2. Heath, L.S., Ramakrishnan, N., The Problem Solving Handbook for Computational Biology 
+
+and Bioinformatics, Springer-Verlag, 2010.  
+3. Chetty, M., Charleston, M., Microarrays and Gene Expression in Bioinformatics, John Wiley, 
+
+2010.   
+4. Michael Gromiha, M., Penrose, D., Protein Bioinformatics : From Sequence to Function, 
+
+Elsevier, 2010.  
+5. H.J. Bockenhauer, D. Bongartz. Algorithmic Aspects of Bioinformatics, Springer-Verlag, 
+
+2007. 
+Bibliografia complementaria: 
+1. Michael Gromiha, M., Penrose, D., Protein Bioinformatics : From Sequence to Function, 
+
+Elsevier, 2010.  
+2. H.J. Bockenhauer, D. Bongartz. Algorithmic Aspects of Bioinformatics, Springer-Verlag, 
+
+2007. 
+
+
+
+201 
+ 
+
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (X) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales ( ) 
+Examen final escrito ( ) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia ( ) 
+Proyectos de programacion (X) 
+Proyecto final ( ) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Matematico, fisico, actuario o Licenciado en Ciencias de la Computacion, especialista en el 
+area de la asignatura a juicio del comite de asignacion de cursos. Con experiencia docente. 
+ 
+
+  
+
+

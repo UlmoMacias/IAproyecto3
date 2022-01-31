@@ -1,0 +1,293 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+139 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+rograma de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Administracion de Sistemas Unix/Linux 
+
+Clave:  
+  
+
+Semestre: 
+7-8 
+
+Eje tematico: 
+Organizacion de Sistemas de Computo 
+
+No. Creditos:   
+12 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+8 128 2 6 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+ 
+Asignatura con seriacion indicativa antecedente: Sistemas Operativos 
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna 
+Objetivos generales:  
+Conocer el sistema operativo Linux, los elementos necesarios para su  instalacion, uso, 
+mantenimiento y actualizacion; asi como los elementos teoricos relativos a los sistemas 
+operativos y redes TCP/IP. Instalar, mantener y monitorear equipos que proporcionen 
+diferentes servicios en una red.    
+ 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Conceptos de sistemas operativos y de sistemas Unix/Linux 2 6 
+II Revision de Linux 1 3 
+III Documentacion de Linux 1 3 
+IV Instalacion y configuracion basica de Linux 1 3 
+V Manejo de usuarios 1 3 
+VI Manejo de procesos en Linux 1 3 
+VII Conceptos de Redes TCP/IP y su aplicacion en Linux 1 3 
+
+VIII Instalacion, configuracion y actualizacion de aplicaciones Linux 1 3 
+
+IX Revision del proceso de arranque de un sistema Linux 1 3 
+
+
+
+140 
+ 
+
+X Elementos de programacion en C, Bash y AWK 3 9 
+XI Manejo de daemons en Linux 2 6 
+XII Conceptos de Sistemas de Archivos 1 3 
+XIII Manipulacion basica del Kernel de Linux 2 6 
+XIV Manejo de archivos compartidos 1 3 
+XV Linux vs. Windows 1 3 
+XVI Virtualizacion: Linux, Windows y Solaris 2 6 
+XVII Control remoto de escritorios y sistemas 1 3 
+XVIII Configuracion de un sistema de autenticacion centralizado 1 3 
+XIX Configuracion de servicios 2 6 
+XX Esquemas de Seguridad Basicos 2 6 
+XXI Manejo de respaldos 1 3 
+XXII Distribuciones live de Linux 1 3 
+XXIII Introduccion al uso y manejo de Clusters 2 6 
+
+Total de horas: 32 96 
+Suma total de horas: 128 
+
+ 
+Contenido tematico 
+Unidad Tema 
+I Conceptos de sistemas operativos y de sistemas Unix/Linux 
+I.1 Conceptos de sistemas operativos. 
+I.2 Caracteristicas de los sistemas tipo POSIX. 
+I.3 Sistemas open source y principales distribuciones Linux. 
+I.4 Comparacion con otros sistemas: Solaris, Windows, MacOS. 
+II Revision de Linux 
+II.1 Comandos de usuario. 
+II.2 Nomenclatura de archivos. 
+II.3 Manipulacion de permisos de archivos, propietarios y grupos en Linux. 
+II.4 Caracteres comodines, filtros y redireccionamientos. 
+II.5 Manejo de editores (nano, vi y emacs). 
+III Documentacion de Linux 
+III.1 El manual de Linux. 
+III.2 Fuentes en Internet. 
+III.3 Creacion de paginas de manual. 
+IV Instalacion y configuracion basica de Linux 
+IV.1 Revision de diversos metodos de instalacion. 
+IV.2 Creacion y manejo de particiones. 
+IV.3 Configuracion de arranque. 
+IV.4 Arranque dual. 
+IV.5 Configuracion de dispositivos. 
+IV.6 Creacion y manipulacion de archivos RPM y DEB. 
+V Manejo de usuarios 
+V.1 Creacion y manejo de cuentas de usuario. 
+V.2 Manejo de cuotas. 
+
+
+
+141 
+ 
+
+V.3 Aislamiento de cuentas. 
+VI Manejo de procesos en Linux 
+VI.1 Procesos en primero y segundo plano. 
+VI.2 Manipulacion y monitoreo. 
+VII Conceptos de Redes TCP/IP y su aplicacion en Linux 
+VII.1 Conceptos de redes. 
+VII.2 TCP/IP. 
+VII.3 Configuracion de redes en Linux. 
+VII.4 Redes virtuales. 
+VIII Instalacion, configuracion y actualizacion de aplicaciones Linux 
+VIII.1 Instalacion a partir de codigo fuente. 
+VIII.2 Uso de herramientas de instalacion y actualizacion de software. 
+IX Revision del proceso de arranque de un sistema Linux 
+IX.1 El proceso de arranque de Linux. 
+IX.2 Uso de modos de arranque para mantenimiento y rescate. 
+IX.3 Configuracion de niveles de ejecucion. 
+X Elementos de programacion en C, Bash y AWK 
+X.1 Estructuras basicas de programacion. 
+X.2 Manipulacion de archivos. 
+X.3 Expresiones regulares. 
+X.4 Aplicacion practica: analisis de bitacoras. 
+X.5 Aplicacion practica: desarrollo de una aplicacion cliente-servidor mediante sockets 
+
+de Berkeley. 
+XI Manejo de daemons en Linux 
+XI.1 Daemons mas comunes: crond, anacron, syslog, de correo electronico, xinetd. 
+XI.2 Manipulacion de daemons. 
+XI.3 Scripts para manejo de daemons. 
+XII Conceptos de Sistemas de Archivos 
+XII.1 Descripcion de un sistema de archivos. 
+XII.2 Revision de los sistemas FAT-XX y NTFS. 
+XII.3 Revision de Extended2 y Extended3. 
+XII.4 Otros sistemas de archivos. 
+XIII Manipulacion basica del Kernel de Linux 
+XIII.1 Revision de las principales caracteristicas y funciones del Kernel. 
+XIII.2 Compilacion del Kernel. 
+XIII.3 Aplicacion de parches. 
+XIV Manejo de archivos compartidos 
+XIV.1 Configuracion de NFS. 
+XV Linux vs. Windows 
+XV.1 Archivos e impresoras compartidas con Samba. 
+XV.2 Controlador de dominio primario basado en Linux. 
+XVI Virtualizacion: Linux, Windows y Solaris 
+XVII Control remoto de escritorios y sistemas 
+XVIII Configuracion de un sistema de autenticacion centralizado 
+
+
+
+142 
+ 
+
+XIX Configuracion de servicios 
+XIX.1 Servidor de impresion. 
+XIX.2 Servidor Web. 
+XIX.3 Servidor de bases de datos. 
+XIX.4 Servidor de correo. 
+XIX.5 Servidor de DHCP y DNS. 
+XX Esquemas de Seguridad Basicos 
+XX.1 Implementacion de mecanismos de seguridad. 
+XX.2 Uso de herramientas de monitoreo y seguridad. 
+XX.3 Implementacion de filtrado de paquetes (firewalls). 
+XX.4 Criptografia y autenticacion. 
+XX.5 Analisis de bitacoras (registros de actividad del sistema). 
+XXI Manejo de respaldos 
+XXI.1 Uso de archivos para respaldos. 
+XXI.2 Uso de CDS, DVDS y cintas. 
+XXI.3 Automatizacion de respaldos. 
+XXI.4 Manejo de arreglos de discos. 
+XXII Distribuciones live de Linux 
+XXIII Introduccion al uso y manejo de Clusters 
+Bibliografia basica: 
+1. Nemeth, E., Snyder, G., Hein T.R., Whaley, B, UNIX and Linux System Administration 
+
+Handbook (4th Edition), Prentice Hall, ISBN-978-0-13-148005-6, 2010.  
+2. Campi, N., Bauer, N., Automating Linux and Unix System Administration, Apress, ISBN-
+
+978-1-4302-1059-7, 2009. 
+3. Adelstein, T., Lubanovic, T., Linux System Administration, O'Reilly Media, ISBN-978-0-596-
+
+00952-6, 2007. 
+4. Siever, E., Figgins, S., Love, R., Robbins, A., Linux in a Nutshell, Sixth Edition, O'Reilly 
+
+Media, ISBN-978-0-596-15448-6, 2009.  
+5. Robbins, A., Bash Pocket Reference, O'Reilly Media, ISBN-978-1-449-38788-4, 2010. 
+6. Schroder, C., Linux Networking Cookbook, O'Reilly Media, ISBN-978-0-596-10248-7, 2007.  
+7. Rash, M., Linux Firewalls, O'Reilly Media, ISBN-978-1-59327-141-1, 2007.  
+8. Carter, G., Ts, J., Eckstein, R., (2007) .Using Samba, Third Edition, O'Reilly Media, ISBN-
+
+978-0-596-00769-0, 2007.  
+9. Noonan, N., Dubrawsky, I. Firewall Fundamentals, Cisco Press, ISBN-978-1-587-05221-7, 
+
+2006.  
+10. Hunt, C., TCP/IP Network Administration, 3rd Edition, O'Reilly Media, ISBN-978-0-596-
+
+002978, 2002.  
+11. Terpstra, J.H., Vernooij, J., Official Samba-3 HOWTO and Reference Guide, The, Second 
+
+Edition, Prentice Hall, ISBN-978-0-13-188222-5, 2005.  
+12. Kurose, F., Ross, K., Computer Networking: A Top-Down Approach (5th Edition), 
+
+Pearson/Addison Wesley, ISBN-978-0-13-607967-5, 2009.  
+
+
+
+143 
+ 
+
+13. Silverschatz, Abraham; Galvin, Peter B; Gagne, Gregory, Operating System Concepts , 
+Essentials, Wiley, 2011.   
+
+14. Howes, Timothy A., Smith, Marc C., Understanding and Deploying LDAP Directory 
+Services, 2/e, Addison-Wesley Professional, 2003, ISBN-978-0-672-32316-4. 
+
+Bibliografia complementaria: 
+1. Peek, J., Powers, S., O'Reilly, T., Loukides, M., Unix Power Tools, 3rd Edition, O'Reilly  
+
+Media, Inc, ISBN-978-0-596-00330-2, 2002.  
+2. Smith, R., Linux Power Tools, SYBEX, ISBN-978-0-782-14226-6, 2003.  
+3. Newham, C., Learning the bash Shell, Third Edition, O'Reilly Media, Inc., ISBN-978-0-596-
+
+00965-6, 2005. 
+4. Turnbull, J., Lieverdink, P., Matotek D., Pro Linux System Administration, Apress, ISBN-978-
+
+1-430-21912-5, 2009.  
+5. Van Vugt, S., Beginning the Linux Command Line, Apress, ISBN-978-1-430-21889-0, 2009.  
+6. Butcher, M., Mastering OpenLDAP: Configuring, Securing and Integrating Directory 
+
+Services, Packt Publishing, 2007, ISBN-978-1-847-19102-1  
+7. Barret, Daniel J., Silverman, Richard E., Byrnes, Robert G., Linux Security Cookbook, 
+
+O'Reilly Media, Inc., 2003, ISBN-978-0-596-00391-3 
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual ( ) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios ( ) 
+Lecturas obligatorias ( ) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (X) 
+Practicas de campo ( ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito ( ) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio ( ) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia (X) 
+Proyectos de programacion (X) 
+Proyecto final (X) 
+Seminario ( ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o matematico con 
+especialidad en computacion con amplia experiencia de programacion. Es conveniente que 
+posea un posgrado en la disciplina. Con experiencia docente. 
+ 
+
+

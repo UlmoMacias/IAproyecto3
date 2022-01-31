@@ -1,0 +1,230 @@
+A DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+
+Facultad de Ciencias 
+
+Programa de la asignatura 
+
+ 
+
+Denominacion de la asignatura:  
+
+Analisis de Algoritmos  
+
+Clave:  
+
+1532 
+
+Semestre:  
+
+5 
+
+Eje tematico: 
+
+Computacion Teorica 
+
+No. Creditos:   
+
+10 
+
+Caracter: Obligatoria Horas 
+Horas por 
+semana 
+
+Total de 
+Horas  
+
+Tipo: Teorica 
+Teoria: Practica: 
+
+6 96 4 2 
+
+Modalidad: Curso Duracion del programa: Semestral 
+
+ 
+
+ 
+Asignatura con seriacion obligatoria antecedente: Matematicas para Ciencias Aplicadas I; 
+Algebra Superior II; Graficas y Juegos 
+ 
+Asignatura con seriacion obligatoria subsecuente: Criptografia y Seguridad; Computacion 
+Concurrente 
+ 
+Asignatura con seriacion indicativa antecedente: Probabilidad I; Algebra Lineal I; Modelado 
+y Programacion; 
+ 
+Asignatura con seriacion indicativa subsecuente:  Complejidad Computacional; 
+Compiladores; Inteligencia Artificial; Sistemas Operativos 
+
+ 
+ 
+
+Objetivo general:  
+
+Conocer para aplicar los conceptos de complejidad, justificacion, analisis y diseno de algoritmos. 
+Para desarrollar estos temas se revisan algoritmos de busqueda, ordenamiento y algoritmos que 
+involucran graficas. 
+
+  
+
+
+
+Indice tematico 
+
+Unidad Temas  
+Horas 
+
+Teoricas Practicas 
+I Conceptos basicos 7 3 
+II Justificacion y diseno de algoritmos 13 7 
+III Algoritmos que involucran secuencias y conjuntos 20 10 
+IV Algoritmos para teoria de graficas 12 6 
+V Temas selectos 12 6 
+
+Total de horas: 64 32 
+
+Suma total de horas: 96 
+
+ 
+
+Contenido tematico 
+
+Unidad Tema 
+
+I Conceptos basicos 
+
+I.1 Problemas y algoritmos. 
+
+I.2 Tipos de problemas. 
+
+I.3 Complejidad. 
+
+I.4 Modelos de computo. 
+
+II Justificacion y diseno de algoritmos 
+
+II.1 Notacion asintotica. 
+
+II.2 Algoritmos iterativos. 
+
+II.3 Algoritmos recursivos. 
+
+II.4 Diseno de algoritmos. 
+
+III Algoritmos que involucran secuencias y conjuntos 
+
+III.1 Diccionarios. 
+
+III.2 Arboles binarios. 
+
+III.3 Busquedas. 
+
+III.4 Ordenamientos. 
+
+III.5 Cota minima de ordenamiento. 
+
+IV Algoritmos para teoria de graficas 
+
+IV.1 Arboles generadores. 
+
+IV.2 Arboles generadores de peso minimo. 
+
+IV.3 La ruta mas corta. 
+
+IV.4 Teoria de redes. 
+
+V Temas selectos 
+
+V.1 Algoritmos deterministas y no-deterministas. 
+
+V.2 Algoritmos para apareamiento de cadenas. 
+
+V.3 Geometria computacional. 
+
+V.4 Algoritmos de aproximacion. 
+
+V.5 Calendarizacion. 
+
+ 
+
+
+
+Bibliografia basica: 
+
+1. Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest y Clifford Stein, Introduction to 
+Algorithms. MIT Press, Third Edition, 2009. 
+
+2. Jon Kleinberg y Eva Tardos, Algorithm Design. Addison Wesley, 2005. 
+
+Bibliografia complementaria: 
+
+1. Steven S. Skiena, The Algorithm Design Manual. Springer, 2nd Edition, 2008. 
+
+2. Sanjoy Dasgupta, Christos Papadimitriou y Umesh Vazirani, Algorithms. McGraw-Hill, 2006.   
+
+3. Henry S. Warren. Hacker's Delight. Addison-Wesley Professional, 2002. 
+
+4. Ronald L. Graham, Donald E. Knuth y Oren Patashnik, Concrete Mathematics: A 
+Foundation for Computer Science. Addison-Wesley Professional, 2nd Edition, 1994. 
+
+ 
+
+Sugerencias didacticas: 
+
+Exposicion oral (X) 
+
+Exposicion audiovisual (  ) 
+
+Ejercicios dentro de clase (X) 
+
+Ejercicios fuera del aula (  ) 
+
+Seminarios (  ) 
+
+Lecturas obligatorias (  ) 
+
+Trabajo de investigacion (  ) 
+
+Practicas de taller o laboratorio (X) 
+
+Practicas de campo (  ) 
+
+ 
+Otras: __________________________ 
+ 
+
+Metodos  de evaluacion:  
+
+Examenes parciales (X) 
+
+Examen final escrito (  ) 
+
+Trabajos y tareas fuera del aula (X) 
+
+Exposicion de seminarios por los alumnos (  ) 
+
+Participacion en clase (X) 
+
+Asistencia (  ) 
+
+Seminario (  ) 
+
+ 
+Otras: Practicas de laboratorio. Proyectos de 
+programacion. 
+  
+
+Perfil profesiografico:  
+
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o Matematico con 
+especialidad en Computacion. Es conveniente que posea un posgrado en la disciplina. Con 
+experiencia docente. 
+
+  
+
+
+
+ 
+
+

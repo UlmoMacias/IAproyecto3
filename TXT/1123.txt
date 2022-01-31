@@ -1,0 +1,188 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+18 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Estructuras Discretas 
+
+Clave:  
+ 
+
+Semestre:  
+1 
+
+Eje tematico: 
+Estructuras Discretas 
+
+No. Creditos:   
+10 
+
+Caracter: Obligatoria Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+
+ 
+ 
+Asignatura con seriacion obligatoria antecedente: Ninguna 
+ 
+Asignatura con seriacion obligatoria subsecuente: Logica Computacional; Automatas y 
+Lenguajes Formales; Organizacion y Arquitectura de Computadoras 
+ 
+Asignatura con seriacion indicativa antecedente: Ninguna 
+ 
+Asignatura con seriacion indicativa subsecuente: Estructura de Datos 
+Objetivo general:  
+Modelar matematicamente enunciados que se refieren a individuos o conjuntos de valores, 
+demostrando a su vez la correctud de las aseveraciones que se hacen de ellos. El modelado 
+estara presente en todo el desarrollo de la vida profesional del egresado de esta licenciatura. 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  Horas Teoricas Practicas 
+I Introduccion 3 4 
+II Logica matematica 18 24 
+III Induccion y recursion 12 16 
+IV Relaciones 15 20 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+  
+
+
+
+19 
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Introduccion 
+I.1 ?Que son las estructuras discretas? 
+I.2 Panorama de las matematicas discretas. 
+
+I.3 Introduccion a los lenguajes formales: expresiones y mecanismos para su 
+descripcion (gramaticas y arboles de derivacion). 
+
+II Logica matematica 
+
+II.1 Logica proposicional: sintaxis, semantica, equivalencia logica, analisis de 
+argumentos correctos (interpretaciones, derivaciones y/o tableaux semanticos). 
+
+II.2 Aplicaciones a circuitos digitales. Componentes basicos. Minimizacion de funciones 
+booleanas. Contadores. Multiplexores. 
+
+II.3 Introduccion a la logica de predicados: sintaxis, especificacion formal, semantica 
+informal en micromundos. 
+
+III Induccion y recursion 
+III.1 Los numeros naturales: axiomas de Peano, principios de induccion. 
+
+III.2 
+Definiciones recursivas: definicion de conjuntos y funciones mediante uso de 
+patrones, ejemplos con estructuras de datos no numericas (listas, arboles, 
+expresiones logicas, etc.). 
+
+III.3 Induccion estructural: principios de induccion estructural, dualidad entre induccion y 
+recursion, ejemplos de demostracion en diversas estructuras. 
+
+IV Relaciones 
+IV.1 Definiciones basicas, relaciones binarias y n-arias, aplicaciones. 
+
+IV.2 Relaciones binarias: propiedades (reflexividad, simetria, transitividad, etc.), 
+representacion mediante matrices y digraficas. 
+
+IV.3 Operaciones con relaciones binarias: operaciones conjuntistas, composicion, 
+cerraduras (algoritmo de Warshall). 
+
+IV.4 Relaciones de orden: ordenes parciales y lineales, ordenacion topologica, 
+elementos minimales y maximales, reticulas. 
+
+ 
+Bibliografia basica: 
+1. Favio E. Miranda, Elisa Viso, Matematicas Discretas. Las Prensas de Ciencias, 2010.  
+2. Dossey, J. A.; Otto, A. D.  Spence, L. E.; Vanden Eynden, C., Discrete Mathematics, fifth 
+
+edition. Pearson/Addison-Wesley, 2006. 
+Bibliografia complementaria: 
+3. Rosen, Kenneth H., Discrete Mathematics and Its Applications, sixth edition, McGraw-Hill, 
+
+2007.  
+4.  Grassmann, W. K.; Tremblay, J-P., Logic and Discrete Mathematics, A Computer Science 
+
+Perspective, Prentice-Hall, 1996. 
+5.  Dossey, J. A.; Otto, A. D.  Spence, L. E.; Vanden Eynden, C., Discrete Mathematics, fifth 
+
+edition. Pearson/Addison-Wesley, 2006. 
+6.  Gersting J.L., Mathematical Structures for Computer Science, 5th edition, W.H. Freeman 
+
+2003. 
+7.  Gries, D., Schneider, F.B., A Logical Approach to Discrete Math, Texts and Monographs in 
+
+
+
+20 
+ 
+
+Computer Science, Springer-Verlag, 1994. 
+
+Sugerencias didacticas: 
+Exposicion oral ( X ) 
+Exposicion audiovisual (    ) 
+Ejercicios dentro de clase ( X ) 
+Ejercicios fuera del aula ( X ) 
+Seminarios (    ) 
+Lecturas obligatorias (    ) 
+Trabajo de investigacion (    ) 
+Practicas de taller o laboratorio ( X ) 
+Practicas de campo (    ) 
+ 
+Otras: Se sugiere complementar ciertos 
+aspectos del curso mediante el desarrollo 
+de proyectos de programacion 
+relacionados en algun lenguaje funcional. 
+ 
+
+Metodos  de evaluacion:  
+Examenes parciales ( X ) 
+Examen final escrito (    ) 
+Trabajos y tareas fuera del aula 
+ 
+
+(    ) 
+ Exposicion de seminarios por los alumnos (    ) 
+
+Participacion en clase (    ) 
+Asistencia (    ) 
+Seminario (    ) 
+ 
+Otras: Practicas de laboratorio 
+  
+
+Perfil profesiografico:  
+Egresado preferentemente de la Licenciatura en Ciencias de la Computacion o Matematico con 
+especialidad en Computacion. Es conveniente que posea un posgrado en la disciplina. Con 
+experiencia docente. 
+ 
+  
+
+

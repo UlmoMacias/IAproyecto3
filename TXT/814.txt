@@ -1,0 +1,171 @@
+el plan y programa de estudios de la licenciatura en >Ciencias de la Computacion
+
+
+311 
+ 
+
+ 
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO 
+
+Licenciatura en Ciencias de la Computacion 
+Facultad de Ciencias 
+
+Programa de la asignatura 
+ 
+
+Denominacion de la asignatura:  
+Semantica y Verificacion 
+
+Clave:  
+0814 
+
+Semestre: 
+7-8 
+
+Eje tematico: 
+Lenguajes de Programacion 
+
+No. Creditos:  
+10 
+
+Caracter: Optativa Horas Horas por semana 
+Total de 
+Horas  
+
+Tipo: Teorico-Practica Teoria: Practica: 
+7 112 3 4 
+
+Modalidad: Curso Duracion del programa: Semestral 
+ 
+ 
+
+ 
+Asignatura con seriacion indicativa antecedente: Lenguajes de Programacion  
+ 
+Asignatura con seriacion indicativa subsecuente: Ninguna  
+Objetivos generales:  
+Conocer y aplicar los diferentes metodos para la especificacion formal de la semantica de los 
+lenguajes de programacion asi como su verificacion. Presentar la semantica operacional como 
+medio para formalizar la ejecucion de un programa, la semantica denotacional que permite 
+especificar formalmente que calcula un programa y la semantica axiomatica que proporciona 
+una base para los programas de verificacion. Revisar la semantica y la verificacion de 
+programas concurrentes. 
+ 
+ 
+
+Indice tematico 
+
+Unidad Temas  
+Horas 
+
+Teoricas Practicas 
+I Introduccion al estudio formal de la semantica 3 4 
+II Semantica operacional 12 16 
+III Semantica denotacional 12 16 
+IV Semantica axiomatica 12 16 
+V Semantica y verificacion de programas concurrentes 9 12 
+
+Total de horas: 48 64 
+Suma total de horas: 112 
+
+ 
+  
+
+
+
+312 
+ 
+
+Contenido tematico 
+Unidad Tema 
+I Introduccion al estudio formal de la semantica 
+I.1 Motivacion. 
+I.2 Conceptos basicos. 
+I.3 Sintaxis vs. Semantica. 
+I.4 Los problemas de la descripcion informal de la semantica de un lenguaje de 
+
+programacion. 
+I.5 Diferentes tipos de semantica y la relacion entre ellas. 
+I.6 Un lenguaje imperativo simple: WHILE. 
+II Semantica operacional 
+II.1 Introduccion. 
+II.2 Semantica natural. 
+II.3 Semantica operacional estructurada. 
+II.4 Extensiones del lenguaje imperativo simple. 
+II.5 Semantica operacional de nuevas estructuras sintacticas. 
+II.6 Bloques y procedimientos. 
+II.7 Maquina abstracta. 
+II.8 Tecnicas alternativas de prueba. 
+III Semantica denotacional 
+III.1 Especificacion. 
+III.2 Teoria de puntos fijos. 
+III.3 Funciones continuas y completud de ordenes parciales. 
+III.4 Equivalencia entre semanticas. 
+III.5 Teoria de dominios. 
+III.6 Ambientes y memoria. 
+IV Semantica axiomatica 
+IV.1 Introduccion. 
+IV.2 Logica de Hoare. 
+IV.3 Verificacion de programas (Correctud parcial). 
+IV.4 Correctud y completud de la logica de Hoare. 
+IV.5 Correctud completa de un programa. 
+V Semantica y verificacion de programas concurrentes 
+V.1 Programas paralelos: sintaxis, semantica y verificacion. 
+V.2 Programas distribuidos: sintaxis, semantica y verificacion. 
+ 
+
+Bibliografia basica: 
+1. Nielson H. R., Nielson F., Semantics with Applications: An Appetizer, Springer, 2007. 
+2. Winskel G., The Formal Semantics of Programming Languages, The MIT Press, 1997. 
+Bibliografia complementaria: 
+1. Tennent, R. D., Semantics of Programming Languages, Prentice-Hall, 1991. 
+
+
+
+313 
+ 
+
+2. Gunter, C., Semantics of Programming Languages: structures and techniques, MIT Press, 
+1992. 
+
+3. Hennessy, M., The Semantics of Programming Languages: An Elementary Introduction, J. 
+Wiley and Sons Inc., 1990. 
+
+ 
+Sugerencias didacticas: 
+Exposicion oral (X) 
+Exposicion audiovisual (   ) 
+Ejercicios dentro de clase (X) 
+Ejercicios fuera del aula (X) 
+Seminarios (X) 
+Lecturas obligatorias (X) 
+Trabajo de investigacion (X) 
+Practicas de taller o laboratorio (   ) 
+Practicas de campo (   ) 
+ 
+Otras: __________________________ 
+ 
+
+Metodos de evaluacion:  
+Examenes parciales (X) 
+Examen final escrito (   ) 
+Trabajos y tareas fuera del aula (X) 
+Practicas de laboratorio (   ) 
+Exposicion de seminarios por los alumnos (X) 
+Participacion en clase (X) 
+Asistencia (   ) 
+Proyectos de programacion (X) 
+Proyecto final (   ) 
+Seminario (   ) 
+ 
+Otras: _____________________________ 
+  
+
+Perfil profesiografico:  
+Matematico, fisico, actuario o Licenciado en Ciencias de la Computacion, especialista en el 
+area de la asignatura a juicio del comite de asignacion de cursos. Con experiencia docente. 
+
+ 
+  
+
+
